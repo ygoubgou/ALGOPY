@@ -1,0 +1,41 @@
+marque_Citroën
+marque_Dacia
+marque_Mercedes-Benz
+marque_Nissan
+marque_Peugeot
+marque_Toyota
+modele_2008
+modele_308 SW
+modele_Arkana
+modele_C-HR
+modele_C3
+modele_C4 X
+modele_Captur
+modele_Classe A
+modele_Classe C
+modele_GLA
+modele_Megane
+modele_Megane E Tech
+modele_Megane R.S.
+modele_Qashqai
+modele_Sandero
+modele_Sandero Stepway
+modele_Spring
+modele_Yaris
+modele_e-2008
+annee
+kilometrage
+energie_Diesel
+energie_hybride
+nombre chevaux
+région_Auvergne-Rhône-Alpes
+région_Bourgogne-Franche-Comté
+région_Bretagne
+région_Centre-Val de Loire
+région_Grand Est
+région_Hauts-de-France
+région_Normandie
+région_Occitanie
+région_Pays de la Loire
+région_Provence-Alpes-Côte d'Azur
+région_Île-de-France

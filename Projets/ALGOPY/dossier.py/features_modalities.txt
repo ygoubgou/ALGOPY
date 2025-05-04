@@ -1,0 +1,8 @@
+marque (String) : Renault,Mercedes-Benz,Dacia,Citroën,Toyota,Peugeot,Nissan
+modele (String) : Megane E Tech,Megane R.S.,2008,C3,Megane,Sandero,e-2008,Qashqai,C-HR,Arkana,Spring,Classe A,308 SW,Sandero Stepway,GLA,C4 X,Clio,Captur,Classe C,Yaris
+prix (Int64) 
+annee (Int64) 
+kilometrage (Int64) 
+energie (String) : hybride,essence,Diesel
+nombre chevaux (Int64) 
+région (String) : Normandie,Nouvelle-Aquitaine,Provence-Alpes-Côte d'Azur,Centre-Val de Loire,Auvergne-Rhône-Alpes,Grand Est,Pays de la Loire,Hauts-de-France,Bretagne,Occitanie,Île-de-France,Bourgogne-Franche-Comté

@@ -1,0 +1,496 @@
+marque,modele,prix,annee,kilometrage,energie,nombre chevaux,région
+Renault,Captur,24690,2022,48980,essence,150,Île-de-France
+Renault,Captur,25989,2025,7500,essence,145,Pays de la Loire
+Dacia,Spring,19900,2023,70635,Diesel,65,Île-de-France
+Renault,Clio,20990,2022,21648,essence,145,Île-de-France
+Renault,Clio,47900,2024,21000,hybride,140,Normandie
+Renault,Clio,18290,2023,3119,essence,145,Nouvelle-Aquitaine
+Renault,Captur,21900,2023,16592,essence,160,Île-de-France
+Renault,Clio,24990,2024,5000,Diesel,145,Occitanie
+Renault,Clio,15990,2020,51000,essence,140,Occitanie
+Mercedes-Benz,Classe C,22890,2024,14114,essence,300,Grand Est
+Renault,Clio,20990,2024,15967,essence,145,Occitanie
+Renault,Captur,17390,2024,4385,essence,145,Île-de-France
+Renault,Captur,28880,2021,78630,essence,145,Provence-Alpes-Côte d'Azur
+Renault,Captur,60990,2024,6913,essence,160,Île-de-France
+Renault,Captur,27500,2024,14036,Diesel,160,Pays de la Loire
+Renault,Clio,23480,2023,26736,essence,145,Nouvelle-Aquitaine
+Renault,Clio,16290,2023,20919,essence,130,Auvergne-Rhône-Alpes
+Renault,Clio,19990,2021,58435,Diesel,145,Île-de-France
+Peugeot,e-2008,27990,2019,13196,essence,136,Provence-Alpes-Côte d'Azur
+Renault,Arkana,24990,2022,47422,essence,140,Centre-Val de Loire
+Renault,Captur,21990,2022,49250,essence,145,Provence-Alpes-Côte d'Azur
+Peugeot,e-2008,17990,2022,129036,Diesel,136,Nouvelle-Aquitaine
+Renault,Megane,24590,2024,7739,essence,140,Auvergne-Rhône-Alpes
+Renault,Captur,23990,2023,21670,essence,145,Centre-Val de Loire
+Renault,Clio,22200,2023,24552,essence,140,Pays de la Loire
+Renault,Arkana,18480,2021,68206,hybride,140,Bourgogne-Franche-Comté
+Renault,Captur,27990,2023,8123,hybride,145,Provence-Alpes-Côte d'Azur
+Peugeot,2008,30900,2024,9503,essence,130,Grand Est
+Peugeot,e-2008,18990,2020,90269,essence,136,Provence-Alpes-Côte d'Azur
+Renault,Megane,21500,2024,10601,essence,115,Nouvelle-Aquitaine
+Renault,Megane,21990,2021,60021,essence,160,Centre-Val de Loire
+Nissan,Qashqai,30990,2023,25000,essence,158,Nouvelle-Aquitaine
+Renault,Captur,15290,2021,42332,essence,160,Bourgogne-Franche-Comté
+Renault,Megane,22450,2021,60080,essence,140,Centre-Val de Loire
+Renault,Arkana,12290,2023,36139,essence,145,Île-de-France
+Renault,Captur,18990,2024,23321,Diesel,145,Île-de-France
+Renault,Captur,19990,2023,41293,essence,160,Provence-Alpes-Côte d'Azur
+Nissan,Qashqai,38791,2024,10000,essence,190,Île-de-France
+Renault,Captur,16490,2024,16194,Diesel,160,Île-de-France
+Renault,Captur,18990,2024,14000,essence,145,Île-de-France
+Peugeot,e-2008,22490,2021,17500,essence,136,Occitanie
+Renault,Megane,24450,2025,3000,Diesel,115,Nouvelle-Aquitaine
+Renault,Megane E Tech,19990,2023,54624,Diesel,160,Auvergne-Rhône-Alpes
+Renault,Megane,22990,2023,21507,essence,115,Nouvelle-Aquitaine
+Renault,Captur,23690,2024,18295,essence,145,Provence-Alpes-Côte d'Azur
+Renault,Clio,14990,2021,39194,essence,140,Nouvelle-Aquitaine
+Citroën,C3,26990,2022,24572,essence,113,Île-de-France
+Renault,Captur,17390,2021,59366,essence,160,Bretagne
+Renault,Captur,16690,2021,75451,Diesel,115,Bourgogne-Franche-Comté
+Renault,Clio,15990,2020,71831,hybride,140,Provence-Alpes-Côte d'Azur
+Renault,Captur,21990,2022,34413,essence,145,Bourgogne-Franche-Comté
+Renault,Clio,18500,2022,40544,essence,145,Grand Est
+Dacia,Sandero,17500,2023,31507,essence,90,Bourgogne-Franche-Comté
+Renault,Captur,18990,2024,16264,essence,160,Nouvelle-Aquitaine
+Renault,Captur,23990,2023,10437,essence,160,Nouvelle-Aquitaine
+Renault,Megane E Tech,29600,2021,85532,essence,160,Auvergne-Rhône-Alpes
+Renault,Megane,24500,2024,10418,Diesel,115,Occitanie
+Renault,Captur,16290,2020,61819,essence,160,Nouvelle-Aquitaine
+Renault,Megane,28750,2024,17500,essence,115,Auvergne-Rhône-Alpes
+Renault,Captur,27480,2021,47078,Diesel,145,Île-de-France
+Mercedes-Benz,Classe C,27790,2021,31323,hybride,300,Grand Est
+Renault,Clio,19290,2022,69500,Diesel,140,Occitanie
+Renault,Captur,23990,2023,32418,essence,145,Île-de-France
+Renault,Megane,28990,2024,8000,essence,115,Hauts-de-France
+Dacia,Sandero,11750,2021,17146,Diesel,90,Bretagne
+Renault,Megane,31890,2024,10714,Diesel,115,Nouvelle-Aquitaine
+Renault,Captur,23490,2023,13969,essence,145,Provence-Alpes-Côte d'Azur
+Renault,Megane,23950,2024,32667,Diesel,115,Nouvelle-Aquitaine
+Renault,Arkana,18790,2021,23850,essence,140,Pays de la Loire
+Renault,Captur,13490,2021,73740,essence,145,Pays de la Loire
+Peugeot,e-2008,27990,2022,47868,essence,136,Nouvelle-Aquitaine
+Renault,Arkana,20999,2022,50405,essence,140,Provence-Alpes-Côte d'Azur
+Renault,Arkana,17375,2022,95806,essence,145,Bretagne
+Renault,Captur,31480,2024,19147,essence,145,Nouvelle-Aquitaine
+Renault,Clio,26000,2020,68593,essence,145,Occitanie
+Renault,Captur,22490,2025,4000,essence,160,Nouvelle-Aquitaine
+Toyota,Yaris,20490,2023,37729,essence,100,Île-de-France
+Renault,Megane,18490,2025,10000,essence,115,Bourgogne-Franche-Comté
+Renault,Megane,24590,2021,61566,essence,115,Auvergne-Rhône-Alpes
+Renault,Clio,27990,2024,6626,Diesel,145,Bourgogne-Franche-Comté
+Renault,Captur,19690,2025,10,essence,160,Occitanie
+Renault,Arkana,21480,2023,16950,essence,145,Bourgogne-Franche-Comté
+Citroën,C3,22980,2023,24000,essence,113,Île-de-France
+Mercedes-Benz,GLA,45990,2020,46258,essence,250,Grand Est
+Renault,Captur,24900,2023,8266,essence,145,Provence-Alpes-Côte d'Azur
+Renault,Megane,25990,2024,18799,Diesel,115,Centre-Val de Loire
+Mercedes-Benz,GLA,47980,2020,50014,hybride,250,Grand Est
+Renault,Captur,29500,2022,30949,hybride,145,Bourgogne-Franche-Comté
+Renault,Clio,31490,2024,5060,essence,145,Île-de-France
+Renault,Arkana,23999,2022,29266,essence,145,Île-de-France
+Renault,Megane,18490,2023,31460,essence,115,Bourgogne-Franche-Comté
+Renault,Megane E Tech,17590,2020,75437,essence,160,Normandie
+Citroën,C3,36900,2023,37092,Diesel,113,Normandie
+Renault,Captur,14990,2022,31037,essence,160,Île-de-France
+Peugeot,2008,22790,2022,38200,essence,130,Grand Est
+Renault,Captur,15990,2023,9848,essence,150,Provence-Alpes-Côte d'Azur
+Peugeot,e-2008,20500,2021,67597,hybride,136,Hauts-de-France
+Renault,Captur,20990,2023,12687,essence,145,Centre-Val de Loire
+Renault,Captur,25680,2024,12703,essence,145,Île-de-France
+Toyota,Yaris,19900,2021,41720,essence,116,Auvergne-Rhône-Alpes
+Dacia,Sandero,9950,2022,33381,essence,90,Bourgogne-Franche-Comté
+Renault,Clio,24000,2024,31386,Diesel,140,Île-de-France
+Renault,Captur,16990,2022,54888,essence,160,Normandie
+Renault,Captur,36990,2023,26508,essence,160,Occitanie
+Renault,Arkana,20490,2022,38683,essence,145,Provence-Alpes-Côte d'Azur
+Renault,Arkana,19990,2022,54889,essence,145,Bretagne
+Renault,Clio,17590,2023,19887,essence,130,Île-de-France
+Renault,Clio,14990,2021,44368,essence,145,Normandie
+Renault,Captur,44890,2023,16379,essence,160,Île-de-France
+Toyota,Yaris,22490,2021,44260,essence,116,Occitanie
+Renault,Captur,42490,2024,20020,essence,160,Île-de-France
+Citroën,C4 X,18778,2022,33530,essence,100,Occitanie
+Renault,Megane,31270,2024,17090,essence,115,Grand Est
+Renault,Arkana,24490,2024,19550,essence,140,Pays de la Loire
+Renault,Captur,20990,2024,7900,hybride,145,Normandie
+Renault,Clio,20690,2021,40071,essence,90,Bourgogne-Franche-Comté
+Renault,Captur,19990,2022,61755,essence,160,Provence-Alpes-Côte d'Azur
+Renault,Captur,17500,2022,42177,essence,145,Bourgogne-Franche-Comté
+Dacia,Sandero,21900,2023,46589,essence,90,Auvergne-Rhône-Alpes
+Nissan,Qashqai,41267,2024,9000,essence,190,Île-de-France
+Renault,Captur,39514,2021,22617,essence,140,Auvergne-Rhône-Alpes
+Renault,Captur,18590,2023,19677,essence,145,Île-de-France
+Renault,Megane,20890,2024,15410,Diesel,115,Provence-Alpes-Côte d'Azur
+Renault,Megane,59900,2021,37802,essence,140,Centre-Val de Loire
+Mercedes-Benz,GLA,14590,2024,9041,hybride,250,Auvergne-Rhône-Alpes
+Renault,Arkana,32990,2024,8990,essence,145,Pays de la Loire
+Renault,Clio,26500,2023,3119,essence,145,Bourgogne-Franche-Comté
+Renault,Captur,24890,2020,49080,essence,160,Provence-Alpes-Côte d'Azur
+Renault,Megane,24490,2022,64215,Diesel,140,Bourgogne-Franche-Comté
+Renault,Arkana,19950,2024,7861,essence,140,Nouvelle-Aquitaine
+Renault,Clio,16490,2023,14200,essence,140,Occitanie
+Renault,Arkana,61900,2020,91236,essence,145,Occitanie
+Renault,Captur,15490,2024,28081,Diesel,145,Hauts-de-France
+Renault,Clio,23450,2021,39042,Diesel,140,Hauts-de-France
+Peugeot,e-2008,16290,2024,11393,hybride,136,Nouvelle-Aquitaine
+Renault,Clio,16990,2024,20954,essence,145,Grand Est
+Peugeot,e-2008,16490,2021,34846,essence,136,Normandie
+Peugeot,e-2008,38200,2024,2272,essence,136,Provence-Alpes-Côte d'Azur
+Renault,Clio,18900,2024,6900,essence,145,Centre-Val de Loire
+Renault,Captur,25990,2024,7310,essence,145,Centre-Val de Loire
+Mercedes-Benz,GLA,22990,2021,47412,essence,250,Hauts-de-France
+Renault,Captur,25990,2023,41999,essence,145,Auvergne-Rhône-Alpes
+Mercedes-Benz,GLA,21990,2021,81351,essence,200,Grand Est
+Renault,Captur,16790,2024,19125,essence,140,Centre-Val de Loire
+Peugeot,e-2008,26900,2021,61274,essence,136,Normandie
+Peugeot,e-2008,26490,2020,67584,essence,136,Provence-Alpes-Côte d'Azur
+Renault,Clio,22890,2023,10465,essence,145,Île-de-France
+Renault,Captur,20499,2022,20662,essence,120,Occitanie
+Mercedes-Benz,Classe A,20990,2022,44052,essence,200,Nouvelle-Aquitaine
+Renault,Arkana,31890,2022,17522,essence,160,Pays de la Loire
+Renault,Captur,19990,2023,45821,essence,140,Centre-Val de Loire
+Renault,Captur,23990,2019,56150,Diesel,145,Nouvelle-Aquitaine
+Renault,Captur,17500,2021,71307,essence,140,Bourgogne-Franche-Comté
+Renault,Megane,24990,2021,61600,essence,115,Auvergne-Rhône-Alpes
+Renault,Clio,20990,2022,40591,essence,90,Nouvelle-Aquitaine
+Renault,Captur,37475,2024,8804,essence,160,Bretagne
+Renault,Clio,23925,2023,12671,essence,145,Nouvelle-Aquitaine
+Renault,Captur,47900,2023,43740,essence,160,Bourgogne-Franche-Comté
+Renault,Megane,24490,2024,11899,Diesel,115,Occitanie
+Peugeot,e-2008,29490,2020,30464,essence,136,Nouvelle-Aquitaine
+Peugeot,e-2008,11880,2021,28144,essence,136,Grand Est
+Renault,Megane,24990,2024,17142,Diesel,115,Auvergne-Rhône-Alpes
+Renault,Captur,23593,2018,93871,essence,160,Auvergne-Rhône-Alpes
+Renault,Arkana,57980,2024,9251,Diesel,140,Auvergne-Rhône-Alpes
+Renault,Clio,15990,2019,55345,essence,140,Pays de la Loire
+Renault,Captur,18490,2021,52072,essence,160,Centre-Val de Loire
+Renault,Captur,37890,2023,55153,essence,145,Île-de-France
+Mercedes-Benz,Classe A,37990,2020,34998,essence,250,Île-de-France
+Renault,Arkana,24990,2022,59615,essence,145,Pays de la Loire
+Renault,Captur,25590,2024,17043,essence,145,Normandie
+Renault,Captur,23590,2022,27782,essence,145,Normandie
+Renault,Clio,21490,2024,31837,hybride,145,Provence-Alpes-Côte d'Azur
+Renault,Megane R.S.,32990,2019,63230,essence,280,Auvergne-Rhône-Alpes
+Renault,Captur,21790,2020,27015,essence,140,Auvergne-Rhône-Alpes
+Renault,Arkana,18299,2020,71839,Diesel,140,Centre-Val de Loire
+Renault,Clio,16490,2023,4500,Diesel,140,Nouvelle-Aquitaine
+Renault,Clio,17490,2024,22755,essence,140,Normandie
+Renault,Arkana,21090,2022,22421,essence,140,Île-de-France
+Renault,Captur,22990,2023,39129,essence,160,Île-de-France
+Peugeot,e-2008,13980,2023,13054,essence,136,Bretagne
+Peugeot,e-2008,14990,2021,47710,essence,136,Bretagne
+Renault,Megane,24990,2024,18098,Diesel,115,Centre-Val de Loire
+Renault,Clio,20990,2024,19605,hybride,90,Normandie
+Nissan,Qashqai,28900,2022,36000,essence,190,Île-de-France
+Renault,Megane,18490,2021,53060,essence,140,Bretagne
+Renault,Clio,23980,2023,13351,essence,145,Nouvelle-Aquitaine
+Mercedes-Benz,GLA,40990,2024,14459,essence,200,Grand Est
+Renault,Captur,20900,2025,9900,essence,145,Île-de-France
+Renault,Clio,35550,2021,26480,hybride,145,Bretagne
+Mercedes-Benz,GLA,23500,2024,19150,essence,250,Grand Est
+Renault,Clio,16890,2021,32287,essence,145,Occitanie
+Renault,Clio,27500,2025,100,hybride,145,Bourgogne-Franche-Comté
+Nissan,Qashqai,42890,2025,9900,essence,190,Pays de la Loire
+Toyota,Yaris,26000,2024,3937,essence,116,Occitanie
+Renault,Clio,21490,2024,9500,essence,145,Normandie
+Nissan,Qashqai,29900,2024,21920,essence,190,Île-de-France
+Renault,Arkana,51900,2025,10,Diesel,145,Nouvelle-Aquitaine
+Mercedes-Benz,Classe A,30990,2022,69247,Diesel,200,Grand Est
+Renault,Captur,12490,2020,118715,Diesel,145,Grand Est
+Renault,Captur,20990,2023,34073,hybride,160,Auvergne-Rhône-Alpes
+Nissan,Qashqai,35990,2020,39827,essence,190,Bourgogne-Franche-Comté
+Renault,Clio,18490,2024,12912,hybride,145,Provence-Alpes-Côte d'Azur
+Renault,Megane,19380,2022,44818,Diesel,115,Hauts-de-France
+Mercedes-Benz,Classe C,21299,2021,110528,Diesel,220,Grand Est
+Renault,Captur,22490,2017,115194,essence,160,Grand Est
+Renault,Captur,35500,2023,22244,essence,145,Bretagne
+Peugeot,e-2008,26990,2021,90091,Diesel,136,Occitanie
+Nissan,Qashqai,26790,2021,38765,essence,158,Nouvelle-Aquitaine
+Renault,Megane,17990,2024,26902,essence,115,Bretagne
+Nissan,Qashqai,26490,2023,17959,essence,190,Pays de la Loire
+Renault,Captur,20990,2023,30189,essence,160,Centre-Val de Loire
+Renault,Clio,22990,2019,53123,essence,145,Auvergne-Rhône-Alpes
+Renault,Captur,27490,2023,24155,essence,140,Auvergne-Rhône-Alpes
+Renault,Megane,92900,2024,28408,Diesel,115,Auvergne-Rhône-Alpes
+Peugeot,2008,44990,2020,81554,essence,130,Grand Est
+Renault,Captur,17990,2020,73291,essence,155,Île-de-France
+Renault,Clio,34190,2023,21000,Diesel,145,Nouvelle-Aquitaine
+Renault,Captur,17980,2021,66885,essence,150,Nouvelle-Aquitaine
+Renault,Captur,37790,2023,62847,essence,145,Occitanie
+Renault,Captur,16990,2024,16389,essence,145,Bretagne
+Renault,Clio,13990,2020,99398,essence,90,Nouvelle-Aquitaine
+Mercedes-Benz,Classe A,19990,2022,16266,Diesel,200,Grand Est
+Renault,Arkana,20990,2022,43275,essence,140,Grand Est
+Renault,Captur,22499,2023,19003,essence,145,Nouvelle-Aquitaine
+Mercedes-Benz,Classe A,36900,2024,1475,essence,250,Grand Est
+Renault,Megane,33190,2025,9900,Diesel,115,Auvergne-Rhône-Alpes
+Renault,Arkana,16499,2022,52994,hybride,140,Grand Est
+Renault,Megane,37990,2023,25893,essence,115,Bourgogne-Franche-Comté
+Renault,Captur,21480,2021,87044,Diesel,145,Nouvelle-Aquitaine
+Renault,Megane,16790,2020,36096,essence,115,Nouvelle-Aquitaine
+Renault,Captur,30490,2021,38785,essence,160,Provence-Alpes-Côte d'Azur
+Renault,Megane,16900,2024,12800,Diesel,115,Auvergne-Rhône-Alpes
+Nissan,Qashqai,27991,2024,8000,essence,190,Île-de-France
+Renault,Captur,54990,2021,61789,Diesel,160,Île-de-France
+Renault,Megane,25490,2024,16200,Diesel,115,Bretagne
+Renault,Arkana,21990,2022,97480,essence,145,Nouvelle-Aquitaine
+Dacia,Sandero,15499,2024,9900,essence,90,Nouvelle-Aquitaine
+Renault,Captur,18500,2021,42756,essence,140,Grand Est
+Mercedes-Benz,GLA,43900,2024,21819,essence,250,Grand Est
+Renault,Captur,20490,2021,39140,essence,115,Bourgogne-Franche-Comté
+Renault,Captur,22490,2021,61735,essence,160,Île-de-France
+Peugeot,e-2008,19490,2023,42146,essence,136,Auvergne-Rhône-Alpes
+Renault,Megane,21990,2020,47979,essence,115,Centre-Val de Loire
+Renault,Clio,20990,2019,69187,essence,145,Provence-Alpes-Côte d'Azur
+Renault,Captur,15490,2022,100,essence,145,Nouvelle-Aquitaine
+Renault,Clio,23500,2021,81131,essence,145,Auvergne-Rhône-Alpes
+Renault,Megane,22990,2023,43146,Diesel,115,Bourgogne-Franche-Comté
+Renault,Captur,18390,2023,20450,essence,145,Île-de-France
+Dacia,Sandero,15990,2023,20847,essence,90,Centre-Val de Loire
+Renault,Megane,25250,2024,9984,Diesel,115,Nouvelle-Aquitaine
+Renault,Captur,23490,2020,49333,essence,145,Normandie
+Renault,Megane E Tech,18990,2022,36809,hybride,160,Auvergne-Rhône-Alpes
+Renault,Megane,19990,2022,2639,Diesel,115,Provence-Alpes-Côte d'Azur
+Renault,Captur,22350,2020,97562,Diesel,115,Provence-Alpes-Côte d'Azur
+Renault,Captur,44400,2020,64427,essence,145,Bourgogne-Franche-Comté
+Renault,Arkana,18990,2024,5853,essence,140,Auvergne-Rhône-Alpes
+Renault,Captur,22890,2023,16130,hybride,145,Île-de-France
+Dacia,Sandero Stepway,26890,2021,69535,essence,90,Bourgogne-Franche-Comté
+Mercedes-Benz,GLA,21990,2023,24805,essence,250,Grand Est
+Renault,Megane,17900,2022,63788,essence,140,Nouvelle-Aquitaine
+Renault,Megane,21990,2021,38171,hybride,115,Occitanie
+Renault,Captur,14990,2023,43244,essence,140,Nouvelle-Aquitaine
+Renault,Megane,24480,2024,33194,Diesel,115,Auvergne-Rhône-Alpes
+Renault,Captur,12990,2021,81524,essence,160,Pays de la Loire
+Renault,Arkana,20890,2024,5334,hybride,145,Provence-Alpes-Côte d'Azur
+Renault,Captur,20490,2024,17691,essence,140,Centre-Val de Loire
+Renault,Megane,23980,2021,87610,Diesel,115,Centre-Val de Loire
+Renault,Arkana,20590,2022,44704,essence,140,Auvergne-Rhône-Alpes
+Renault,Arkana,27500,2021,54935,essence,145,Pays de la Loire
+Renault,Clio,24590,2022,16612,essence,145,Centre-Val de Loire
+Renault,Clio,19990,2023,19025,essence,145,Centre-Val de Loire
+Renault,Captur,15980,2022,644,essence,120,Île-de-France
+Renault,Clio,14590,2021,78915,essence,145,Nouvelle-Aquitaine
+Renault,Clio,25490,2020,116503,Diesel,140,Pays de la Loire
+Renault,Clio,17980,2022,19456,essence,145,Hauts-de-France
+Renault,Megane,19490,2020,24433,essence,115,Bourgogne-Franche-Comté
+Dacia,Spring,13990,2024,17002,Diesel,265,Nouvelle-Aquitaine
+Renault,Clio,18990,2021,57402,essence,140,Occitanie
+Renault,Captur,16990,2024,4318,essence,90,Occitanie
+Peugeot,e-2008,26590,2024,4744,essence,136,Normandie
+Renault,Clio,21990,2022,29954,essence,90,Île-de-France
+Renault,Captur,24890,2021,34276,essence,145,Nouvelle-Aquitaine
+Renault,Clio,24599,2024,7775,hybride,145,Normandie
+Renault,Megane,22890,2025,10,essence,115,Centre-Val de Loire
+Citroën,C3,19490,2025,7000,essence,113,Occitanie
+Renault,Captur,29874,2020,50556,essence,140,Auvergne-Rhône-Alpes
+Nissan,Qashqai,26990,2024,13232,essence,190,Île-de-France
+Renault,Captur,15890,2022,10422,essence,145,Île-de-France
+Renault,Captur,27600,2021,123519,Diesel,145,Île-de-France
+Renault,Captur,16790,2020,79083,essence,145,Île-de-France
+Renault,Captur,14990,2021,74737,essence,160,Bretagne
+Peugeot,308 SW,38989,2021,83996,essence,156,Bourgogne-Franche-Comté
+Renault,Captur,27490,2021,47500,essence,160,Auvergne-Rhône-Alpes
+Renault,Megane,23990,2024,16875,Diesel,115,Provence-Alpes-Côte d'Azur
+Renault,Captur,24380,2023,19408,Diesel,145,Île-de-France
+Renault,Captur,11990,2025,9900,essence,160,Hauts-de-France
+Renault,Clio,34800,2024,16500,Diesel,145,Nouvelle-Aquitaine
+Renault,Captur,18490,2020,25506,essence,130,Île-de-France
+Renault,Clio,17990,2020,22212,essence,130,Bretagne
+Peugeot,e-2008,21490,2021,62112,essence,136,Pays de la Loire
+Nissan,Qashqai,28190,2023,25662,essence,190,Île-de-France
+Renault,Captur,15590,2021,144981,Diesel,160,Centre-Val de Loire
+Renault,Clio,23390,2022,146781,Diesel,140,Occitanie
+Peugeot,e-2008,18790,2021,7578,hybride,136,Bourgogne-Franche-Comté
+Renault,Clio,23990,2021,35590,essence,145,Normandie
+Peugeot,e-2008,22990,2018,57078,Diesel,136,Île-de-France
+Renault,Captur,26990,2023,36725,essence,145,Centre-Val de Loire
+Renault,Captur,18990,2022,30674,hybride,160,Auvergne-Rhône-Alpes
+Toyota,Yaris,10490,2023,33290,Diesel,130,Nouvelle-Aquitaine
+Renault,Megane,18490,2025,5,essence,115,Auvergne-Rhône-Alpes
+Renault,Megane,55990,2019,71500,essence,140,Centre-Val de Loire
+Renault,Captur,19790,2023,22703,essence,160,Île-de-France
+Renault,Captur,20390,2023,54444,essence,160,Grand Est
+Dacia,Sandero,47990,2020,57030,essence,90,Auvergne-Rhône-Alpes
+Renault,Arkana,21990,2021,116406,Diesel,140,Bourgogne-Franche-Comté
+Peugeot,e-2008,27490,2024,15553,Diesel,136,Bretagne
+Renault,Captur,16495,2021,52284,essence,145,Nouvelle-Aquitaine
+Renault,Megane,16290,2024,14800,Diesel,115,Île-de-France
+Renault,Arkana,37248,2020,77169,essence,140,Hauts-de-France
+Renault,Clio,16490,2023,13401,essence,145,Normandie
+Nissan,Qashqai,24990,2023,21000,essence,190,Pays de la Loire
+Renault,Megane,35390,2022,24780,essence,115,Nouvelle-Aquitaine
+Renault,Clio,34950,2024,25417,essence,90,Île-de-France
+Renault,Captur,21990,2019,87458,essence,140,Centre-Val de Loire
+Renault,Megane,16990,2017,58872,essence,165,Normandie
+Renault,Captur,21990,2024,2734,essence,160,Occitanie
+Renault,Clio,25290,2023,17287,hybride,145,Nouvelle-Aquitaine
+Renault,Captur,38300,2022,42046,essence,160,Provence-Alpes-Côte d'Azur
+Peugeot,e-2008,26389,2024,9222,essence,136,Île-de-France
+Renault,Clio,16890,2023,14386,essence,90,Île-de-France
+Renault,Clio,23390,2022,42632,essence,145,Centre-Val de Loire
+Toyota,Yaris,31990,2021,36240,essence,130,Auvergne-Rhône-Alpes
+Renault,Arkana,19990,2021,40810,essence,145,Île-de-France
+Renault,Arkana,20590,2022,23327,essence,140,Auvergne-Rhône-Alpes
+Renault,Clio,20990,2019,61607,essence,145,Nouvelle-Aquitaine
+Renault,Clio,19490,2024,4820,Diesel,145,Nouvelle-Aquitaine
+Renault,Captur,25990,2021,59913,essence,145,Provence-Alpes-Côte d'Azur
+Renault,Captur,20490,2024,12315,Diesel,155,Auvergne-Rhône-Alpes
+Renault,Captur,17490,2024,10,essence,145,Provence-Alpes-Côte d'Azur
+Renault,Captur,16690,2023,15000,hybride,145,Provence-Alpes-Côte d'Azur
+Renault,Captur,28489,2023,5668,essence,160,Grand Est
+Peugeot,e-2008,22990,2020,43852,essence,136,Occitanie
+Renault,Captur,21990,2023,25994,essence,140,Auvergne-Rhône-Alpes
+Renault,Captur,24780,2024,15897,essence,145,Île-de-France
+Renault,Captur,59290,2020,61707,essence,160,Nouvelle-Aquitaine
+Renault,Captur,19500,2024,5369,hybride,160,Bourgogne-Franche-Comté
+Nissan,Qashqai,30490,2023,46890,essence,190,Pays de la Loire
+Renault,Arkana,18980,2018,61814,essence,140,Bourgogne-Franche-Comté
+Renault,Megane,24390,2023,5676,essence,140,Auvergne-Rhône-Alpes
+Renault,Captur,22990,2024,10000,essence,145,Bourgogne-Franche-Comté
+Renault,Megane E Tech,23490,2023,6289,essence,160,Centre-Val de Loire
+Renault,Arkana,16990,2022,42118,essence,140,Centre-Val de Loire
+Renault,Captur,24400,2024,6311,essence,160,Occitanie
+Renault,Captur,25990,2021,69342,essence,145,Centre-Val de Loire
+Renault,Captur,18980,2021,46935,essence,160,Hauts-de-France
+Renault,Captur,19990,2021,49690,hybride,145,Auvergne-Rhône-Alpes
+Peugeot,e-2008,47990,2024,27810,essence,136,Normandie
+Renault,Captur,23000,2023,25947,essence,145,Bourgogne-Franche-Comté
+Renault,Clio,12990,2023,14472,essence,90,Île-de-France
+Renault,Clio,19980,2023,27699,essence,145,Bourgogne-Franche-Comté
+Nissan,Qashqai,33990,2024,10,essence,190,Pays de la Loire
+Renault,Clio,18980,2023,45942,essence,145,Bourgogne-Franche-Comté
+Renault,Captur,34480,2021,42154,Diesel,130,Nouvelle-Aquitaine
+Renault,Megane,21990,2019,67000,Diesel,150,Provence-Alpes-Côte d'Azur
+Renault,Captur,24990,2024,30469,essence,145,Normandie
+Nissan,Qashqai,27900,2023,24896,essence,190,Île-de-France
+Mercedes-Benz,Classe C,22900,2025,500,essence,220,Occitanie
+Renault,Captur,31690,2021,38874,essence,145,Auvergne-Rhône-Alpes
+Renault,Captur,16490,2024,2951,essence,145,Provence-Alpes-Côte d'Azur
+Renault,Arkana,10990,2022,39948,essence,140,Pays de la Loire
+Renault,Captur,24990,2022,38000,essence,145,Centre-Val de Loire
+Renault,Clio,23890,2022,90076,essence,90,Île-de-France
+Renault,Clio,16890,2021,37000,essence,90,Île-de-France
+Renault,Captur,19990,2022,60950,essence,160,Nouvelle-Aquitaine
+Renault,Megane,23590,2024,22000,Diesel,115,Nouvelle-Aquitaine
+Renault,Captur,26890,2025,100,hybride,145,Bourgogne-Franche-Comté
+Peugeot,2008,31990,2020,147047,Diesel,145,Grand Est
+Renault,Captur,25987,2020,71346,essence,145,Île-de-France
+Renault,Captur,35990,2025,3000,essence,160,Nouvelle-Aquitaine
+Renault,Captur,15490,2020,94367,essence,160,Occitanie
+Renault,Clio,43790,2023,18001,essence,145,Nouvelle-Aquitaine
+Renault,Captur,22990,2018,106213,Diesel,145,Grand Est
+Dacia,Sandero,18890,2024,8458,essence,90,Bourgogne-Franche-Comté
+Renault,Clio,21990,2020,59374,essence,145,Occitanie
+Renault,Captur,26990,2022,30115,essence,145,Auvergne-Rhône-Alpes
+Renault,Clio,11990,2022,31978,essence,90,Provence-Alpes-Côte d'Azur
+Renault,Captur,16290,2020,115641,Diesel,160,Nouvelle-Aquitaine
+Renault,Captur,26700,2021,83415,essence,145,Île-de-France
+Renault,Captur,15490,2024,14178,essence,160,Provence-Alpes-Côte d'Azur
+Peugeot,e-2008,19990,2020,51504,essence,136,Normandie
+Renault,Captur,18490,2024,6424,essence,115,Centre-Val de Loire
+Renault,Clio,19490,2021,22259,essence,140,Auvergne-Rhône-Alpes
+Renault,Captur,16490,2022,25990,Diesel,145,Nouvelle-Aquitaine
+Renault,Arkana,23890,2022,27101,essence,145,Île-de-France
+Dacia,Spring,19900,2024,10148,essence,65,Bourgogne-Franche-Comté
+Renault,Megane,17990,2022,98172,Diesel,115,Centre-Val de Loire
+Renault,Megane,25580,2024,19000,Diesel,115,Auvergne-Rhône-Alpes
+Renault,Megane,25999,2022,23405,essence,115,Normandie
+Renault,Captur,25990,2020,10134,hybride,145,Normandie
+Mercedes-Benz,GLA,46660,2020,50833,essence,250,Occitanie
+Mercedes-Benz,Classe A,26989,2019,97366,essence,200,Grand Est
+Mercedes-Benz,GLA,35398,2024,10562,essence,250,Auvergne-Rhône-Alpes
+Peugeot,e-2008,31490,2023,30736,essence,136,Bretagne
+Renault,Megane,21500,2019,92689,essence,140,Auvergne-Rhône-Alpes
+Renault,Megane,16890,2024,1651,hybride,115,Nouvelle-Aquitaine
+Renault,Megane,17150,2020,47408,hybride,115,Hauts-de-France
+Renault,Captur,24820,2023,17963,essence,160,Centre-Val de Loire
+Renault,Arkana,20590,2021,81503,essence,145,Provence-Alpes-Côte d'Azur
+Renault,Arkana,10990,2018,15577,essence,145,Hauts-de-France
+Renault,Clio,21790,2022,42498,essence,90,Pays de la Loire
+Renault,Megane E Tech,16298,2022,45550,essence,160,Occitanie
+Peugeot,e-2008,17290,2022,38752,essence,136,Auvergne-Rhône-Alpes
+Renault,Megane,24990,2021,50757,essence,115,Bourgogne-Franche-Comté
+Renault,Clio,31242,2020,72907,Diesel,140,Auvergne-Rhône-Alpes
+Toyota,C-HR,20990,2021,29011,hybride,185,Nouvelle-Aquitaine
+Citroën,C3,43750,2023,31594,essence,113,Normandie
+Peugeot,e-2008,20990,2020,123390,Diesel,136,Normandie
+Dacia,Sandero Stepway,15390,2021,39194,essence,90,Nouvelle-Aquitaine
+Citroën,C3,19830,2023,9800,essence,113,Bretagne
+Renault,Clio,19990,2022,17462,essence,145,Nouvelle-Aquitaine
+Renault,Captur,16990,2023,46831,essence,140,Île-de-France
+Renault,Captur,20489,2022,29578,essence,160,Auvergne-Rhône-Alpes
+Renault,Captur,25790,2024,19503,essence,145,Nouvelle-Aquitaine
+Renault,Arkana,29480,2024,16655,Diesel,145,Bourgogne-Franche-Comté
+Renault,Captur,22890,2022,28207,essence,145,Pays de la Loire
+Nissan,Qashqai,34990,2024,20,essence,190,Pays de la Loire
+Peugeot,e-2008,21690,2021,92498,essence,136,Hauts-de-France
+Renault,Arkana,16990,2024,22537,Diesel,145,Nouvelle-Aquitaine
+Mercedes-Benz,GLA,12390,2024,9000,Diesel,200,Grand Est
+Renault,Captur,16990,2021,66478,essence,140,Occitanie
+Renault,Clio,20790,2020,41735,essence,140,Bourgogne-Franche-Comté
+Renault,Clio,13990,2020,31516,essence,140,Auvergne-Rhône-Alpes
+Mercedes-Benz,Classe A,24490,2020,57707,essence,180,Grand Est
+Renault,Megane,26000,2023,28620,essence,115,Grand Est
+Renault,Clio,22990,2023,27510,essence,145,Auvergne-Rhône-Alpes
+Renault,Captur,21990,2022,50239,essence,155,Provence-Alpes-Côte d'Azur
+Renault,Clio,26490,2022,129575,Diesel,145,Nouvelle-Aquitaine
+Renault,Clio,22990,2024,6981,essence,140,Pays de la Loire
+Dacia,Sandero,17590,2017,73598,Diesel,90,Nouvelle-Aquitaine
+Nissan,Qashqai,27990,2022,33407,essence,158,Centre-Val de Loire
+Renault,Captur,19900,2021,45429,essence,160,Île-de-France
+Renault,Megane,21480,2022,45501,essence,115,Bourgogne-Franche-Comté
+Renault,Clio,23490,2021,134875,essence,145,Grand Est
+Mercedes-Benz,GLA,19990,2024,16383,Diesel,200,Grand Est
+Renault,Captur,25000,2023,21792,essence,160,Pays de la Loire
+Renault,Captur,37990,2020,46310,essence,160,Provence-Alpes-Côte d'Azur
+Renault,Captur,28590,2024,4803,essence,145,Normandie
+Renault,Captur,23490,2024,15017,essence,160,Hauts-de-France
+Renault,Arkana,49350,2021,108069,essence,140,Bourgogne-Franche-Comté
+Nissan,Qashqai,27900,2023,30167,essence,190,Île-de-France
+Renault,Captur,19990,2022,10875,essence,145,Centre-Val de Loire
+Renault,Captur,16440,2020,72782,essence,115,Occitanie
+Renault,Clio,36990,2022,28107,essence,145,Île-de-France
+Renault,Clio,34989,2021,20447,essence,140,Nouvelle-Aquitaine
+Renault,Captur,25000,2023,27197,Diesel,115,Nouvelle-Aquitaine
+Renault,Clio,10980,2022,55987,essence,140,Grand Est
+Renault,Megane,32890,2025,8000,essence,115,Nouvelle-Aquitaine
+Mercedes-Benz,Classe A,19690,2022,31792,essence,200,Grand Est
+Renault,Captur,26890,2022,42325,essence,145,Pays de la Loire
+Renault,Captur,15990,2021,25746,essence,145,Auvergne-Rhône-Alpes
+Mercedes-Benz,Classe A,30400,2020,71188,essence,180,Grand Est
+Dacia,Sandero,25990,2023,28667,hybride,90,Bourgogne-Franche-Comté
+Renault,Megane,25990,2021,78875,hybride,140,Auvergne-Rhône-Alpes
+Renault,Captur,40990,2023,29980,essence,90,Occitanie
+Renault,Captur,17490,2024,8854,essence,160,Grand Est
+Renault,Clio,23790,2022,23164,essence,145,Nouvelle-Aquitaine
+Renault,Captur,19990,2021,21850,essence,140,Pays de la Loire
+Renault,Captur,20690,2023,32568,essence,160,Provence-Alpes-Côte d'Azur
+Renault,Clio,27990,2022,23095,essence,90,Île-de-France
+Renault,Captur,91900,2020,109553,essence,145,Île-de-France
+Renault,Captur,23490,2024,25297,hybride,160,Île-de-France
+Renault,Clio,14590,2020,25000,essence,140,Île-de-France
+Citroën,C3,28990,2021,61354,essence,113,Normandie
+Renault,Arkana,18490,2022,28393,essence,140,Nouvelle-Aquitaine
+Peugeot,e-2008,16500,2023,27241,essence,136,Provence-Alpes-Côte d'Azur
+Renault,Clio,27990,2022,48694,Diesel,145,Grand Est
+Renault,Captur,27900,2024,8159,hybride,160,Île-de-France
+Renault,Clio,18399,2024,17798,Diesel,145,Île-de-France
+Renault,Clio,20190,2022,21981,essence,145,Île-de-France
+Nissan,Qashqai,39920,2023,29544,essence,190,Île-de-France
+Renault,Arkana,22900,2020,59515,essence,145,Normandie
+Renault,Captur,36390,2023,37159,essence,145,Île-de-France
+Renault,Captur,23990,2020,46352,essence,145,Nouvelle-Aquitaine
+Peugeot,e-2008,38490,2021,74533,Diesel,156,Bourgogne-Franche-Comté
+Renault,Clio,27990,2020,129006,essence,145,Auvergne-Rhône-Alpes
+Renault,Clio,15490,2021,41672,essence,130,Île-de-France
+Renault,Clio,16890,2023,9451,essence,90,Île-de-France
+Mercedes-Benz,GLA,31990,2020,22626,essence,200,Grand Est
+Renault,Captur,20990,2022,18300,essence,145,Pays de la Loire
+Renault,Captur,52490,2021,99230,Diesel,160,Nouvelle-Aquitaine
+Renault,Arkana,21690,2017,103552,essence,145,Pays de la Loire
+Mercedes-Benz,Classe A,25890,2020,116155,Diesel,200,Grand Est
+Renault,Clio,14790,2021,47399,Diesel,130,Occitanie
+Renault,Captur,27990,2024,9000,essence,145,Auvergne-Rhône-Alpes
+Dacia,Sandero Stepway,10490,2023,16708,essence,90,Auvergne-Rhône-Alpes
