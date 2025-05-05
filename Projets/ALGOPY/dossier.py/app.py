@@ -114,18 +114,18 @@ if "show_stats" not in st.session_state:
 
 # Bouton déclencheur
 if st.button("📊 Statistiques moyennes"):
-    st.session_state["show_stats"] = True  # Activer le graphique
-
-# Si le bouton a été cliqué (même après d'autres interactions)
-if st.session_state["show_stats"]:
-    st.subheader("📈 Observation des prix par année et par marque")
-
-    # Chargement des données
+        # Chargement des données
     dataset_path = Path("vehicules1.csv")
     if not os.path.exists(dataset_path):
         st.error("❌ La donnée n'est pas chargée.")
     else:
         df = pl.read_csv(str(dataset_path), separator=",", ignore_errors=True)
+
+    st.session_state["show_stats"] = True  # Activer le graphique
+
+# Si le bouton a été cliqué (même après d'autres interactions)
+if st.session_state["show_stats"]:
+    st.subheader("📈 Observation des prix par année et par marque")
 
         # Vérification des colonnes
         if all(col in df.columns for col in ["annee", "prix", "marque"]):
