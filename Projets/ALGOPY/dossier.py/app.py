@@ -108,23 +108,27 @@ if st.checkbox("Comparaison"):
 
 
 
-# Initialiser une clé dans la session pour le bouton
+# Obtenir le chemin absolu du répertoire du script
+CURRENT_DIR = Path(__file__).parent if "__file__" in locals() else Path.cwd()
+DATA_PATH = CURRENT_DIR / "data" / "vehicules1.csv"
+
+# Initialiser la session
 if "show_stats" not in st.session_state:
     st.session_state["show_stats"] = False
 
 # Bouton déclencheur
 if st.button("📊 Statistiques moyennes"):
-    st.session_state["show_stats"] = True  # Activer le graphique
+    st.session_state["show_stats"] = True
 
-# Si le bouton a été cliqué (même après d'autres interactions)
+# Si le bouton a été cliqué
 if st.session_state["show_stats"]:
     st.subheader("📈 Observation des prix par année et par marque")
-            # Chargement des données
-    dataset_path = Path("data/vehicules1.csv")
-    if not os.path.exists(dataset_path):
+    if not DATA_PATH.exists():
         st.error("❌ La donnée n'est pas chargée.")
     else:
-        df = pl.read_csv(str(dataset_path), separator=",", ignore_errors=True)
+        df = pl.read_csv(str(DATA_PATH), separator=",", ignore_errors=True)
+        st.success("✅ Données chargées avec succès, voilà un apperçu !")
+        st.write(df.head())
 
         # Vérification des colonnes
         if all(col in df.columns for col in ["annee", "prix", "marque"]):
