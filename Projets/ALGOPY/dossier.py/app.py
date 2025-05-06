@@ -14,7 +14,7 @@ from pathlib import Path
 st.set_page_config(
         page_title="Meillleures estimations" ,page_icon="✨", layout="wide"
 )
-st.sidebar.header("Estimation de prix des véhicules 🚗")
+st.sidebar.header("Estimation du prix des véhicules 🚗")
 
 
 
