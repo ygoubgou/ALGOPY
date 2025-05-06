@@ -3,3 +3,10 @@ uv run playwright codegen "https://heycar.com/fr/autos/gearbox/manual_gear?utm_c
 Je m'intéresse uniquement au prix des véhicules boite automatique
 
 Dans ce projet, nous allons faire des estimations sur les prix des véhicules en suivant 4 modèles de ML.
+
+
+Etape1: webscraping
+
+Etape2: Travail sur les données et enrichissement via une API
+
+Etape3: Déploiement avec proposition de visualisation

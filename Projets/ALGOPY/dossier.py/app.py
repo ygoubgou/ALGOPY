@@ -106,6 +106,44 @@ if st.checkbox("Comparaison"):
         st.markdown(f"#### {model} : {prediction}")
         
 
+# Obtenir le chemin absolu du répertoire du script
+CURRENT_DIR = Path(__file__).parent if "__file__" in locals() else Path.cwd()
+DATA_PATH0 = CURRENT_DIR / "data" / "vehicules1bis.csv"
+
+# Initialiser la session
+if "show_maps_1" not in st.session_state:
+    st.session_state["show_maps_1"] = False
+
+# Bouton déclencheur
+if st.button("📍 Cartographie des véhicules"):
+    st.session_state["show_maps_1"] = True
+
+# Affichage conditionnel de la carte
+if st.session_state['show_maps_1']:
+        st.subheader("🗺️ Carte interactive des voitures par prix")
+        if not DATA_PATH0.exists():
+            st.error("❌ La donnée n'est pas chargée.")
+        else:
+            df = pl.read_csv(str(DATA_PATH0), separator=",", ignore_errors=True)
+            st.success("✅ Données chargées avec succès !")
+            
+            df =df.to_pandas()
+            fig = px.scatter_mapbox(
+                df,
+                lat="latitude",
+                lon="longitude",
+                color="prix",
+                size="prix",
+                hover_name="code postal",
+                hover_data=["marque", "modele", "annee", "energie"],
+            color_continuous_scale=px.colors.cyclical.IceFire,
+                zoom=5,
+                height=600
+            )
+            fig.update_layout(mapbox_style="open-street-map")
+            fig.update_layout(margin={"r":0,"t":40,"l":0,"b":0}, title="Carte des voitures par prix")
+            st.plotly_chart(fig, use_container_width=True)
+
 
 
 # Obtenir le chemin absolu du répertoire du script
