@@ -134,7 +134,7 @@ if st.session_state['show_maps_1']:
                 lon="longitude",
                 color="prix",
                 size="prix",
-                hover_name="code postal",
+                hover_name="ville",
                 hover_data=["marque", "modele", "annee", "energie"],
             color_continuous_scale=px.colors.cyclical.IceFire,
                 zoom=5,
