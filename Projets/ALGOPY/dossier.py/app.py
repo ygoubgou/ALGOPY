@@ -110,7 +110,7 @@ if st.checkbox("Comparaison"):
 
 # Obtenir le chemin absolu du répertoire du script
 CURRENT_DIR = Path(__file__).parent if "__file__" in locals() else Path.cwd()
-DATA_PATH = CURRENT_DIR / "data" / "vehicules1.csv"
+DATA_PATH1 = CURRENT_DIR / "data" / "vehicules1.csv"
 
 # Initialiser la session
 if "show_stats" not in st.session_state:
@@ -123,10 +123,10 @@ if st.button("📊 Statistiques moyennes"):
 # Si le bouton a été cliqué
 if st.session_state["show_stats"]:
     st.subheader("📈 Observation des prix par année et par marque")
-    if not DATA_PATH.exists():
+    if not DATA_PATH1.exists():
         st.error("❌ La donnée n'est pas chargée.")
     else:
-        df = pl.read_csv(str(DATA_PATH), separator=",", ignore_errors=True)
+        df = pl.read_csv(str(DATA_PATH1), separator=",", ignore_errors=True)
         st.success("✅ Données chargées avec succès, voilà un apperçu !")
         st.write(df.head())
 
@@ -139,7 +139,8 @@ if st.session_state["show_stats"]:
             annee_selectionnee = st.select_slider(
                 "📅 Sélectionner une année",
                 options=annees_disponibles,
-                value=max(annees_disponibles)
+                value=max(annees_disponibles),
+                key="1"
             )
 
             # Filtrage et agrégation
@@ -167,15 +168,15 @@ CURRENT_DIR = Path(__file__).parent if "__file__" in locals() else Path.cwd()
 DATA_PATH = CURRENT_DIR / "data" / "voitures.csv"
 
 # Initialiser la session
-if "show_stats" not in st.session_state:
-    st.session_state["show_stats"] = False
+if "show_stats_1" not in st.session_state:
+    st.session_state["show_stats_1"] = False
 
 # Bouton déclencheur
 if st.button("📊 Statistiques moyennes sur les donnees initiales, plus complètes en marque"):
-    st.session_state["show_stats"] = True
+    st.session_state["show_stats_1"] = True
 
 # Si le bouton a été cliqué
-if st.session_state["show_stats"]:
+if st.session_state["show_stats_1"]:
     st.subheader("📈 Observation des prix par année et par marque")
     if not DATA_PATH.exists():
         st.error("❌ La donnée n'est pas chargée.")
