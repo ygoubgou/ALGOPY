@@ -157,3 +157,57 @@ if st.session_state["show_stats"]:
             st.plotly_chart(fig)
         else:
             st.warning("⚠️ Les colonnes 'annee', 'prix' et 'marque' sont nécessaires dans le dataset.")
+
+
+
+
+
+# Obtenir le chemin absolu du répertoire du script
+CURRENT_DIR = Path(__file__).parent if "__file__" in locals() else Path.cwd()
+DATA_PATH = CURRENT_DIR / "data" / "voitures.csv"
+
+# Initialiser la session
+if "show_stats" not in st.session_state:
+    st.session_state["show_stats"] = False
+
+# Bouton déclencheur
+if st.button("📊 Statistiques moyennes sur les donnees initiales, plus complètes en marque"):
+    st.session_state["show_stats"] = True
+
+# Si le bouton a été cliqué
+if st.session_state["show_stats"]:
+    st.subheader("📈 Observation des prix par année et par marque")
+    if not DATA_PATH.exists():
+        st.error("❌ La donnée n'est pas chargée.")
+    else:
+        df = pl.read_csv(str(DATA_PATH), separator=";", ignore_errors=True)
+        st.success("✅ Données chargées avec succès, voilà un apperçu !")
+        st.write(df.head())
+
+        # Vérification des colonnes
+        if all(col in df.columns for col in ["annee", "prix", "marque"]):
+            df = df.to_pandas()
+
+            # Sélecteur d'année
+            annees_disponibles = sorted(df["annee"].dropna().unique())
+            annee_selectionnee = st.select_slider(
+                "📅 Sélectionner une année",
+                options=annees_disponibles,
+                value=max(annees_disponibles)
+            )
+
+            # Filtrage et agrégation
+            df_filtre_annee = df[df["annee"] == annee_selectionnee]
+            prix_par_marque = df_filtre_annee.groupby("marque")["prix"].mean().reset_index()
+
+            # Graphique
+            fig = px.bar(prix_par_marque,
+                         x="marque",
+                         y="prix",
+                         color="marque",
+                         text="prix",
+                         title=f"💶 Prix moyen par marque en {annee_selectionnee}",
+                         labels={"marque": "Marque", "prix": "Prix moyen (€)"})
+            st.plotly_chart(fig)
+        else:
+            st.warning("⚠️ Les colonnes 'annee', 'prix' et 'marque' sont nécessaires dans le dataset.")            
