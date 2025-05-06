@@ -95,7 +95,7 @@ if selected_model != "--":
     st.markdown(f"### {prediction}")
 
 if st.checkbox("Comparaison"):
-    st.markdown("### Voici une comparaison de ce que prédit chaque modèle")
+    st.markdown("### Voici une comparaison de ce que prédit chaque modèle sur le prix de ton véhicule")
 
     for model, prediction in zip([LINEAR_REGRESSION, GRADIENT_BOOSTING, KNN, RANDOM_FOREST],
                                  [models.get_linear_model().predict(mlinput),
