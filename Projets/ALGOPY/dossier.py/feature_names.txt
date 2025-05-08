@@ -13,8 +13,8 @@ modele_C4 X
 modele_Captur
 modele_Classe A
 modele_Classe C
+modele_Clio
 modele_GLA
-modele_Megane
 modele_Megane E Tech
 modele_Megane R.S.
 modele_Qashqai
@@ -31,10 +31,10 @@ nombre chevaux
 région_Auvergne-Rhône-Alpes
 région_Bourgogne-Franche-Comté
 région_Bretagne
-région_Centre-Val de Loire
 région_Grand Est
 région_Hauts-de-France
 région_Normandie
+région_Nouvelle-Aquitaine
 région_Occitanie
 région_Pays de la Loire
 région_Provence-Alpes-Côte d'Azur

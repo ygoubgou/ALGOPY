@@ -1,7 +1,7 @@
 [project]
 name = "dossier-py"
 version = "0.1.0"
-description = "Add your description here"
+description = "Meilleures estimations des prix des véhicules avec un interface super sympa"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
@@ -23,5 +23,4 @@ dependencies = [
     "seaborn>=0.13.2",
     "streamlit>=1.44.1",
 ]
-[theme]
-base="dark"
+

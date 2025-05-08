@@ -1,544 +1,582 @@
 marque,modele,prix,annee,kilometrage,energie,nombre chevaux,code postal,latitude,longitude,ville,région
-Toyota,Yaris,16990,2021,68017,essence,116,3110,,,,
-Renault,Clio,21990,2020,59374,essence,145,31400,43.589648,1.47056,Toulouse,Occitanie
-Renault,Megane,24490,2024,11899,Diesel,115,31620,43.792414,1.354234,Castelnau-d'Estrétefonds,Occitanie
-Peugeot,e-2008,18790,2021,7578,hybride,136,89300,47.977862,3.398191,Joigny,Bourgogne-Franche-Comté
-Renault,Clio,25999,2019,82017,essence,145,6800,,,,
-Renault,Captur,19990,2023,41293,essence,160,83400,43.116731,6.20255,Hyères,Provence-Alpes-Côte d'Azur
-Renault,Captur,24690,2022,48980,essence,150,78190,48.778249,1.993009,Trappes,Île-de-France
-Mercedes-Benz,GLA,21990,2023,24805,essence,250,54520,48.688106,6.141298,Laxou,Grand Est
-Renault,Megane,28990,2024,8000,essence,115,62140,50.371996,2.033863,Hesdin-la-Forêt,Hauts-de-France
-Renault,Captur,19790,2023,22703,essence,160,91170,48.666246,2.374662,Viry-Châtillon,Île-de-France
-Renault,Clio,23990,2021,35590,essence,145,76600,49.507345,0.129995,Le Havre,Normandie
-Renault,Clio,11990,2022,76782,hybride,145,13008,43.247182,5.374045,Marseille 8e Arrondissement,
-Renault,Captur,20990,2024,7900,hybride,145,76360,49.544169,0.949823,Barentin,Normandie
-Renault,Clio,25290,2023,17287,hybride,145,64000,43.313159,-0.343106,Pau,Nouvelle-Aquitaine
-Renault,Captur,28489,2023,5668,essence,160,57100,49.370617,6.150548,Thionville,Grand Est
-Renault,Captur,19990,2022,61755,essence,160,83400,43.116731,6.20255,Hyères,Provence-Alpes-Côte d'Azur
-Renault,Clio,21490,2024,9500,essence,145,14000,49.184316,-0.37193,Caen,Normandie
-Renault,Arkana,18490,2022,28393,essence,140,47400,44.38244,0.324108,Tonneins,Nouvelle-Aquitaine
-Renault,Clio,34950,2024,25417,essence,90,77186,48.847293,2.623401,Noisiel,Île-de-France
-Nissan,Qashqai,28190,2023,25662,essence,190,77210,48.412892,2.728822,Avon,Île-de-France
-Renault,Arkana,18990,2024,5853,essence,140,69130,45.782507,4.776493,Écully,Auvergne-Rhône-Alpes
-Renault,Captur,21990,2024,2734,essence,160,31400,43.589648,1.47056,Toulouse,Occitanie
-Renault,Captur,39514,2021,22617,essence,140,69140,45.818387,4.892817,Rillieux-la-Pape,Auvergne-Rhône-Alpes
-Renault,Captur,15990,2021,25746,essence,145,63210,45.717155,2.902465,Nébouzat,Auvergne-Rhône-Alpes
-Peugeot,e-2008,27490,2024,15553,Diesel,136,56000,47.659971,-2.752192,Vannes,Bretagne
-Renault,Megane,18490,2023,31460,essence,115,71100,46.792112,4.846002,Chalon-sur-Saône,Bourgogne-Franche-Comté
-Renault,Megane E Tech,17590,2020,75437,essence,160,76600,49.507345,0.129995,Le Havre,Normandie
-Renault,Clio,27990,2022,23095,essence,90,77186,48.847293,2.623401,Noisiel,Île-de-France
-Renault,Clio,20990,2022,40591,essence,90,86100,46.8162,0.551,Châtellerault,Nouvelle-Aquitaine
-Peugeot,e-2008,26900,2021,61274,essence,136,50110,49.632965,-1.529136,Digosville,Normandie
-Renault,Captur,23990,2023,10437,essence,160,86440,46.623612,0.309819,Migné-Auxances,Nouvelle-Aquitaine
-Dacia,Sandero,15990,2023,20847,essence,90,41000,47.581246,1.316402,Blois,Centre-Val de Loire
-Renault,Captur,20900,2025,9900,essence,145,91150,48.429826,2.156585,Étampes,Île-de-France
-Renault,Captur,17390,2021,59366,essence,160,22100,48.446574,-2.053922,Dinan,Bretagne
-Renault,Captur,26890,2022,42325,essence,145,49000,47.467471,-0.561615,Angers,Pays de la Loire
-Mercedes-Benz,Classe A,36900,2024,1475,essence,250,68390,47.783364,7.378135,Sausheim,Grand Est
-Mercedes-Benz,GLA,46660,2020,50833,essence,250,11000,43.206781,2.349415,Carcassonne,Occitanie
-Renault,Megane,24990,2024,18098,Diesel,115,28630,48.424752,1.499279,Le Coudray,Centre-Val de Loire
-Renault,Arkana,27500,2021,54935,essence,145,49000,47.467471,-0.561615,Angers,Pays de la Loire
-Renault,Clio,26500,2023,3119,essence,145,89100,48.191828,3.292827,Sens,Bourgogne-Franche-Comté
-Renault,Captur,27600,2021,123519,Diesel,145,77240,48.562965,2.597355,Cesson,Île-de-France
-Renault,Clio,20990,2024,19605,hybride,90,76000,49.440044,1.093912,Rouen,Normandie
-Renault,Captur,24400,2024,6311,essence,160,31100,43.564743,1.409182,Toulouse,Occitanie
-Renault,Captur,18590,2023,19677,essence,145,91150,48.429826,2.156585,Étampes,Île-de-France
-Renault,Clio,23925,2023,12671,essence,145,64500,43.391942,-1.633128,Saint-Jean-de-Luz,Nouvelle-Aquitaine
-Renault,Captur,18490,2021,52072,essence,160,41200,47.363293,1.7449,Romorantin-Lanthenay,Centre-Val de Loire
-Mercedes-Benz,GLA,47980,2020,50014,hybride,250,67590,48.823958,7.732588,Schweighouse-sur-Moder,Grand Est
-Peugeot,e-2008,27990,2022,47868,essence,136,33310,44.87595,-0.516136,Lormont,Nouvelle-Aquitaine
-Renault,Megane,16990,2017,58872,essence,165,91300,48.728133,2.269556,Massy,Normandie
-Renault,Captur,14990,2021,74737,essence,160,22000,48.508238,-2.766074,Saint-Brieuc,Bretagne
-Peugeot,2008,44990,2020,81554,essence,130,67700,48.739971,7.369851,Saverne,Grand Est
-Renault,Captur,23890,2019,84018,Diesel,90,6150,,,,
-Renault,Clio,18990,2021,57402,essence,140,31400,43.589648,1.47056,Toulouse,Occitanie
-Renault,Captur,21490,2021,41069,hybride,160,4100,,,,
-Renault,Clio,31490,2024,5060,essence,145,78190,48.778249,1.993009,Trappes,Île-de-France
-Renault,Megane E Tech,22490,2022,37980,essence,160,4100,,,,
-Renault,Captur,17500,2022,42177,essence,145,21400,47.863953,4.584361,Châtillon-sur-Seine,Bourgogne-Franche-Comté
-Renault,Captur,20499,2022,20662,essence,120,34420,43.324569,3.280901,Villeneuve-lès-Béziers,Occitanie
-Peugeot,e-2008,21690,2021,92498,essence,136,59650,50.638933,3.129316,Villeneuve-d'Ascq,Hauts-de-France
-Renault,Clio,23790,2022,23164,essence,145,64200,43.47144,-1.555081,Biarritz,Nouvelle-Aquitaine
-Renault,Captur,16490,2022,25990,Diesel,145,47300,44.416152,0.747052,Villeneuve-sur-Lot,Nouvelle-Aquitaine
-Renault,Clio,16990,2024,20954,essence,145,67500,48.814549,7.772611,Haguenau,Grand Est
-Renault,Megane,21500,2019,92689,essence,140,69200,45.707095,4.881379,Vénissieux,Auvergne-Rhône-Alpes
-Renault,Captur,23490,2024,15017,essence,160,78630,48.926202,1.978094,Orgeval,Hauts-de-France
-Renault,Clio,16490,2023,13401,essence,145,14000,49.184316,-0.37193,Caen,Normandie
-Renault,Clio,21790,2022,42498,essence,90,44210,47.123874,-2.054329,Pornic,Pays de la Loire
-Renault,Captur,16990,2024,16389,essence,145,33210,44.535691,-0.241774,Langon,Bretagne
-Renault,Captur,21480,2024,8056,essence,160,69009,45.783352,4.811355,Lyon 9e Arrondissement,
-Renault,Captur,22990,2018,106213,Diesel,145,88800,48.201318,5.949091,Vittel,Grand Est
-Renault,Captur,18990,2022,27317,essence,120,6110,,,,
-Renault,Captur,17490,2024,10,essence,145,83400,43.116731,6.20255,Hyères,Provence-Alpes-Côte d'Azur
-Nissan,Qashqai,41267,2024,9000,essence,190,91100,48.598229,2.465045,Corbeil-Essonnes,Île-de-France
-Renault,Captur,29874,2020,50556,essence,140,69140,45.818387,4.892817,Rillieux-la-Pape,Auvergne-Rhône-Alpes
-Mercedes-Benz,GLA,45990,2020,46258,essence,250,57070,49.136824,6.204782,Saint-Julien-lès-Metz,Grand Est
-Dacia,Sandero Stepway,10490,2023,16708,essence,90,69400,45.985089,4.724382,Villefranche-sur-Saône,Auvergne-Rhône-Alpes
-Renault,Arkana,21090,2022,22421,essence,140,52000,48.104307,5.129976,Chaumont,Île-de-France
-Renault,Clio,22990,2023,27510,essence,145,69140,45.818387,4.892817,Rillieux-la-Pape,Auvergne-Rhône-Alpes
-Nissan,Qashqai,27900,2023,24896,essence,190,77240,48.562965,2.597355,Cesson,Île-de-France
-Renault,Arkana,21690,2017,103552,essence,145,49000,47.467471,-0.561615,Angers,Pays de la Loire
-Renault,Megane,24500,2024,10418,Diesel,115,31100,43.564743,1.409182,Toulouse,Occitanie
-Citroën,C3,36900,2023,37092,Diesel,113,61000,48.429859,0.092935,Alençon,Normandie
-Renault,Clio,22990,2024,6981,essence,140,49000,47.467471,-0.561615,Angers,Pays de la Loire
-Renault,Captur,24990,2024,30469,essence,145,76600,49.507345,0.129995,Le Havre,Normandie
-Renault,Captur,37475,2024,8804,essence,160,22000,48.508238,-2.766074,Saint-Brieuc,Bretagne
-Renault,Arkana,37248,2020,77169,essence,140,62200,50.726334,1.6106,Boulogne-sur-Mer,Hauts-de-France
-Renault,Megane,24490,2022,64215,Diesel,140,71400,46.938842,4.304399,Autun,Bourgogne-Franche-Comté
-Renault,Captur,15490,2022,100,essence,145,64200,43.47144,-1.555081,Biarritz,Nouvelle-Aquitaine
-Renault,Clio,13990,2020,99398,essence,90,86440,46.623612,0.309819,Migné-Auxances,Nouvelle-Aquitaine
-Renault,Captur,42490,2024,20020,essence,160,93160,48.840106,2.551491,Noisy-le-Grand,Île-de-France
-Renault,Megane,25490,2024,16200,Diesel,115,35400,48.642082,-1.988626,Saint-Malo,Bretagne
-Renault,Clio,24590,2022,16612,essence,145,41250,47.553345,1.449717,Mont-près-Chambord,Centre-Val de Loire
-Nissan,Qashqai,27900,2023,30167,essence,190,77210,48.412892,2.728822,Avon,Île-de-France
-Citroën,C4 X,18778,2022,33530,essence,100,11100,43.163861,3.051546,Narbonne,Occitanie
-Renault,Captur,25680,2024,12703,essence,145,78700,49.000025,2.099679,Conflans-Sainte-Honorine,Île-de-France
-Renault,Clio,19990,2021,58435,Diesel,145,78190,48.778249,1.993009,Trappes,Île-de-France
-Renault,Captur,24890,2020,49080,essence,160,83160,43.143841,5.990889,La Valette-du-Var,Provence-Alpes-Côte d'Azur
-Renault,Captur,25000,2023,21792,essence,160,49000,47.467471,-0.561615,Angers,Pays de la Loire
-Renault,Captur,17990,2020,73291,essence,155,92100,48.836953,2.242538,Boulogne-Billancourt,Île-de-France
-Renault,Megane,17150,2020,47408,hybride,115,59230,50.436464,3.431727,Saint-Amand-les-Eaux,Hauts-de-France
-Renault,Captur,15890,2022,10422,essence,145,78700,49.000025,2.099679,Conflans-Sainte-Honorine,Île-de-France
-Renault,Clio,22890,2023,10465,essence,145,77186,48.847293,2.623401,Noisiel,Île-de-France
-Renault,Captur,24820,2023,17963,essence,160,37600,47.122156,0.981834,Loches,Centre-Val de Loire
-Renault,Arkana,10990,2018,15577,essence,145,59155,50.597964,3.070966,Faches-Thumesnil,Hauts-de-France
-Mercedes-Benz,GLA,40990,2024,14459,essence,200,57070,49.136824,6.204782,Saint-Julien-lès-Metz,Grand Est
-Renault,Megane,16890,2024,1651,hybride,115,86440,46.623612,0.309819,Migné-Auxances,Nouvelle-Aquitaine
-Renault,Captur,23990,2019,56150,Diesel,145,64100,43.488544,-1.466564,Bayonne,Nouvelle-Aquitaine
-Renault,Captur,25990,2023,41999,essence,145,63210,45.717155,2.902465,Nébouzat,Auvergne-Rhône-Alpes
-Renault,Captur,16790,2024,19125,essence,140,37170,47.332303,0.717976,Chambray-lès-Tours,Centre-Val de Loire
-Renault,Clio,19290,2022,69500,Diesel,140,82000,44.01984,1.363799,Montauban,Occitanie
-Toyota,Yaris,31990,2021,36240,essence,130,38920,45.283529,5.883069,Crolles,Auvergne-Rhône-Alpes
-Renault,Clio,23390,2022,146781,Diesel,140,31100,43.564743,1.409182,Toulouse,Occitanie
-Renault,Megane,21500,2024,10601,essence,115,64500,43.391942,-1.633128,Saint-Jean-de-Luz,Nouvelle-Aquitaine
-Renault,Megane,24990,2021,50757,essence,115,71000,46.325859,4.810979,Mâcon,Bourgogne-Franche-Comté
-Renault,Megane,17990,2024,26902,essence,115,35200,48.097194,-1.653987,Rennes,Bretagne
-Renault,Captur,17390,2024,4385,essence,145,77186,48.847293,2.623401,Noisiel,Île-de-France
-Peugeot,e-2008,20500,2021,67597,hybride,136,59650,50.638933,3.129316,Villeneuve-d'Ascq,Hauts-de-France
-Renault,Captur,37990,2020,46310,essence,160,83400,43.116731,6.20255,Hyères,Provence-Alpes-Côte d'Azur
-Renault,Megane,22890,2025,10,essence,115,18230,47.108769,2.363377,Saint-Doulchard,Centre-Val de Loire
-Renault,Captur,20489,2022,29578,essence,160,19200,45.553678,2.302814,Ussel,Auvergne-Rhône-Alpes
-Nissan,Qashqai,35990,2020,39827,essence,190,89100,48.191828,3.292827,Sens,Bourgogne-Franche-Comté
-Renault,Captur,23490,2023,13969,essence,145,83160,43.143841,5.990889,La Valette-du-Var,Provence-Alpes-Côte d'Azur
-Renault,Clio,16890,2023,9451,essence,90,77186,48.847293,2.623401,Noisiel,Île-de-France
-Renault,Captur,28590,2024,4803,essence,145,76600,49.507345,0.129995,Le Havre,Normandie
-Peugeot,e-2008,18990,2020,90269,essence,136,83600,43.539399,6.690304,Bagnols-en-Forêt,Provence-Alpes-Côte d'Azur
-Dacia,Sandero Stepway,26890,2021,69535,essence,90,89100,48.191828,3.292827,Sens,Bourgogne-Franche-Comté
-Renault,Captur,22490,2017,115194,essence,160,10200,48.232115,4.707135,Bar-sur-Aube,Grand Est
-Renault,Captur,25790,2024,19503,essence,145,64500,43.391942,-1.633128,Saint-Jean-de-Luz,Nouvelle-Aquitaine
-Renault,Captur,22990,2023,39129,essence,160,77600,48.839173,2.715779,Bussy-Saint-Georges,Île-de-France
-Renault,Clio,19990,2022,17462,essence,145,64500,43.391942,-1.633128,Saint-Jean-de-Luz,Nouvelle-Aquitaine
-Renault,Clio,23490,2021,134875,essence,145,10200,48.232115,4.707135,Bar-sur-Aube,Grand Est
-Renault,Captur,23690,2024,18295,essence,145,83500,43.093147,5.879651,La Seyne-sur-Mer,Provence-Alpes-Côte d'Azur
-Renault,Captur,36390,2023,37159,essence,145,78000,48.803019,2.131319,Versailles,Île-de-France
-Nissan,Qashqai,42890,2025,9900,essence,190,49000,47.467471,-0.561615,Angers,Pays de la Loire
-Renault,Captur,22990,2024,10000,essence,145,89000,47.791247,3.579905,Auxerre,Bourgogne-Franche-Comté
-Renault,Captur,16290,2020,115641,Diesel,160,64230,43.33303,-0.432535,Lescar,Nouvelle-Aquitaine
-Mercedes-Benz,GLA,43900,2024,21819,essence,250,67590,48.823958,7.732588,Schweighouse-sur-Moder,Grand Est
-Renault,Megane,23990,2024,16875,Diesel,115,83600,43.539399,6.690304,Bagnols-en-Forêt,Provence-Alpes-Côte d'Azur
-Renault,Captur,15490,2024,14178,essence,160,83140,43.091706,5.8176,Six-Fours-les-Plages,Provence-Alpes-Côte d'Azur
-Renault,Clio,24000,2024,31386,Diesel,140,78190,48.778249,1.993009,Trappes,Île-de-France
-Peugeot,e-2008,22990,2020,43852,essence,136,83100,43.129342,5.968125,Toulon,Occitanie
-Renault,Captur,21990,2022,50239,essence,155,84300,43.849364,5.032096,Cavaillon,Provence-Alpes-Côte d'Azur
-Renault,Clio,16790,2023,51597,essence,140,5000,,,,
-Renault,Captur,25000,2023,27197,Diesel,115,64500,43.391942,-1.633128,Saint-Jean-de-Luz,Nouvelle-Aquitaine
-Renault,Clio,15990,2019,55345,essence,140,44700,47.270999,-1.619416,Orvault,Pays de la Loire
-Renault,Captur,24890,2021,34276,essence,145,33140,44.77508,-0.55453,Villenave-d'Ornon,Nouvelle-Aquitaine
-Dacia,Sandero,17500,2023,31507,essence,90,71200,46.806421,4.426656,Le Creusot,Bourgogne-Franche-Comté
-Renault,Arkana,20590,2022,23327,essence,140,69200,45.707095,4.881379,Vénissieux,Auvergne-Rhône-Alpes
-Renault,Clio,17990,2020,22212,essence,130,22100,48.446574,-2.053922,Dinan,Bretagne
-Mercedes-Benz,Classe A,30400,2020,71188,essence,180,67590,48.823958,7.732588,Schweighouse-sur-Moder,Grand Est
-Dacia,Spring,19900,2024,10148,essence,65,21400,47.863953,4.584361,Châtillon-sur-Seine,Bourgogne-Franche-Comté
-Renault,Clio,19990,2023,19025,essence,145,37170,47.332303,0.717976,Chambray-lès-Tours,Centre-Val de Loire
-Renault,Megane,16290,2024,14800,Diesel,115,78190,48.778249,1.993009,Trappes,Île-de-France
-Renault,Clio,14590,2020,25000,essence,140,91940,48.681532,2.185946,Les Ulis,Île-de-France
-Peugeot,e-2008,22990,2018,57078,Diesel,136,92100,48.836953,2.242538,Boulogne-Billancourt,Île-de-France
-Mercedes-Benz,Classe C,22900,2025,500,essence,220,31200,43.643673,1.432927,Toulouse,Occitanie
-Peugeot,2008,31990,2020,147047,Diesel,145,67700,48.739971,7.369851,Saverne,Grand Est
-Renault,Megane E Tech,29600,2021,85532,essence,160,69700,45.582983,4.755839,Givors,Auvergne-Rhône-Alpes
-Renault,Captur,54990,2021,61789,Diesel,160,77170,48.689182,2.616408,Brie-Comte-Robert,Île-de-France
-Renault,Clio,16890,2021,37000,essence,90,77186,48.847293,2.623401,Noisiel,Île-de-France
-Renault,Captur,27990,2023,8123,hybride,145,83300,43.531436,6.460296,Draguignan,Provence-Alpes-Côte d'Azur
-Renault,Arkana,23890,2022,27101,essence,145,94170,48.8435,2.504424,Le Perreux-sur-Marne,Île-de-France
-Renault,Megane,25990,2024,5992,Diesel,115,69009,45.783352,4.811355,Lyon 9e Arrondissement,
-Renault,Clio,23390,2022,42632,essence,145,37600,47.122156,0.981834,Loches,Centre-Val de Loire
-Renault,Arkana,19990,2021,40810,essence,145,77600,48.839173,2.715779,Bussy-Saint-Georges,Île-de-France
-Renault,Megane,21990,2020,47979,essence,115,28630,48.424752,1.499279,Le Coudray,Centre-Val de Loire
-Mercedes-Benz,GLA,21990,2021,81351,essence,200,57070,49.136824,6.204782,Saint-Julien-lès-Metz,Grand Est
-Renault,Megane,23980,2021,87610,Diesel,115,28630,48.424752,1.499279,Le Coudray,Centre-Val de Loire
-Renault,Arkana,20490,2022,38683,essence,145,13120,43.457301,5.48627,Gardanne,Provence-Alpes-Côte d'Azur
-Renault,Megane,25990,2021,78875,hybride,140,69200,45.707095,4.881379,Vénissieux,Auvergne-Rhône-Alpes
-Renault,Captur,16440,2020,72782,essence,115,11000,43.206781,2.349415,Carcassonne,Occitanie
-Renault,Arkana,24390,2024,17530,essence,145,6150,,,,
-Citroën,C3,26990,2022,24572,essence,113,95340,49.151056,2.273863,Persan,Île-de-France
-Renault,Clio,16490,2023,14200,essence,140,83100,43.129342,5.968125,Toulon,Occitanie
-Renault,Clio,22799,2023,11276,hybride,145,6800,,,,
-Peugeot,e-2008,13980,2023,13054,essence,136,56000,47.659971,-2.752192,Vannes,Bretagne
-Renault,Arkana,16990,2024,22537,Diesel,145,40140,43.753518,-1.329929,Soustons,Nouvelle-Aquitaine
-Renault,Captur,15490,2020,94367,essence,160,31400,43.589648,1.47056,Toulouse,Occitanie
-Renault,Clio,20190,2022,21981,essence,145,77240,48.562965,2.597355,Cesson,Île-de-France
-Renault,Clio,17490,2022,32582,essence,140,4100,,,,
-Renault,Clio,14790,2021,47399,Diesel,130,65100,43.104761,-0.046139,Lourdes,Occitanie
-Renault,Captur,15490,2024,28081,Diesel,145,59650,50.638933,3.129316,Villeneuve-d'Ascq,Hauts-de-France
-Peugeot,e-2008,14990,2021,47710,essence,136,22000,48.508238,-2.766074,Saint-Brieuc,Bretagne
-Renault,Captur,31480,2024,19147,essence,145,47300,44.416152,0.747052,Villeneuve-sur-Lot,Nouvelle-Aquitaine
-Toyota,Yaris,10490,2023,33290,Diesel,130,64400,43.17757,-0.611566,Oloron-Sainte-Marie,Nouvelle-Aquitaine
-Renault,Megane,92900,2024,28408,Diesel,115,26200,44.553424,4.745639,Montélimar,Auvergne-Rhône-Alpes
-Renault,Captur,23990,2023,21670,essence,145,41000,47.581246,1.316402,Blois,Centre-Val de Loire
-Renault,Clio,14590,2021,78915,essence,145,47000,44.202304,0.631041,Agen,Nouvelle-Aquitaine
-Renault,Captur,28289,2022,12345,essence,150,13011,43.296535,5.475446,Marseille 11e Arrondissement,
-Renault,Megane,24450,2025,3000,Diesel,115,33140,44.77508,-0.55453,Villenave-d'Ornon,Nouvelle-Aquitaine
-Renault,Clio,20690,2021,40071,essence,90,71000,46.325859,4.810979,Mâcon,Bourgogne-Franche-Comté
-Renault,Arkana,26990,2023,21885,essence,145,13008,43.247182,5.374045,Marseille 8e Arrondissement,
-Renault,Captur,26890,2025,100,hybride,145,21200,47.025352,4.84139,Beaune,Bourgogne-Franche-Comté
-Renault,Clio,19490,2024,4820,Diesel,145,64100,43.488544,-1.466564,Bayonne,Nouvelle-Aquitaine
-Renault,Captur,27490,2021,47500,essence,160,31600,43.446371,1.298368,Muret,Auvergne-Rhône-Alpes
-Citroën,C3,19830,2023,9800,essence,113,22100,48.446574,-2.053922,Dinan,Bretagne
-Renault,Captur,27990,2024,9000,essence,145,69140,45.818387,4.892817,Rillieux-la-Pape,Auvergne-Rhône-Alpes
-Renault,Captur,26990,2022,30115,essence,145,69200,45.707095,4.881379,Vénissieux,Auvergne-Rhône-Alpes
-Renault,Captur,18390,2023,20450,essence,145,78190,48.778249,1.993009,Trappes,Île-de-France
-Renault,Arkana,19950,2024,7861,essence,140,33520,44.881405,-0.60324,Bruges,Nouvelle-Aquitaine
-Renault,Megane,33190,2025,9900,Diesel,115,69140,45.818387,4.892817,Rillieux-la-Pape,Auvergne-Rhône-Alpes
-Renault,Arkana,17375,2022,95806,essence,145,35200,48.097194,-1.653987,Rennes,Bretagne
-Renault,Megane,55990,2019,71500,essence,140,45770,47.946991,1.875843,Saran,Centre-Val de Loire
-Renault,Arkana,10990,2022,39948,essence,140,49000,47.467471,-0.561615,Angers,Pays de la Loire
-Renault,Megane,21990,2021,38171,hybride,115,32600,43.613719,1.083301,L'Isle-Jourdain,Occitanie
-Renault,Captur,20990,2023,18365,essence,140,13008,43.247182,5.374045,Marseille 8e Arrondissement,
-Renault,Clio,23500,2021,81131,essence,145,69200,45.707095,4.881379,Vénissieux,Auvergne-Rhône-Alpes
-Peugeot,e-2008,21490,2021,62112,essence,136,44400,47.17269,-1.552789,Rezé,Pays de la Loire
-Renault,Arkana,16990,2022,42118,essence,140,41250,47.553345,1.449717,Mont-près-Chambord,Centre-Val de Loire
-Renault,Megane,24990,2024,17142,Diesel,115,26200,44.553424,4.745639,Montélimar,Auvergne-Rhône-Alpes
-Renault,Captur,16490,2024,2951,essence,145,83300,43.531436,6.460296,Draguignan,Provence-Alpes-Côte d'Azur
-Renault,Captur,27500,2024,14036,Diesel,160,49000,47.467471,-0.561615,Angers,Pays de la Loire
-Renault,Megane,24390,2023,5676,essence,140,69140,45.818387,4.892817,Rillieux-la-Pape,Auvergne-Rhône-Alpes
-Renault,Arkana,51900,2025,10,Diesel,145,47300,44.416152,0.747052,Villeneuve-sur-Lot,Nouvelle-Aquitaine
-Nissan,Qashqai,27991,2024,8000,essence,190,91170,48.666246,2.374662,Viry-Châtillon,Île-de-France
-Renault,Captur,24900,2023,8266,essence,145,83170,43.396543,6.070997,Brignoles,Provence-Alpes-Côte d'Azur
-Renault,Captur,23900,2025,8000,essence,160,69009,45.783352,4.811355,Lyon 9e Arrondissement,
-Renault,Captur,20490,2024,12315,Diesel,155,19200,45.553678,2.302814,Ussel,Auvergne-Rhône-Alpes
-Mercedes-Benz,GLA,23500,2024,19150,essence,250,67800,48.617985,7.751748,Bischheim,Grand Est
-Mercedes-Benz,GLA,22990,2021,47412,essence,250,62218,50.446163,2.859778,Loison-sous-Lens,Hauts-de-France
-Renault,Megane,21990,2021,60021,essence,160,37170,47.332303,0.717976,Chambray-lès-Tours,Centre-Val de Loire
-Dacia,Sandero,47990,2020,57030,essence,90,69200,45.707095,4.881379,Vénissieux,Auvergne-Rhône-Alpes
-Peugeot,e-2008,20990,2022,37905,essence,136,13008,43.247182,5.374045,Marseille 8e Arrondissement,
-Renault,Captur,20990,2023,30189,essence,160,41250,47.553345,1.449717,Mont-près-Chambord,Centre-Val de Loire
-Peugeot,e-2008,19490,2023,42146,essence,136,69200,45.707095,4.881379,Vénissieux,Auvergne-Rhône-Alpes
-Renault,Megane,24590,2024,7739,essence,140,69200,45.707095,4.881379,Vénissieux,Auvergne-Rhône-Alpes
-Renault,Clio,13990,2020,31516,essence,140,69400,45.985089,4.724382,Villefranche-sur-Saône,Auvergne-Rhône-Alpes
-Renault,Megane,16900,2024,12800,Diesel,115,69400,45.985089,4.724382,Villefranche-sur-Saône,Auvergne-Rhône-Alpes
-Renault,Captur,12990,2021,81524,essence,160,72000,47.993378,0.191169,Le Mans,Pays de la Loire
-Nissan,Qashqai,34990,2024,20,essence,190,44400,47.17269,-1.552789,Rezé,Pays de la Loire
-Renault,Clio,23980,2023,13351,essence,145,33520,44.881405,-0.60324,Bruges,Nouvelle-Aquitaine
-Renault,Clio,22200,2023,24552,essence,140,44190,47.092311,-1.27044,Clisson,Pays de la Loire
-Nissan,Qashqai,26790,2021,38765,essence,158,17200,45.634186,-1.017415,Royan,Nouvelle-Aquitaine
-Renault,Megane,18490,2021,53060,essence,140,35400,48.642082,-1.988626,Saint-Malo,Bretagne
-Renault,Captur,21900,2023,16592,essence,160,78190,48.778249,1.993009,Trappes,Île-de-France
-Renault,Megane,23590,2024,22000,Diesel,115,40100,43.700723,-1.06016,Dax,Nouvelle-Aquitaine
-Renault,Captur,19990,2022,60950,essence,160,33310,44.87595,-0.516136,Lormont,Nouvelle-Aquitaine
-Renault,Megane,28750,2024,17500,essence,115,69140,45.818387,4.892817,Rillieux-la-Pape,Auvergne-Rhône-Alpes
-Peugeot,e-2008,26990,2021,90091,Diesel,136,34000,43.610476,3.87048,Montpellier,Occitanie
-Renault,Arkana,21990,2021,116406,Diesel,140,58200,47.407726,2.93582,Cosne-Cours-sur-Loire,Bourgogne-Franche-Comté
-Dacia,Sandero,17590,2017,73598,Diesel,90,33140,44.77508,-0.55453,Villenave-d'Ornon,Nouvelle-Aquitaine
-Renault,Arkana,18480,2021,68206,hybride,140,21200,47.025352,4.84139,Beaune,Bourgogne-Franche-Comté
-Renault,Captur,14990,2023,43244,essence,140,64200,43.47144,-1.555081,Biarritz,Nouvelle-Aquitaine
-Renault,Megane,24590,2021,61566,essence,115,42000,45.430195,4.370045,Saint-Étienne,Auvergne-Rhône-Alpes
-Peugeot,e-2008,26389,2024,9222,essence,136,92000,48.898095,2.202314,Nanterre,Île-de-France
-Renault,Captur,23490,2020,49333,essence,145,50110,49.632965,-1.529136,Digosville,Normandie
-Toyota,Yaris,22490,2021,44260,essence,116,31100,43.564743,1.409182,Toulouse,Occitanie
-Renault,Captur,14990,2022,31037,essence,160,52000,48.104307,5.129976,Chaumont,Île-de-France
-Nissan,Qashqai,29900,2024,21920,essence,190,77210,48.412892,2.728822,Avon,Île-de-France
-Renault,Captur,23990,2020,46352,essence,145,86100,46.8162,0.551,Châtellerault,Nouvelle-Aquitaine
-Renault,Captur,25990,2021,59913,essence,145,83170,43.396543,6.070997,Brignoles,Provence-Alpes-Côte d'Azur
-Nissan,Qashqai,38791,2024,10000,essence,190,91100,48.598229,2.465045,Corbeil-Essonnes,Île-de-France
-Renault,Captur,16495,2021,52284,essence,145,47000,44.202304,0.631041,Agen,Nouvelle-Aquitaine
-Toyota,Yaris,19900,2021,41720,essence,116,38170,45.174023,5.679611,Seyssinet-Pariset,Auvergne-Rhône-Alpes
-Dacia,Sandero,25990,2023,28667,hybride,90,93100,48.863728,2.449364,Montreuil,Bourgogne-Franche-Comté
-Toyota,C-HR,20990,2021,29011,hybride,185,24000,45.19334,0.711299,Périgueux,Nouvelle-Aquitaine
-Renault,Captur,21790,2020,27015,essence,140,69140,45.818387,4.892817,Rillieux-la-Pape,Auvergne-Rhône-Alpes
-Renault,Captur,22890,2022,28207,essence,145,49000,47.467471,-0.561615,Angers,Pays de la Loire
-Renault,Arkana,23999,2022,29266,essence,145,92400,48.897974,2.257057,Courbevoie,Île-de-France
-Renault,Clio,18900,2024,6900,essence,145,41250,47.553345,1.449717,Mont-près-Chambord,Centre-Val de Loire
-Renault,Captur,19500,2024,5369,hybride,160,89000,47.791247,3.579905,Auxerre,Bourgogne-Franche-Comté
-Renault,Megane,31890,2024,10714,Diesel,115,64100,43.488544,-1.466564,Bayonne,Nouvelle-Aquitaine
-Renault,Captur,31690,2021,38874,essence,145,69200,45.707095,4.881379,Vénissieux,Auvergne-Rhône-Alpes
-Mercedes-Benz,GLA,14590,2024,9041,hybride,250,69200,45.707095,4.881379,Vénissieux,Auvergne-Rhône-Alpes
-Mercedes-Benz,Classe A,19690,2022,31792,essence,200,54520,48.688106,6.141298,Laxou,Grand Est
-Renault,Arkana,19990,2022,54889,essence,145,35200,48.097194,-1.653987,Rennes,Bretagne
-Renault,Captur,24380,2023,19408,Diesel,145,78700,49.000025,2.099679,Conflans-Sainte-Honorine,Île-de-France
-Renault,Captur,23490,2024,25297,hybride,160,93500,48.900267,2.409457,Pantin,Île-de-France
-Citroën,C3,43750,2023,31594,essence,113,14100,49.145761,0.242246,Lisieux,Normandie
-Renault,Captur,17980,2021,66885,essence,150,64000,43.313159,-0.343106,Pau,Nouvelle-Aquitaine
-Citroën,C3,22980,2023,24000,essence,113,95340,49.151056,2.273863,Persan,Île-de-France
-Renault,Arkana,20590,2021,81503,essence,145,83500,43.093147,5.879651,La Seyne-sur-Mer,Provence-Alpes-Côte d'Azur
-Renault,Captur,28880,2021,78630,essence,145,84300,43.849364,5.032096,Cavaillon,Provence-Alpes-Côte d'Azur
-Renault,Captur,35990,2025,3000,essence,160,40100,43.700723,-1.06016,Dax,Nouvelle-Aquitaine
-Renault,Captur,19990,2021,21850,essence,140,72000,47.993378,0.191169,Le Mans,Pays de la Loire
-Volkswagen,Golf,28590,2021,55000,essence,136,13008,43.247182,5.374045,Marseille 8e Arrondissement,
-Renault,Captur,11990,2025,9900,essence,160,59230,50.436464,3.431727,Saint-Amand-les-Eaux,Hauts-de-France
-Mercedes-Benz,GLA,31990,2020,22626,essence,200,68390,47.783364,7.378135,Sausheim,Grand Est
-Renault,Arkana,18980,2018,61814,essence,140,21000,47.331848,5.033601,Dijon,Bourgogne-Franche-Comté
-Renault,Megane E Tech,23490,2023,6289,essence,160,28630,48.424752,1.499279,Le Coudray,Centre-Val de Loire
-Renault,Captur,19690,2025,10,essence,160,31620,43.792414,1.354234,Castelnau-d'Estrétefonds,Occitanie
-Renault,Clio,20990,2024,15967,essence,145,32000,43.656961,0.57082,Auch,Occitanie
-Renault,Megane,19990,2022,2639,Diesel,115,83400,43.116731,6.20255,Hyères,Provence-Alpes-Côte d'Azur
-Nissan,Qashqai,30490,2023,46890,essence,190,49000,47.467471,-0.561615,Angers,Pays de la Loire
-Peugeot,e-2008,17990,2022,129036,Diesel,136,17810,45.775564,-0.703298,Saint-Georges-des-Coteaux,Nouvelle-Aquitaine
-Peugeot,e-2008,22490,2021,17500,essence,136,66000,42.701392,2.902878,Perpignan,Occitanie
-Renault,Megane,18490,2025,10000,essence,115,89100,48.191828,3.292827,Sens,Bourgogne-Franche-Comté
-Renault,Captur,16690,2023,15000,hybride,145,13120,43.457301,5.48627,Gardanne,Provence-Alpes-Côte d'Azur
-Renault,Clio,34800,2024,16500,Diesel,145,47000,44.202304,0.631041,Agen,Nouvelle-Aquitaine
-Toyota,Yaris,20490,2023,37729,essence,100,92000,48.898095,2.202314,Nanterre,Île-de-France
-Renault,Arkana,61900,2020,91236,essence,145,65000,43.239085,0.065776,Tarbes,Occitanie
-Toyota,Yaris,26000,2024,3937,essence,116,31100,43.564743,1.409182,Toulouse,Occitanie
-Renault,Captur,44400,2020,64427,essence,145,94260,48.757544,2.324537,Fresnes,Bourgogne-Franche-Comté
-Renault,Captur,25990,2024,7310,essence,145,37170,47.332303,0.717976,Chambray-lès-Tours,Centre-Val de Loire
-Renault,Captur,25989,2025,7500,essence,145,72000,47.993378,0.191169,Le Mans,Pays de la Loire
-Mercedes-Benz,Classe A,20990,2022,44052,essence,200,33700,44.83337,-0.674682,Mérignac,Nouvelle-Aquitaine
-Renault,Captur,22890,2023,16130,hybride,145,78190,48.778249,1.993009,Trappes,Île-de-France
-Renault,Clio,23480,2023,26736,essence,145,86100,46.8162,0.551,Châtellerault,Nouvelle-Aquitaine
-Renault,Clio,19990,2021,54279,Diesel,145,5000,,,,
-Renault,Captur,19900,2021,45429,essence,160,91310,48.639557,2.265535,Montlhéry,Île-de-France
-Renault,Captur,24990,2022,38000,essence,145,41250,47.553345,1.449717,Mont-près-Chambord,Centre-Val de Loire
-Renault,Megane R.S.,32990,2019,63230,essence,280,69400,45.985089,4.724382,Villefranche-sur-Saône,Auvergne-Rhône-Alpes
-Renault,Arkana,20590,2022,44704,essence,140,73460,45.633414,6.311948,Frontenex,Auvergne-Rhône-Alpes
-Renault,Clio,19980,2023,27699,essence,145,89300,47.977862,3.398191,Joigny,Bourgogne-Franche-Comté
-Renault,Clio,14990,2021,39194,essence,140,40100,43.700723,-1.06016,Dax,Nouvelle-Aquitaine
-Nissan,Qashqai,39920,2023,29544,essence,190,77240,48.562965,2.597355,Cesson,Île-de-France
-Renault,Captur,19990,2022,25507,essence,160,5000,,,,
-Renault,Megane,22990,2023,9316,essence,160,6800,,,,
-Renault,Clio,11990,2022,31978,essence,90,83500,43.093147,5.879651,La Seyne-sur-Mer,Provence-Alpes-Côte d'Azur
-Renault,Captur,24390,2020,149764,essence,160,75014,48.830108,2.323026,Paris 14e Arrondissement,
-Renault,Arkana,24490,2024,19550,essence,140,49000,47.467471,-0.561615,Angers,Pays de la Loire
-Dacia,Sandero,18890,2024,8458,essence,90,93100,48.863728,2.449364,Montreuil,Bourgogne-Franche-Comté
-Nissan,Qashqai,33990,2024,10,essence,190,49000,47.467471,-0.561615,Angers,Pays de la Loire
-Peugeot,e-2008,17490,2021,34997,essence,136,13008,43.247182,5.374045,Marseille 8e Arrondissement,
-Renault,Captur,18490,2020,25506,essence,130,92100,48.836953,2.242538,Boulogne-Billancourt,Île-de-France
-Renault,Captur,22499,2023,19003,essence,145,33520,44.881405,-0.60324,Bruges,Nouvelle-Aquitaine
-Renault,Captur,18490,2024,6424,essence,115,45770,47.946991,1.875843,Saran,Centre-Val de Loire
-Renault,Captur,18500,2023,29952,essence,145,5000,,,,
-Renault,Captur,47900,2023,43740,essence,160,89100,48.191828,3.292827,Sens,Bourgogne-Franche-Comté
-Renault,Megane,23990,2024,4207,Diesel,115,69009,45.783352,4.811355,Lyon 9e Arrondissement,
-Renault,Megane,17990,2022,98172,Diesel,115,18230,47.108769,2.363377,Saint-Doulchard,Centre-Val de Loire
-Citroën,C3,19490,2025,7000,essence,113,44600,47.275247,-2.242494,Saint-Nazaire,Occitanie
-Renault,Clio,14990,2021,44368,essence,145,50000,49.113843,-1.080182,Saint-Lô,Normandie
-Renault,Captur,16990,2024,4318,essence,90,34970,43.570523,3.900373,Lattes,Occitanie
-Renault,Megane,25990,2024,18799,Diesel,115,18230,47.108769,2.363377,Saint-Doulchard,Centre-Val de Loire
-Renault,Clio,36990,2022,28107,essence,145,78190,48.778249,1.993009,Trappes,Île-de-France
-Renault,Arkana,20490,2020,74295,hybride,145,4100,,,,
-Renault,Captur,18990,2024,23321,Diesel,145,78000,48.803019,2.131319,Versailles,Île-de-France
-Renault,Captur,15980,2022,644,essence,120,78700,49.000025,2.099679,Conflans-Sainte-Honorine,Île-de-France
-Renault,Clio,43790,2023,18001,essence,145,47000,44.202304,0.631041,Agen,Nouvelle-Aquitaine
-Renault,Megane,24990,2021,61600,essence,115,26200,44.553424,4.745639,Montélimar,Auvergne-Rhône-Alpes
-Renault,Megane,19490,2020,24433,essence,115,21400,47.863953,4.584361,Châtillon-sur-Seine,Bourgogne-Franche-Comté
-Renault,Clio,18290,2023,3119,essence,145,24750,45.214478,0.769065,Trélissac,Nouvelle-Aquitaine
-Renault,Megane,25250,2024,9984,Diesel,115,33600,44.787468,-0.675933,Pessac,Nouvelle-Aquitaine
-Renault,Captur,23990,2024,28450,hybride,145,13011,43.296535,5.475446,Marseille 11e Arrondissement,
-Renault,Clio,21490,2024,31837,hybride,145,13400,43.301892,5.563888,Aubagne,Provence-Alpes-Côte d'Azur
-Renault,Arkana,20990,2022,43275,essence,140,52200,47.860319,5.337775,Langres,Grand Est
-Mercedes-Benz,Classe A,19990,2022,16266,Diesel,200,54520,48.688106,6.141298,Laxou,Grand Est
-Renault,Captur,34480,2021,42154,Diesel,130,33600,44.787468,-0.675933,Pessac,Nouvelle-Aquitaine
-Peugeot,2008,22790,2022,38200,essence,130,67700,48.739971,7.369851,Saverne,Grand Est
-Renault,Megane,25580,2024,19000,Diesel,115,42400,45.470463,4.505748,Saint-Chamond,Auvergne-Rhône-Alpes
-Renault,Clio,27990,2022,48694,Diesel,145,52200,47.860319,5.337775,Langres,Grand Est
-Dacia,Sandero,9950,2022,33381,essence,90,94260,48.757544,2.324537,Fresnes,Bourgogne-Franche-Comté
-Renault,Captur,21990,2022,34413,essence,145,71000,46.325859,4.810979,Mâcon,Bourgogne-Franche-Comté
-Renault,Clio,25490,2020,116503,Diesel,140,72000,47.993378,0.191169,Le Mans,Pays de la Loire
-Renault,Clio,17590,2023,19887,essence,130,78190,48.778249,1.993009,Trappes,Île-de-France
-Peugeot,2008,30900,2024,9503,essence,130,67700,48.739971,7.369851,Saverne,Grand Est
-Peugeot,e-2008,19990,2020,51504,essence,136,14000,49.184316,-0.37193,Caen,Normandie
-Renault,Clio,17980,2022,19456,essence,145,78630,48.926202,1.978094,Orgeval,Hauts-de-France
-Renault,Megane,25999,2022,23405,essence,115,50300,48.678396,-1.344601,Avranches,Normandie
-Renault,Clio,18500,2022,40544,essence,145,52200,47.860319,5.337775,Langres,Grand Est
-Renault,Captur,26700,2021,83415,essence,145,52000,48.104307,5.129976,Chaumont,Île-de-France
-Mercedes-Benz,Classe A,37990,2020,34998,essence,250,93600,48.940735,2.497929,Aulnay-sous-Bois,Île-de-France
-Renault,Captur,19999,2024,6829,essence,140,13008,43.247182,5.374045,Marseille 8e Arrondissement,
-Renault,Captur,19990,2021,49690,hybride,145,69200,45.707095,4.881379,Vénissieux,Auvergne-Rhône-Alpes
-Renault,Arkana,18790,2021,23850,essence,140,49000,47.467471,-0.561615,Angers,Pays de la Loire
-Renault,Captur,20390,2023,54444,essence,160,52200,47.860319,5.337775,Langres,Grand Est
-Renault,Captur,19990,2023,21455,hybride,160,2400,,,,
-Renault,Arkana,24990,2022,47422,essence,140,41250,47.553345,1.449717,Mont-près-Chambord,Centre-Val de Loire
-Renault,Megane,21990,2019,67000,Diesel,150,83500,43.093147,5.879651,La Seyne-sur-Mer,Provence-Alpes-Côte d'Azur
-Peugeot,e-2008,38200,2024,2272,essence,136,13920,43.453017,5.018587,Saint-Mitre-les-Remparts,Provence-Alpes-Côte d'Azur
-Renault,Captur,19990,2023,45821,essence,140,37170,47.332303,0.717976,Chambray-lès-Tours,Centre-Val de Loire
-Renault,Arkana,32990,2024,8990,essence,145,49000,47.467471,-0.561615,Angers,Pays de la Loire
-Renault,Clio,15990,2020,51000,essence,140,65100,43.104761,-0.046139,Lourdes,Occitanie
-Renault,Captur,18980,2021,46935,essence,160,78630,48.926202,1.978094,Orgeval,Hauts-de-France
-Renault,Captur,27480,2021,47078,Diesel,145,93160,48.840106,2.551491,Noisy-le-Grand,Île-de-France
-Renault,Captur,37790,2023,62847,essence,145,65100,43.104761,-0.046139,Lourdes,Occitanie
-Nissan,Qashqai,28900,2022,36000,essence,190,77240,48.562965,2.597355,Cesson,Île-de-France
-Renault,Clio,18980,2023,45942,essence,145,21400,47.863953,4.584361,Châtillon-sur-Seine,Bourgogne-Franche-Comté
-Renault,Captur,20690,2023,32568,essence,160,83170,43.396543,6.070997,Brignoles,Provence-Alpes-Côte d'Azur
-Renault,Captur,18990,2024,16264,essence,160,86440,46.623612,0.309819,Migné-Auxances,Nouvelle-Aquitaine
-Renault,Arkana,22900,2020,59515,essence,145,91300,48.728133,2.269556,Massy,Normandie
-Renault,Megane,35390,2022,24780,essence,115,64200,43.47144,-1.555081,Biarritz,Nouvelle-Aquitaine
-Renault,Arkana,20890,2024,5334,hybride,145,83300,43.531436,6.460296,Draguignan,Provence-Alpes-Côte d'Azur
-Peugeot,e-2008,20990,2020,123390,Diesel,136,14000,49.184316,-0.37193,Caen,Normandie
-Peugeot,e-2008,26490,2020,67584,essence,136,83600,43.539399,6.690304,Bagnols-en-Forêt,Provence-Alpes-Côte d'Azur
-Renault,Captur,17500,2021,71307,essence,140,71100,46.792112,4.846002,Chalon-sur-Saône,Bourgogne-Franche-Comté
-Renault,Captur,38300,2022,42046,essence,160,13200,43.64874,4.704904,Arles,Provence-Alpes-Côte d'Azur
-Renault,Captur,13490,2021,73740,essence,145,49000,47.467471,-0.561615,Angers,Pays de la Loire
-Renault,Captur,22350,2020,97562,Diesel,115,83170,43.396543,6.070997,Brignoles,Provence-Alpes-Côte d'Azur
-Renault,Captur,34990,2024,5166,essence,160,7200,,,,
-Renault,Captur,15590,2021,144981,Diesel,160,37170,47.332303,0.717976,Chambray-lès-Tours,Centre-Val de Loire
-Renault,Clio,20890,2024,4500,hybride,140,7200,,,,
-Renault,Captur,19999,2022,36560,essence,155,6800,,,,
-Renault,Captur,15290,2021,42332,essence,160,35500,48.111352,-1.192619,Vitré,Bourgogne-Franche-Comté
-Peugeot,e-2008,47990,2024,27810,essence,136,76000,49.440044,1.093912,Rouen,Normandie
-Peugeot,e-2008,29490,2020,30464,essence,136,40100,43.700723,-1.06016,Dax,Nouvelle-Aquitaine
-Renault,Clio,47900,2024,21000,hybride,140,50400,48.83071,-1.57398,Granville,Normandie
-Mercedes-Benz,Classe A,24490,2020,57707,essence,180,54520,48.688106,6.141298,Laxou,Grand Est
-Dacia,Spring,13990,2024,17002,Diesel,265,47200,44.50184,0.170988,Marmande,Nouvelle-Aquitaine
-Mercedes-Benz,Classe A,26989,2019,97366,essence,200,68390,47.783364,7.378135,Sausheim,Grand Est
-Renault,Clio,14980,2024,4101,essence,145,4100,,,,
-Renault,Megane,19380,2022,44818,Diesel,115,78630,48.926202,1.978094,Orgeval,Hauts-de-France
-Renault,Captur,25987,2020,71346,essence,145,78190,48.778249,1.993009,Trappes,Île-de-France
-Peugeot,e-2008,17290,2022,38752,essence,136,69400,45.985089,4.724382,Villefranche-sur-Saône,Auvergne-Rhône-Alpes
-Renault,Megane,21480,2022,45501,essence,115,21000,47.331848,5.033601,Dijon,Bourgogne-Franche-Comté
-Renault,Clio,10980,2022,55987,essence,140,57070,49.136824,6.204782,Saint-Julien-lès-Metz,Grand Est
-Renault,Megane,22450,2021,60080,essence,140,28200,48.074295,1.323986,Châteaudun,Centre-Val de Loire
-Renault,Captur,23990,2023,32418,essence,145,78190,48.778249,1.993009,Trappes,Île-de-France
-Peugeot,e-2008,16290,2024,11393,hybride,136,17430,45.962309,-0.878113,Tonnay-Charente,Nouvelle-Aquitaine
-Renault,Captur,52490,2021,99230,Diesel,160,86100,46.8162,0.551,Châtellerault,Nouvelle-Aquitaine
-Renault,Captur,23000,2023,25947,essence,145,21400,47.863953,4.584361,Châtillon-sur-Seine,Bourgogne-Franche-Comté
-Renault,Captur,40990,2023,29980,essence,90,34170,43.637422,3.910191,Castelnau-le-Lez,Occitanie
-Renault,Clio,15490,2021,41672,essence,130,78190,48.778249,1.993009,Trappes,Île-de-France
-Renault,Clio,34989,2021,20447,essence,140,64200,43.47144,-1.555081,Biarritz,Nouvelle-Aquitaine
-Renault,Captur,19990,2022,10875,essence,145,37170,47.332303,0.717976,Chambray-lès-Tours,Centre-Val de Loire
-Renault,Captur,16790,2020,79083,essence,145,92400,48.897974,2.257057,Courbevoie,Île-de-France
-Renault,Clio,16890,2021,32287,essence,145,31400,43.589648,1.47056,Toulouse,Occitanie
-Renault,Captur,18990,2024,14000,essence,145,78700,49.000025,2.099679,Conflans-Sainte-Honorine,Île-de-France
-Renault,Megane,15490,2019,73499,Diesel,115,13008,43.247182,5.374045,Marseille 8e Arrondissement,
-Renault,Captur,25990,2021,69342,essence,145,37600,47.122156,0.981834,Loches,Centre-Val de Loire
-Renault,Captur,12490,2020,118715,Diesel,145,10200,48.232115,4.707135,Bar-sur-Aube,Grand Est
-Peugeot,e-2008,38490,2021,74533,Diesel,156,58000,46.988535,3.160778,Nevers,Bourgogne-Franche-Comté
-Renault,Captur,53900,2021,112515,essence,160,6800,,,,
-Renault,Captur,23593,2018,93871,essence,160,43100,45.297811,3.381042,Brioude,Auvergne-Rhône-Alpes
-Renault,Clio,27500,2025,100,hybride,145,89100,48.191828,3.292827,Sens,Bourgogne-Franche-Comté
-Renault,Captur,27900,2024,8159,hybride,160,77120,48.813852,3.091044,Coulommiers,Île-de-France
-Peugeot,e-2008,27990,2019,13196,essence,136,83600,43.539399,6.690304,Bagnols-en-Forêt,Provence-Alpes-Côte d'Azur
-Renault,Captur,25990,2024,7000,essence,155,5000,,,,
-Nissan,Qashqai,27990,2022,33407,essence,158,91700,48.639041,2.327655,Sainte-Geneviève-des-Bois,Centre-Val de Loire
-Renault,Captur,21480,2021,87044,Diesel,145,47200,44.50184,0.170988,Marmande,Nouvelle-Aquitaine
-Renault,Clio,21990,2022,29954,essence,90,77600,48.839173,2.715779,Bussy-Saint-Georges,Île-de-France
-Renault,Clio,20990,2022,21648,essence,145,91200,48.70896,2.384591,Athis-Mons,Île-de-France
-Nissan,Qashqai,30990,2023,25000,essence,158,17690,46.103589,-1.113775,Angoulins,Nouvelle-Aquitaine
-Dacia,Sandero Stepway,15390,2021,39194,essence,90,40100,43.700723,-1.06016,Dax,Nouvelle-Aquitaine
-Renault,Captur,26990,2023,36725,essence,145,37600,47.122156,0.981834,Loches,Centre-Val de Loire
-Renault,Captur,60990,2024,6913,essence,160,92140,48.796102,2.25475,Clamart,Île-de-France
-Renault,Arkana,29480,2024,16655,Diesel,145,21200,47.025352,4.84139,Beaune,Bourgogne-Franche-Comté
-Renault,Captur,24780,2024,15897,essence,145,91940,48.681532,2.185946,Les Ulis,Île-de-France
-Renault,Captur,30490,2021,38785,essence,160,83160,43.143841,5.990889,La Valette-du-Var,Provence-Alpes-Côte d'Azur
-Renault,Clio,16490,2024,12235,essence,140,5000,,,,
-Mercedes-Benz,Classe C,22890,2024,14114,essence,300,67800,48.617985,7.751748,Bischheim,Grand Est
-Renault,Megane,20890,2024,15410,Diesel,115,83170,43.396543,6.070997,Brignoles,Provence-Alpes-Côte d'Azur
-Renault,Arkana,24990,2022,59615,essence,145,44210,47.123874,-2.054329,Pornic,Pays de la Loire
-Renault,Clio,27990,2020,129006,essence,145,63210,45.717155,2.902465,Nébouzat,Auvergne-Rhône-Alpes
-Dacia,Sandero,21900,2023,46589,essence,90,69400,45.985089,4.724382,Villefranche-sur-Saône,Auvergne-Rhône-Alpes
-Mercedes-Benz,GLA,12390,2024,9000,Diesel,200,57180,49.347648,6.13459,Terville,Grand Est
-Renault,Captur,91900,2020,109553,essence,145,52000,48.104307,5.129976,Chaumont,Île-de-France
-Renault,Captur,22490,2021,61735,essence,160,91150,48.429826,2.156585,Étampes,Île-de-France
-Nissan,Qashqai,26490,2023,17959,essence,190,49000,47.467471,-0.561615,Angers,Pays de la Loire
-Renault,Arkana,20999,2022,50405,essence,140,13400,43.301892,5.563888,Aubagne,Provence-Alpes-Côte d'Azur
-Renault,Megane,17900,2022,63788,essence,140,47000,44.202304,0.631041,Agen,Nouvelle-Aquitaine
-Renault,Captur,41480,2021,49502,essence,160,3100,,,,
-Renault,Clio,16290,2023,20919,essence,130,63170,45.752526,3.125785,Aubière,Auvergne-Rhône-Alpes
-Renault,Clio,20790,2020,41735,essence,140,93100,48.863728,2.449364,Montreuil,Bourgogne-Franche-Comté
-Mercedes-Benz,Classe A,25890,2020,116155,Diesel,200,57070,49.136824,6.204782,Saint-Julien-lès-Metz,Grand Est
-Mercedes-Benz,GLA,19990,2024,16383,Diesel,200,68390,47.783364,7.378135,Sausheim,Grand Est
-Renault,Clio,15990,2020,71831,hybride,140,13400,43.301892,5.563888,Aubagne,Provence-Alpes-Côte d'Azur
-Renault,Megane E Tech,28400,2023,9650,essence,160,4100,,,,
-Renault,Captur,16990,2023,46831,essence,140,78700,49.000025,2.099679,Conflans-Sainte-Honorine,Île-de-France
-Renault,Clio,26000,2020,68593,essence,145,32600,43.613719,1.083301,L'Isle-Jourdain,Occitanie
-Renault,Captur,15990,2023,9848,essence,150,83160,43.143841,5.990889,La Valette-du-Var,Provence-Alpes-Côte d'Azur
-Renault,Captur,22490,2025,4000,essence,160,33600,44.787468,-0.675933,Pessac,Nouvelle-Aquitaine
-Renault,Clio,18399,2024,17798,Diesel,145,91200,48.70896,2.384591,Athis-Mons,Île-de-France
-Renault,Captur,21990,2022,49250,essence,145,84300,43.849364,5.032096,Cavaillon,Provence-Alpes-Côte d'Azur
-Renault,Megane,31270,2024,17090,essence,115,10200,48.232115,4.707135,Bar-sur-Aube,Grand Est
-Renault,Captur,44890,2023,16379,essence,160,78190,48.778249,1.993009,Trappes,Île-de-France
-Renault,Clio,22990,2019,53123,essence,145,69200,45.707095,4.881379,Vénissieux,Auvergne-Rhône-Alpes
-Renault,Arkana,57980,2024,9251,Diesel,140,31600,43.446371,1.298368,Muret,Auvergne-Rhône-Alpes
-Renault,Captur,25990,2020,10134,hybride,145,76000,49.440044,1.093912,Rouen,Normandie
-Nissan,Qashqai,26990,2024,13232,essence,190,77240,48.562965,2.597355,Cesson,Île-de-France
-Nissan,Qashqai,24990,2023,21000,essence,190,49000,47.467471,-0.561615,Angers,Pays de la Loire
-Renault,Clio,20990,2019,61607,essence,145,64100,43.488544,-1.466564,Bayonne,Nouvelle-Aquitaine
-Renault,Captur,16490,2024,16194,Diesel,160,92000,48.898095,2.202314,Nanterre,Île-de-France
-Renault,Captur,27490,2023,24155,essence,140,69140,45.818387,4.892817,Rillieux-la-Pape,Auvergne-Rhône-Alpes
-Renault,Clio,18700,2023,27174,essence,145,5000,,,,
-Renault,Megane,16790,2020,36096,essence,115,33140,44.77508,-0.55453,Villenave-d'Ornon,Nouvelle-Aquitaine
-Renault,Megane E Tech,19990,2023,54624,Diesel,160,42000,45.430195,4.370045,Saint-Étienne,Auvergne-Rhône-Alpes
-Renault,Arkana,21480,2023,16950,essence,145,89100,48.191828,3.292827,Sens,Bourgogne-Franche-Comté
-Nissan,Qashqai,39450,2025,100,essence,190,6110,,,,
-Renault,Clio,16890,2023,14386,essence,90,77186,48.847293,2.623401,Noisiel,Île-de-France
-Renault,Arkana,18299,2020,71839,Diesel,140,41250,47.553345,1.449717,Mont-près-Chambord,Centre-Val de Loire
-Renault,Captur,39996,2022,35225,essence,130,6800,,,,
-Peugeot,e-2008,16490,2021,34846,essence,136,76600,49.507345,0.129995,Le Havre,Normandie
-Renault,Clio,17990,2022,61543,essence,145,8200,,,,
-Renault,Arkana,21990,2022,81661,hybride,145,13008,43.247182,5.374045,Marseille 8e Arrondissement,
-Renault,Captur,20490,2024,17691,essence,140,37170,47.332303,0.717976,Chambray-lès-Tours,Centre-Val de Loire
-Renault,Megane,26000,2023,28620,essence,115,10200,48.232115,4.707135,Bar-sur-Aube,Grand Est
-Renault,Arkana,12290,2023,36139,essence,145,91170,48.666246,2.374662,Viry-Châtillon,Île-de-France
-Peugeot,e-2008,16990,2022,64140,essence,136,8000,,,,
-Mercedes-Benz,Classe A,30990,2022,69247,Diesel,200,54520,48.688106,6.141298,Laxou,Grand Est
-Peugeot,e-2008,16500,2023,27241,essence,136,13700,43.415837,5.220936,Marignane,Provence-Alpes-Côte d'Azur
-Renault,Clio,24599,2024,7775,hybride,145,91300,48.728133,2.269556,Massy,Normandie
-Renault,Clio,26490,2022,129575,Diesel,145,33110,44.864761,-0.599933,Le Bouscat,Nouvelle-Aquitaine
-Renault,Clio,19490,2021,22259,essence,140,42000,45.430195,4.370045,Saint-Étienne,Auvergne-Rhône-Alpes
-Renault,Megane,23950,2024,32667,Diesel,115,33520,44.881405,-0.60324,Bruges,Nouvelle-Aquitaine
-Renault,Captur,16690,2021,75451,Diesel,115,94260,48.757544,2.324537,Fresnes,Bourgogne-Franche-Comté
-Renault,Arkana,16499,2022,52994,hybride,140,52200,47.860319,5.337775,Langres,Grand Est
-Renault,Megane,59900,2021,37802,essence,140,41100,47.795339,1.064216,Vendôme,Centre-Val de Loire
-Renault,Captur,21990,2019,87458,essence,140,37170,47.332303,0.717976,Chambray-lès-Tours,Centre-Val de Loire
-Renault,Captur,16990,2021,66478,essence,140,31100,43.564743,1.409182,Toulouse,Occitanie
-Renault,Megane E Tech,16298,2022,45550,essence,160,65000,43.239085,0.065776,Tarbes,Occitanie
-Dacia,Sandero,11750,2021,17146,Diesel,90,56850,47.812869,-3.342841,Caudan,Bretagne
-Renault,Captur,16990,2022,54888,essence,160,91300,48.728133,2.269556,Massy,Normandie
-Renault,Captur,23590,2022,27782,essence,145,76600,49.507345,0.129995,Le Havre,Normandie
-Renault,Clio,31242,2020,72907,Diesel,140,69140,45.818387,4.892817,Rillieux-la-Pape,Auvergne-Rhône-Alpes
-Renault,Clio,23450,2021,39042,Diesel,140,59640,51.021459,2.337147,Dunkerque,Hauts-de-France
-Renault,Clio,16490,2023,4500,Diesel,140,64100,43.488544,-1.466564,Bayonne,Nouvelle-Aquitaine
-Peugeot,308 SW,38989,2021,83996,essence,156,58000,46.988535,3.160778,Nevers,Bourgogne-Franche-Comté
-Renault,Clio,23890,2022,90076,essence,90,77186,48.847293,2.623401,Noisiel,Île-de-France
-Renault,Captur,18500,2021,42756,essence,140,52200,47.860319,5.337775,Langres,Grand Est
-Renault,Megane,24480,2024,33194,Diesel,115,42400,45.470463,4.505748,Saint-Chamond,Auvergne-Rhône-Alpes
-Renault,Captur,21990,2023,25994,essence,140,69140,45.818387,4.892817,Rillieux-la-Pape,Auvergne-Rhône-Alpes
-Renault,Clio,34190,2023,21000,Diesel,145,64100,43.488544,-1.466564,Bayonne,Nouvelle-Aquitaine
-Mercedes-Benz,Classe C,27790,2021,31323,hybride,300,68390,47.783364,7.378135,Sausheim,Grand Est
-Renault,Captur,35500,2023,22244,essence,145,33210,44.535691,-0.241774,Langon,Bretagne
-Renault,Clio,12990,2023,14472,essence,90,77120,48.813852,3.091044,Coulommiers,Île-de-France
-Renault,Clio,24990,2024,5000,Diesel,145,31400,43.589648,1.47056,Toulouse,Occitanie
-Renault,Megane,37990,2023,25893,essence,115,89100,48.191828,3.292827,Sens,Bourgogne-Franche-Comté
-Citroën,C3,28990,2021,61354,essence,113,61000,48.429859,0.092935,Alençon,Normandie
-Renault,Arkana,31890,2022,17522,essence,160,49000,47.467471,-0.561615,Angers,Pays de la Loire
-Renault,Megane,22990,2023,43146,Diesel,115,21400,47.863953,4.584361,Châtillon-sur-Seine,Bourgogne-Franche-Comté
-Renault,Arkana,21990,2022,97480,essence,145,86100,46.8162,0.551,Châtellerault,Nouvelle-Aquitaine
-Mercedes-Benz,GLA,35398,2024,10562,essence,250,74100,46.189327,6.243054,Annemasse,Auvergne-Rhône-Alpes
-Renault,Arkana,49350,2021,108069,essence,140,21400,47.863953,4.584361,Châtillon-sur-Seine,Bourgogne-Franche-Comté
-Mercedes-Benz,Classe C,21299,2021,110528,Diesel,220,68390,47.783364,7.378135,Sausheim,Grand Est
-Renault,Clio,28490,2023,18413,essence,145,5000,,,,
-Renault,Captur,20490,2021,39140,essence,115,58640,47.032848,3.142538,Varennes-Vauzelles,Bourgogne-Franche-Comté
-Renault,Captur,20990,2023,34073,hybride,160,69200,45.707095,4.881379,Vénissieux,Auvergne-Rhône-Alpes
-Renault,Captur,20990,2023,12687,essence,145,37170,47.332303,0.717976,Chambray-lès-Tours,Centre-Val de Loire
-Renault,Captur,20990,2022,18300,essence,145,49000,47.467471,-0.561615,Angers,Pays de la Loire
-Peugeot,e-2008,26590,2024,4744,essence,136,14100,49.145761,0.242246,Lisieux,Normandie
-Renault,Megane E Tech,18990,2022,36809,hybride,160,42000,45.430195,4.370045,Saint-Étienne,Auvergne-Rhône-Alpes
-Renault,Megane,18490,2025,5,essence,115,42000,45.430195,4.370045,Saint-Étienne,Auvergne-Rhône-Alpes
-Renault,Clio,26990,2024,2819,hybride,145,4100,,,,
-Dacia,Spring,19900,2023,70635,Diesel,65,52000,48.104307,5.129976,Chaumont,Île-de-France
-Renault,Megane,32890,2025,8000,essence,115,64100,43.488544,-1.466564,Bayonne,Nouvelle-Aquitaine
-Renault,Captur,37890,2023,55153,essence,145,77186,48.847293,2.623401,Noisiel,Île-de-France
-Renault,Captur,59290,2020,61707,essence,160,64100,43.488544,-1.466564,Bayonne,Nouvelle-Aquitaine
-Renault,Clio,35550,2021,26480,hybride,145,35400,48.642082,-1.988626,Saint-Malo,Bretagne
-Renault,Captur,18990,2022,30674,hybride,160,69200,45.707095,4.881379,Vénissieux,Auvergne-Rhône-Alpes
-Renault,Clio,17490,2024,22755,essence,140,76000,49.440044,1.093912,Rouen,Normandie
-Peugeot,e-2008,31490,2023,30736,essence,136,22000,48.508238,-2.766074,Saint-Brieuc,Bretagne
-Renault,Captur,25590,2024,17043,essence,145,76600,49.507345,0.129995,Le Havre,Normandie
-Renault,Clio,20990,2019,69187,essence,145,13400,43.301892,5.563888,Aubagne,Provence-Alpes-Côte d'Azur
-Renault,Captur,17490,2024,8854,essence,160,52200,47.860319,5.337775,Langres,Grand Est
-Renault,Clio,18490,2024,12912,hybride,145,83500,43.093147,5.879651,La Seyne-sur-Mer,Provence-Alpes-Côte d'Azur
-Renault,Captur,29500,2022,30949,hybride,145,21400,47.863953,4.584361,Châtillon-sur-Seine,Bourgogne-Franche-Comté
-Renault,Captur,36990,2023,26508,essence,160,31400,43.589648,1.47056,Toulouse,Occitanie
-Dacia,Sandero,15499,2024,9900,essence,90,17000,46.157816,-1.170382,La Rochelle,Nouvelle-Aquitaine
-Renault,Megane,22990,2023,21507,essence,115,33520,44.881405,-0.60324,Bruges,Nouvelle-Aquitaine
-Renault,Clio,27990,2024,6626,Diesel,145,89000,47.791247,3.579905,Auxerre,Bourgogne-Franche-Comté
-Peugeot,e-2008,11880,2021,28144,essence,136,67230,48.371893,7.595545,Benfeld,Grand Est
-Renault,Captur,16290,2020,61819,essence,160,64100,43.488544,-1.466564,Bayonne,Nouvelle-Aquitaine
+Renault,Clio,14990,2021,44368,essence,145,50000.0,49.113843,-1.080182,Saint-Lô,Normandie
+Renault,Clio,12990,2023,14472,essence,90,77120.0,48.813852,3.091044,Coulommiers,Île-de-France
+Renault,Megane,23990,2024,4207,Diesel,115,69009.0,45.783352,4.811355,Lyon 9e Arrondissement,
+Citroën,C4 X,18778,2022,33530,essence,100,11100.0,43.163861,3.051546,Narbonne,Occitanie
+Renault,Clio,19990,2021,58435,Diesel,145,78190.0,48.778249,1.993009,Trappes,Île-de-France
+Renault,Captur,22350,2020,97562,Diesel,115,83170.0,43.396543,6.070997,Brignoles,Provence-Alpes-Côte d'Azur
+Peugeot,e-2008,19290,2022,16120,essence,136,,47.505522,0.820921,Monnaie,Centre-Val de Loire
+Peugeot,e-2008,35340,2021,58608,essence,136,,47.505522,0.820921,Monnaie,Centre-Val de Loire
+Renault,Megane,22990,2023,43146,Diesel,115,21400.0,47.863953,4.584361,Châtillon-sur-Seine,Bourgogne-Franche-Comté
+Renault,Megane,28750,2024,17500,essence,115,69140.0,45.818387,4.892817,Rillieux-la-Pape,Auvergne-Rhône-Alpes
+Peugeot,e-2008,17990,2020,93222,essence,136,,47.505522,0.820921,Monnaie,Centre-Val de Loire
+Renault,Captur,23690,2024,18295,essence,145,83500.0,43.093147,5.879651,La Seyne-sur-Mer,Provence-Alpes-Côte d'Azur
+Mercedes-Benz,Classe A,26989,2019,97366,essence,200,68390.0,47.783364,7.378135,Sausheim,Grand Est
+Toyota,Yaris,16990,2021,68017,essence,116,3110.0,,,,
+Renault,Captur,20990,2023,18365,essence,140,13008.0,43.247182,5.374045,Marseille 8e Arrondissement,
+Renault,Clio,16290,2023,20919,essence,130,63170.0,45.752526,3.125785,Aubière,Auvergne-Rhône-Alpes
+Peugeot,e-2008,19360,2021,77013,essence,136,,47.505522,0.820921,Monnaie,Centre-Val de Loire
+Renault,Captur,27490,2023,24155,essence,140,69140.0,45.818387,4.892817,Rillieux-la-Pape,Auvergne-Rhône-Alpes
+Renault,Clio,10980,2022,55987,essence,140,57070.0,49.136824,6.204782,Saint-Julien-lès-Metz,Grand Est
+Mercedes-Benz,GLA,21990,2023,24805,essence,250,54520.0,48.688106,6.141298,Laxou,Grand Est
+Peugeot,e-2008,38200,2024,2272,essence,136,13920.0,43.453017,5.018587,Saint-Mitre-les-Remparts,Provence-Alpes-Côte d'Azur
+Renault,Captur,23490,2023,13969,essence,145,83160.0,43.143841,5.990889,La Valette-du-Var,Provence-Alpes-Côte d'Azur
+Renault,Clio,20990,2022,40591,essence,90,86100.0,46.8162,0.551,Châtellerault,Nouvelle-Aquitaine
+Renault,Clio,18980,2023,45942,essence,145,21400.0,47.863953,4.584361,Châtillon-sur-Seine,Bourgogne-Franche-Comté
+Renault,Clio,23925,2023,12671,essence,145,64500.0,43.391942,-1.633128,Saint-Jean-de-Luz,Nouvelle-Aquitaine
+Renault,Captur,59290,2020,61707,essence,160,64100.0,43.488544,-1.466564,Bayonne,Nouvelle-Aquitaine
+Nissan,Qashqai,24990,2023,21000,essence,190,49000.0,47.467471,-0.561615,Angers,Pays de la Loire
+Renault,Megane E Tech,16298,2022,45550,essence,160,65000.0,43.239085,0.065776,Tarbes,Occitanie
+Renault,Clio,14590,2021,78915,essence,145,47000.0,44.202304,0.631041,Agen,Nouvelle-Aquitaine
+Renault,Megane,24590,2024,7739,essence,140,69200.0,45.707095,4.881379,Vénissieux,Auvergne-Rhône-Alpes
+Renault,Clio,35550,2021,26480,hybride,145,35400.0,48.642082,-1.988626,Saint-Malo,Bretagne
+Renault,Captur,19990,2023,21455,hybride,160,2400.0,,,,
+Renault,Megane,22890,2025,10,essence,115,18230.0,47.108769,2.363377,Saint-Doulchard,Centre-Val de Loire
+Renault,Megane,18490,2025,5,essence,115,42000.0,45.430195,4.370045,Saint-Étienne,Auvergne-Rhône-Alpes
+Peugeot,e-2008,19490,2023,42146,essence,136,69200.0,45.707095,4.881379,Vénissieux,Auvergne-Rhône-Alpes
+Peugeot,e-2008,18990,2024,15120,Diesel,136,,47.505522,0.820921,Monnaie,Centre-Val de Loire
+Renault,Megane,31890,2024,10714,Diesel,115,64100.0,43.488544,-1.466564,Bayonne,Nouvelle-Aquitaine
+Peugeot,e-2008,25590,2020,67581,essence,136,,47.505522,0.820921,Monnaie,Centre-Val de Loire
+Volkswagen,e-Golf,19990,2021,26500,essence,136,,47.505522,0.820921,Monnaie,Centre-Val de Loire
+Peugeot,2008,22790,2022,38200,essence,130,67700.0,48.739971,7.369851,Saverne,Grand Est
+Dacia,Sandero,9950,2022,33381,essence,90,94260.0,48.757544,2.324537,Fresnes,Bourgogne-Franche-Comté
+Renault,Arkana,23999,2022,29266,essence,145,92400.0,48.897974,2.257057,Courbevoie,Île-de-France
+Renault,Captur,18490,2021,52072,essence,160,41200.0,47.363293,1.7449,Romorantin-Lanthenay,Centre-Val de Loire
+Renault,Megane,16900,2024,12800,Diesel,115,69400.0,45.985089,4.724382,Villefranche-sur-Saône,Auvergne-Rhône-Alpes
+Peugeot,e-2008,19400,2022,123209,Diesel,136,,47.505522,0.820921,Monnaie,Centre-Val de Loire
+Renault,Clio,27500,2025,100,hybride,145,89100.0,48.191828,3.292827,Sens,Bourgogne-Franche-Comté
+Citroën,C3,43750,2023,31594,essence,113,14100.0,49.145761,0.242246,Lisieux,Normandie
+Renault,Clio,34950,2024,25417,essence,90,77186.0,48.847293,2.623401,Noisiel,Île-de-France
+Peugeot,e-2008,26389,2024,9222,essence,136,92000.0,48.898095,2.202314,Nanterre,Île-de-France
+Renault,Captur,52490,2021,99230,Diesel,160,86100.0,46.8162,0.551,Châtellerault,Nouvelle-Aquitaine
+Renault,Captur,25680,2024,12703,essence,145,78700.0,49.000025,2.099679,Conflans-Sainte-Honorine,Île-de-France
+Peugeot,e-2008,22990,2020,43852,essence,136,83100.0,43.129342,5.968125,Toulon,Occitanie
+Renault,Captur,29500,2022,30949,hybride,145,21400.0,47.863953,4.584361,Châtillon-sur-Seine,Bourgogne-Franche-Comté
+Dacia,Sandero,17590,2017,73598,Diesel,90,33140.0,44.77508,-0.55453,Villenave-d'Ornon,Nouvelle-Aquitaine
+Renault,Captur,17500,2022,42177,essence,145,21400.0,47.863953,4.584361,Châtillon-sur-Seine,Bourgogne-Franche-Comté
+Renault,Captur,16490,2024,16194,Diesel,160,92000.0,48.898095,2.202314,Nanterre,Île-de-France
+Renault,Captur,20690,2023,32568,essence,160,83170.0,43.396543,6.070997,Brignoles,Provence-Alpes-Côte d'Azur
+Renault,Clio,27990,2022,23095,essence,90,77186.0,48.847293,2.623401,Noisiel,Île-de-France
+Renault,Clio,21790,2022,42498,essence,90,44210.0,47.123874,-2.054329,Pornic,Pays de la Loire
+Renault,Megane,22990,2023,9316,essence,160,6800.0,,,,
+Renault,Clio,22990,2024,6981,essence,140,49000.0,47.467471,-0.561615,Angers,Pays de la Loire
+Renault,Captur,19999,2022,36560,essence,155,6800.0,,,,
+Peugeot,e-2008,13980,2023,13054,essence,136,56000.0,47.659971,-2.752192,Vannes,Bretagne
+Renault,Arkana,21990,2022,81661,hybride,145,13008.0,43.247182,5.374045,Marseille 8e Arrondissement,
+Peugeot,e-2008,18990,2021,62067,essence,136,,47.505522,0.820921,Monnaie,Centre-Val de Loire
+Renault,Captur,23490,2024,25297,hybride,160,93500.0,48.900267,2.409457,Pantin,Île-de-France
+Renault,Arkana,20490,2020,74295,hybride,145,4100.0,,,,
+Renault,Captur,12490,2020,118715,Diesel,145,10200.0,48.232115,4.707135,Bar-sur-Aube,Grand Est
+Renault,Megane,18490,2025,10000,essence,115,89100.0,48.191828,3.292827,Sens,Bourgogne-Franche-Comté
+Renault,Arkana,20490,2022,38683,essence,145,13120.0,43.457301,5.48627,Gardanne,Provence-Alpes-Côte d'Azur
+Renault,Megane,28990,2024,8000,essence,115,62140.0,50.371996,2.033863,Hesdin-la-Forêt,Hauts-de-France
+Renault,Captur,18490,2020,25506,essence,130,92100.0,48.836953,2.242538,Boulogne-Billancourt,Île-de-France
+Toyota,Yaris,20490,2023,37729,essence,100,92000.0,48.898095,2.202314,Nanterre,Île-de-France
+Dacia,Sandero Stepway,26890,2021,69535,essence,90,89100.0,48.191828,3.292827,Sens,Bourgogne-Franche-Comté
+Renault,Megane,23980,2021,87610,Diesel,115,28630.0,48.424752,1.499279,Le Coudray,Centre-Val de Loire
+Renault,Megane,21990,2021,60021,essence,160,37170.0,47.332303,0.717976,Chambray-lès-Tours,Centre-Val de Loire
+Renault,Captur,91900,2020,109553,essence,145,52000.0,48.104307,5.129976,Chaumont,Île-de-France
+Renault,Clio,23450,2021,39042,Diesel,140,59640.0,51.021459,2.337147,Dunkerque,Hauts-de-France
+Renault,Clio,20990,2019,69187,essence,145,13400.0,43.301892,5.563888,Aubagne,Provence-Alpes-Côte d'Azur
+Nissan,Qashqai,34990,2024,20,essence,190,44400.0,47.17269,-1.552789,Rezé,Pays de la Loire
+Renault,Arkana,37248,2020,77169,essence,140,62200.0,50.726334,1.6106,Boulogne-sur-Mer,Hauts-de-France
+Renault,Captur,36390,2023,37159,essence,145,78000.0,48.803019,2.131319,Versailles,Île-de-France
+Renault,Clio,34800,2024,16500,Diesel,145,47000.0,44.202304,0.631041,Agen,Nouvelle-Aquitaine
+Renault,Arkana,31890,2022,17522,essence,160,49000.0,47.467471,-0.561615,Angers,Pays de la Loire
+Nissan,Qashqai,27991,2024,8000,essence,190,91170.0,48.666246,2.374662,Viry-Châtillon,Île-de-France
+Renault,Clio,17990,2022,61543,essence,145,8200.0,,,,
+Mercedes-Benz,Classe C,22900,2025,500,essence,220,31200.0,43.643673,1.432927,Toulouse,Occitanie
+Renault,Captur,14990,2023,43244,essence,140,64200.0,43.47144,-1.555081,Biarritz,Nouvelle-Aquitaine
+Renault,Clio,16890,2023,14386,essence,90,77186.0,48.847293,2.623401,Noisiel,Île-de-France
+Renault,Arkana,21990,2021,116406,Diesel,140,58200.0,47.407726,2.93582,Cosne-Cours-sur-Loire,Bourgogne-Franche-Comté
+Peugeot,e-2008,16500,2023,27241,essence,136,13700.0,43.415837,5.220936,Marignane,Provence-Alpes-Côte d'Azur
+Renault,Captur,18980,2021,46935,essence,160,78630.0,48.926202,1.978094,Orgeval,Hauts-de-France
+Peugeot,e-2008,14490,2020,62149,essence,136,,47.505522,0.820921,Monnaie,Centre-Val de Loire
+Renault,Captur,36990,2023,26508,essence,160,31400.0,43.589648,1.47056,Toulouse,Occitanie
+Renault,Captur,14990,2022,31037,essence,160,52000.0,48.104307,5.129976,Chaumont,Île-de-France
+Renault,Clio,13990,2020,31516,essence,140,69400.0,45.985089,4.724382,Villefranche-sur-Saône,Auvergne-Rhône-Alpes
+Renault,Clio,17590,2023,19887,essence,130,78190.0,48.778249,1.993009,Trappes,Île-de-France
+Renault,Captur,37990,2020,46310,essence,160,83400.0,43.116731,6.20255,Hyères,Provence-Alpes-Côte d'Azur
+Dacia,Spring,19900,2023,70635,Diesel,65,52000.0,48.104307,5.129976,Chaumont,Île-de-France
+Citroën,C3,28990,2021,61354,essence,113,61000.0,48.429859,0.092935,Alençon,Normandie
+Renault,Captur,23995,2023,27030,essence,150,,47.505522,0.820921,Monnaie,Centre-Val de Loire
+Renault,Megane,19380,2022,44818,Diesel,115,78630.0,48.926202,1.978094,Orgeval,Hauts-de-France
+Citroën,C3,22980,2023,24000,essence,113,95340.0,49.151056,2.273863,Persan,Île-de-France
+Peugeot,e-2008,26590,2024,4744,essence,136,14100.0,49.145761,0.242246,Lisieux,Normandie
+Renault,Captur,19900,2021,45429,essence,160,91310.0,48.639557,2.265535,Montlhéry,Île-de-France
+Dacia,Sandero,47990,2020,57030,essence,90,69200.0,45.707095,4.881379,Vénissieux,Auvergne-Rhône-Alpes
+Peugeot,e-2008,14990,2021,47710,essence,136,22000.0,48.508238,-2.766074,Saint-Brieuc,Bretagne
+Nissan,Qashqai,35990,2020,39827,essence,190,89100.0,48.191828,3.292827,Sens,Bourgogne-Franche-Comté
+Renault,Captur,37475,2024,8804,essence,160,22000.0,48.508238,-2.766074,Saint-Brieuc,Bretagne
+Peugeot,e-2008,19990,2021,57870,essence,136,,47.505522,0.820921,Monnaie,Centre-Val de Loire
+Renault,Megane,23990,2024,16875,Diesel,115,83600.0,43.539399,6.690304,Bagnols-en-Forêt,Provence-Alpes-Côte d'Azur
+Dacia,Sandero,11750,2021,17146,Diesel,90,56850.0,47.812869,-3.342841,Caudan,Bretagne
+Renault,Clio,18990,2021,57402,essence,140,31400.0,43.589648,1.47056,Toulouse,Occitanie
+Renault,Captur,42490,2024,20020,essence,160,93160.0,48.840106,2.551491,Noisy-le-Grand,Île-de-France
+Renault,Megane,16990,2017,58872,essence,165,91300.0,48.728133,2.269556,Massy,Normandie
+Mercedes-Benz,Classe A,30400,2020,71188,essence,180,67590.0,48.823958,7.732588,Schweighouse-sur-Moder,Grand Est
+Renault,Clio,18700,2023,27174,essence,145,5000.0,,,,
+Renault,Megane E Tech,23490,2023,6289,essence,160,28630.0,48.424752,1.499279,Le Coudray,Centre-Val de Loire
+Renault,Arkana,26990,2023,21885,essence,145,13008.0,43.247182,5.374045,Marseille 8e Arrondissement,
+Renault,Captur,23990,2024,28450,hybride,145,13011.0,43.296535,5.475446,Marseille 11e Arrondissement,
+Renault,Captur,22990,2024,10000,essence,145,89000.0,47.791247,3.579905,Auxerre,Bourgogne-Franche-Comté
+Renault,Megane,37990,2023,25893,essence,115,89100.0,48.191828,3.292827,Sens,Bourgogne-Franche-Comté
+Peugeot,e-2008,12490,2020,41606,essence,136,,47.505522,0.820921,Monnaie,Centre-Val de Loire
+Renault,Clio,34989,2021,20447,essence,140,64200.0,43.47144,-1.555081,Biarritz,Nouvelle-Aquitaine
+Nissan,Qashqai,41267,2024,9000,essence,190,91100.0,48.598229,2.465045,Corbeil-Essonnes,Île-de-France
+Nissan,Qashqai,33990,2024,10,essence,190,49000.0,47.467471,-0.561615,Angers,Pays de la Loire
+Renault,Captur,19990,2022,60950,essence,160,33310.0,44.87595,-0.516136,Lormont,Nouvelle-Aquitaine
+Renault,Megane,16890,2024,1651,hybride,115,86440.0,46.623612,0.309819,Migné-Auxances,Nouvelle-Aquitaine
+Nissan,Qashqai,42890,2025,9900,essence,190,49000.0,47.467471,-0.561615,Angers,Pays de la Loire
+Renault,Captur,21490,2021,41069,hybride,160,4100.0,,,,
+Renault,Captur,54990,2021,61789,Diesel,160,77170.0,48.689182,2.616408,Brie-Comte-Robert,Île-de-France
+Renault,Captur,17980,2021,66885,essence,150,64000.0,43.313159,-0.343106,Pau,Nouvelle-Aquitaine
+Renault,Captur,25990,2024,7310,essence,145,37170.0,47.332303,0.717976,Chambray-lès-Tours,Centre-Val de Loire
+Renault,Arkana,20590,2021,81503,essence,145,83500.0,43.093147,5.879651,La Seyne-sur-Mer,Provence-Alpes-Côte d'Azur
+Renault,Captur,17390,2021,59366,essence,160,22100.0,48.446574,-2.053922,Dinan,Bretagne
+Renault,Captur,13490,2021,73740,essence,145,49000.0,47.467471,-0.561615,Angers,Pays de la Loire
+Renault,Megane,19490,2020,24433,essence,115,21400.0,47.863953,4.584361,Châtillon-sur-Seine,Bourgogne-Franche-Comté
+Renault,Arkana,49350,2021,108069,essence,140,21400.0,47.863953,4.584361,Châtillon-sur-Seine,Bourgogne-Franche-Comté
+Renault,Megane,25580,2024,19000,Diesel,115,42400.0,45.470463,4.505748,Saint-Chamond,Auvergne-Rhône-Alpes
+Renault,Megane,24490,2024,11899,Diesel,115,31620.0,43.792414,1.354234,Castelnau-d'Estrétefonds,Occitanie
+Peugeot,e-2008,16490,2021,34846,essence,136,76600.0,49.507345,0.129995,Le Havre,Normandie
+Renault,Megane,59900,2021,37802,essence,140,41100.0,47.795339,1.064216,Vendôme,Centre-Val de Loire
+Dacia,Sandero,21900,2023,46589,essence,90,69400.0,45.985089,4.724382,Villefranche-sur-Saône,Auvergne-Rhône-Alpes
+Renault,Clio,23890,2022,90076,essence,90,77186.0,48.847293,2.623401,Noisiel,Île-de-France
+Renault,Arkana,20590,2022,23327,essence,140,69200.0,45.707095,4.881379,Vénissieux,Auvergne-Rhône-Alpes
+Renault,Arkana,22900,2020,59515,essence,145,91300.0,48.728133,2.269556,Massy,Normandie
+Renault,Captur,15490,2024,14178,essence,160,83140.0,43.091706,5.8176,Six-Fours-les-Plages,Provence-Alpes-Côte d'Azur
+Renault,Clio,23390,2022,146781,Diesel,140,31100.0,43.564743,1.409182,Toulouse,Occitanie
+Renault,Megane,21480,2022,45501,essence,115,21000.0,47.331848,5.033601,Dijon,Bourgogne-Franche-Comté
+Renault,Captur,23000,2024,14900,essence,145,,47.505522,0.820921,Monnaie,Centre-Val de Loire
+Renault,Megane E Tech,22490,2022,37980,essence,160,4100.0,,,,
+Renault,Clio,14990,2021,39194,essence,140,40100.0,43.700723,-1.06016,Dax,Nouvelle-Aquitaine
+Renault,Arkana,18490,2022,28393,essence,140,47400.0,44.38244,0.324108,Tonneins,Nouvelle-Aquitaine
+Renault,Captur,24890,2020,49080,essence,160,83160.0,43.143841,5.990889,La Valette-du-Var,Provence-Alpes-Côte d'Azur
+Renault,Captur,35990,2025,3000,essence,160,40100.0,43.700723,-1.06016,Dax,Nouvelle-Aquitaine
+Peugeot,e-2008,27890,2021,19908,essence,136,,47.505522,0.820921,Monnaie,Centre-Val de Loire
+Renault,Captur,44400,2020,64427,essence,145,94260.0,48.757544,2.324537,Fresnes,Bourgogne-Franche-Comté
+Peugeot,e-2008,27990,2022,47868,essence,136,33310.0,44.87595,-0.516136,Lormont,Nouvelle-Aquitaine
+Renault,Megane E Tech,19990,2023,54624,Diesel,160,42000.0,45.430195,4.370045,Saint-Étienne,Auvergne-Rhône-Alpes
+Mercedes-Benz,GLA,43900,2024,21819,essence,250,67590.0,48.823958,7.732588,Schweighouse-sur-Moder,Grand Est
+Mercedes-Benz,GLA,31990,2020,22626,essence,200,68390.0,47.783364,7.378135,Sausheim,Grand Est
+Peugeot,e-2008,26900,2021,61274,essence,136,50110.0,49.632965,-1.529136,Digosville,Normandie
+Renault,Arkana,21690,2017,103552,essence,145,49000.0,47.467471,-0.561615,Angers,Pays de la Loire
+Renault,Captur,17490,2024,8854,essence,160,52200.0,47.860319,5.337775,Langres,Grand Est
+Renault,Captur,16990,2024,4318,essence,90,34970.0,43.570523,3.900373,Lattes,Occitanie
+Mercedes-Benz,GLA,47980,2020,50014,hybride,250,67590.0,48.823958,7.732588,Schweighouse-sur-Moder,Grand Est
+Renault,Captur,15290,2021,42332,essence,160,35500.0,48.111352,-1.192619,Vitré,Bourgogne-Franche-Comté
+Renault,Arkana,24490,2024,19550,essence,140,49000.0,47.467471,-0.561615,Angers,Pays de la Loire
+Renault,Captur,18500,2023,29952,essence,145,5000.0,,,,
+Renault,Captur,38300,2022,42046,essence,160,13200.0,43.64874,4.704904,Arles,Provence-Alpes-Côte d'Azur
+Renault,Captur,37890,2023,55153,essence,145,77186.0,48.847293,2.623401,Noisiel,Île-de-France
+Renault,Captur,26990,2022,30115,essence,145,69200.0,45.707095,4.881379,Vénissieux,Auvergne-Rhône-Alpes
+Renault,Arkana,18790,2021,23850,essence,140,49000.0,47.467471,-0.561615,Angers,Pays de la Loire
+Renault,Captur,23890,2019,84018,Diesel,90,6150.0,,,,
+Renault,Clio,19990,2023,19025,essence,145,37170.0,47.332303,0.717976,Chambray-lès-Tours,Centre-Val de Loire
+Renault,Clio,31490,2024,5060,essence,145,78190.0,48.778249,1.993009,Trappes,Île-de-France
+Renault,Clio,18399,2024,17798,Diesel,145,91200.0,48.70896,2.384591,Athis-Mons,Île-de-France
+Renault,Captur,22490,2025,4000,essence,160,33600.0,44.787468,-0.675933,Pessac,Nouvelle-Aquitaine
+Renault,Captur,18990,2024,14000,essence,145,78700.0,49.000025,2.099679,Conflans-Sainte-Honorine,Île-de-France
+Renault,Clio,24599,2024,7775,hybride,145,91300.0,48.728133,2.269556,Massy,Normandie
+Renault,Captur,21990,2022,49250,essence,145,84300.0,43.849364,5.032096,Cavaillon,Provence-Alpes-Côte d'Azur
+Renault,Captur,34990,2024,5166,essence,160,7200.0,,,,
+Renault,Captur,19690,2025,10,essence,160,31620.0,43.792414,1.354234,Castelnau-d'Estrétefonds,Occitanie
+Renault,Captur,15490,2024,28081,Diesel,145,59650.0,50.638933,3.129316,Villeneuve-d'Ascq,Hauts-de-France
+Renault,Captur,27600,2021,123519,Diesel,145,77240.0,48.562965,2.597355,Cesson,Île-de-France
+Renault,Captur,17390,2024,4385,essence,145,77186.0,48.847293,2.623401,Noisiel,Île-de-France
+Volkswagen,Golf,28590,2021,55000,essence,136,13008.0,43.247182,5.374045,Marseille 8e Arrondissement,
+Renault,Captur,20490,2021,39140,essence,115,58640.0,47.032848,3.142538,Varennes-Vauzelles,Bourgogne-Franche-Comté
+Peugeot,e-2008,17490,2021,34997,essence,136,13008.0,43.247182,5.374045,Marseille 8e Arrondissement,
+Renault,Captur,23490,2024,15017,essence,160,78630.0,48.926202,1.978094,Orgeval,Hauts-de-France
+Renault,Captur,25990,2021,59913,essence,145,83170.0,43.396543,6.070997,Brignoles,Provence-Alpes-Côte d'Azur
+Renault,Captur,40990,2023,29980,essence,90,34170.0,43.637422,3.910191,Castelnau-le-Lez,Occitanie
+Renault,Captur,16495,2021,52284,essence,145,47000.0,44.202304,0.631041,Agen,Nouvelle-Aquitaine
+Renault,Captur,16290,2020,115641,Diesel,160,64230.0,43.33303,-0.432535,Lescar,Nouvelle-Aquitaine
+Renault,Captur,26890,2025,100,hybride,145,21200.0,47.025352,4.84139,Beaune,Bourgogne-Franche-Comté
+Renault,Clio,15990,2020,71831,hybride,140,13400.0,43.301892,5.563888,Aubagne,Provence-Alpes-Côte d'Azur
+Renault,Captur,15990,2023,9848,essence,150,83160.0,43.143841,5.990889,La Valette-du-Var,Provence-Alpes-Côte d'Azur
+Mercedes-Benz,Classe A,25890,2020,116155,Diesel,200,57070.0,49.136824,6.204782,Saint-Julien-lès-Metz,Grand Est
+Renault,Clio,16990,2024,20954,essence,145,67500.0,48.814549,7.772611,Haguenau,Grand Est
+Renault,Clio,22990,2019,53123,essence,145,69200.0,45.707095,4.881379,Vénissieux,Auvergne-Rhône-Alpes
+Renault,Captur,19990,2022,10875,essence,145,37170.0,47.332303,0.717976,Chambray-lès-Tours,Centre-Val de Loire
+Renault,Captur,24990,2024,30469,essence,145,76600.0,49.507345,0.129995,Le Havre,Normandie
+Peugeot,e-2008,15690,2021,81090,essence,136,,47.505522,0.820921,Monnaie,Centre-Val de Loire
+Renault,Clio,27990,2024,6626,Diesel,145,89000.0,47.791247,3.579905,Auxerre,Bourgogne-Franche-Comté
+Mercedes-Benz,Classe C,27790,2021,31323,hybride,300,68390.0,47.783364,7.378135,Sausheim,Grand Est
+Renault,Captur,20490,2024,12315,Diesel,155,19200.0,45.553678,2.302814,Ussel,Auvergne-Rhône-Alpes
+Peugeot,e-2008,31490,2023,30736,essence,136,22000.0,48.508238,-2.766074,Saint-Brieuc,Bretagne
+Renault,Captur,23900,2025,8000,essence,160,69009.0,45.783352,4.811355,Lyon 9e Arrondissement,
+Renault,Clio,24000,2024,31386,Diesel,140,78190.0,48.778249,1.993009,Trappes,Île-de-France
+Renault,Megane,21990,2021,38171,hybride,115,32600.0,43.613719,1.083301,L'Isle-Jourdain,Occitanie
+Renault,Captur,23990,2020,46352,essence,145,86100.0,46.8162,0.551,Châtellerault,Nouvelle-Aquitaine
+Renault,Captur,25990,2023,41999,essence,145,63210.0,45.717155,2.902465,Nébouzat,Auvergne-Rhône-Alpes
+Renault,Captur,22990,2023,39129,essence,160,77600.0,48.839173,2.715779,Bussy-Saint-Georges,Île-de-France
+Renault,Clio,16890,2021,37000,essence,90,77186.0,48.847293,2.623401,Noisiel,Île-de-France
+Renault,Captur,19500,2024,5369,hybride,160,89000.0,47.791247,3.579905,Auxerre,Bourgogne-Franche-Comté
+Renault,Captur,18990,2024,16264,essence,160,86440.0,46.623612,0.309819,Migné-Auxances,Nouvelle-Aquitaine
+Renault,Megane,25990,2024,5992,Diesel,115,69009.0,45.783352,4.811355,Lyon 9e Arrondissement,
+Citroën,C3,19490,2025,7000,essence,113,44600.0,47.275247,-2.242494,Saint-Nazaire,Occitanie
+Renault,Arkana,10990,2022,39948,essence,140,49000.0,47.467471,-0.561615,Angers,Pays de la Loire
+Toyota,Yaris,31990,2021,36240,essence,130,38920.0,45.283529,5.883069,Crolles,Auvergne-Rhône-Alpes
+Renault,Megane,21500,2019,92689,essence,140,69200.0,45.707095,4.881379,Vénissieux,Auvergne-Rhône-Alpes
+Peugeot,e-2008,17690,2024,4000,essence,136,,47.505522,0.820921,Monnaie,Centre-Val de Loire
+Peugeot,e-2008,20500,2021,67597,hybride,136,59650.0,50.638933,3.129316,Villeneuve-d'Ascq,Hauts-de-France
+Renault,Clio,23500,2021,81131,essence,145,69200.0,45.707095,4.881379,Vénissieux,Auvergne-Rhône-Alpes
+Mercedes-Benz,Classe A,19690,2022,31792,essence,200,54520.0,48.688106,6.141298,Laxou,Grand Est
+Renault,Captur,24900,2023,8266,essence,145,83170.0,43.396543,6.070997,Brignoles,Provence-Alpes-Côte d'Azur
+Renault,Megane,25990,2021,78875,hybride,140,69200.0,45.707095,4.881379,Vénissieux,Auvergne-Rhône-Alpes
+Renault,Captur,22499,2023,19003,essence,145,33520.0,44.881405,-0.60324,Bruges,Nouvelle-Aquitaine
+Renault,Arkana,16499,2022,52994,hybride,140,52200.0,47.860319,5.337775,Langres,Grand Est
+Renault,Megane,23590,2024,22000,Diesel,115,40100.0,43.700723,-1.06016,Dax,Nouvelle-Aquitaine
+Renault,Captur,16790,2024,19125,essence,140,37170.0,47.332303,0.717976,Chambray-lès-Tours,Centre-Val de Loire
+Renault,Arkana,20590,2022,44704,essence,140,73460.0,45.633414,6.311948,Frontenex,Auvergne-Rhône-Alpes
+Renault,Megane E Tech,29600,2021,85532,essence,160,69700.0,45.582983,4.755839,Givors,Auvergne-Rhône-Alpes
+Renault,Captur,16290,2020,61819,essence,160,64100.0,43.488544,-1.466564,Bayonne,Nouvelle-Aquitaine
+Renault,Clio,26500,2023,3119,essence,145,89100.0,48.191828,3.292827,Sens,Bourgogne-Franche-Comté
+Renault,Captur,28489,2023,5668,essence,160,57100.0,49.370617,6.150548,Thionville,Grand Est
+Renault,Clio,28490,2023,18413,essence,145,5000.0,,,,
+Renault,Captur,19990,2023,41293,essence,160,83400.0,43.116731,6.20255,Hyères,Provence-Alpes-Côte d'Azur
+Renault,Captur,25990,2024,7000,essence,155,5000.0,,,,
+Dacia,Sandero,15990,2023,20847,essence,90,41000.0,47.581246,1.316402,Blois,Centre-Val de Loire
+Renault,Captur,15490,2022,100,essence,145,64200.0,43.47144,-1.555081,Biarritz,Nouvelle-Aquitaine
+Renault,Captur,15890,2022,10422,essence,145,78700.0,49.000025,2.099679,Conflans-Sainte-Honorine,Île-de-France
+Renault,Arkana,27500,2021,54935,essence,145,49000.0,47.467471,-0.561615,Angers,Pays de la Loire
+Renault,Clio,34190,2023,21000,Diesel,145,64100.0,43.488544,-1.466564,Bayonne,Nouvelle-Aquitaine
+Peugeot,e-2008,18500,2023,18668,hybride,136,,47.505522,0.820921,Monnaie,Centre-Val de Loire
+Renault,Captur,19790,2023,22703,essence,160,91170.0,48.666246,2.374662,Viry-Châtillon,Île-de-France
+Renault,Captur,21990,2024,2734,essence,160,31400.0,43.589648,1.47056,Toulouse,Occitanie
+Renault,Clio,21990,2020,59374,essence,145,31400.0,43.589648,1.47056,Toulouse,Occitanie
+Peugeot,e-2008,17500,2021,45435,essence,136,,47.505522,0.820921,Monnaie,Centre-Val de Loire
+Renault,Arkana,29480,2024,16655,Diesel,145,21200.0,47.025352,4.84139,Beaune,Bourgogne-Franche-Comté
+Renault,Clio,19290,2022,69500,Diesel,140,82000.0,44.01984,1.363799,Montauban,Occitanie
+Renault,Megane,16290,2024,14800,Diesel,115,78190.0,48.778249,1.993009,Trappes,Île-de-France
+Renault,Clio,26990,2024,2819,hybride,145,4100.0,,,,
+Dacia,Spring,13990,2024,17002,Diesel,265,47200.0,44.50184,0.170988,Marmande,Nouvelle-Aquitaine
+Toyota,Yaris,22490,2021,44260,essence,116,31100.0,43.564743,1.409182,Toulouse,Occitanie
+Renault,Captur,25990,2020,10134,hybride,145,76000.0,49.440044,1.093912,Rouen,Normandie
+Mercedes-Benz,Classe A,20990,2022,44052,essence,200,33700.0,44.83337,-0.674682,Mérignac,Nouvelle-Aquitaine
+Renault,Captur,19990,2022,61755,essence,160,83400.0,43.116731,6.20255,Hyères,Provence-Alpes-Côte d'Azur
+Renault,Megane,33190,2025,9900,Diesel,115,69140.0,45.818387,4.892817,Rillieux-la-Pape,Auvergne-Rhône-Alpes
+Peugeot,e-2008,17290,2022,38752,essence,136,69400.0,45.985089,4.724382,Villefranche-sur-Saône,Auvergne-Rhône-Alpes
+Nissan,Qashqai,39920,2023,29544,essence,190,77240.0,48.562965,2.597355,Cesson,Île-de-France
+Nissan,Qashqai,28900,2022,36000,essence,190,77240.0,48.562965,2.597355,Cesson,Île-de-France
+Renault,Captur,23593,2018,93871,essence,160,43100.0,45.297811,3.381042,Brioude,Auvergne-Rhône-Alpes
+Renault,Captur,34480,2021,42154,Diesel,130,33600.0,44.787468,-0.675933,Pessac,Nouvelle-Aquitaine
+Renault,Captur,18990,2024,23321,Diesel,145,78000.0,48.803019,2.131319,Versailles,Île-de-France
+Nissan,Qashqai,27990,2022,33407,essence,158,91700.0,48.639041,2.327655,Sainte-Geneviève-des-Bois,Centre-Val de Loire
+Renault,Megane,22990,2023,21507,essence,115,33520.0,44.881405,-0.60324,Bruges,Nouvelle-Aquitaine
+Renault,Captur,15980,2022,644,essence,120,78700.0,49.000025,2.099679,Conflans-Sainte-Honorine,Île-de-France
+Renault,Megane,16790,2020,36096,essence,115,33140.0,44.77508,-0.55453,Villenave-d'Ornon,Nouvelle-Aquitaine
+Peugeot,e-2008,38490,2021,74533,Diesel,156,58000.0,46.988535,3.160778,Nevers,Bourgogne-Franche-Comté
+Renault,Captur,25590,2024,17043,essence,145,76600.0,49.507345,0.129995,Le Havre,Normandie
+Renault,Arkana,18480,2021,68206,hybride,140,21200.0,47.025352,4.84139,Beaune,Bourgogne-Franche-Comté
+Renault,Arkana,18980,2018,61814,essence,140,21000.0,47.331848,5.033601,Dijon,Bourgogne-Franche-Comté
+Renault,Clio,14590,2020,25000,essence,140,91940.0,48.681532,2.185946,Les Ulis,Île-de-France
+Mercedes-Benz,GLA,40990,2024,14459,essence,200,57070.0,49.136824,6.204782,Saint-Julien-lès-Metz,Grand Est
+Renault,Megane E Tech,28400,2023,9650,essence,160,4100.0,,,,
+Renault,Captur,14990,2021,74737,essence,160,22000.0,48.508238,-2.766074,Saint-Brieuc,Bretagne
+Peugeot,e-2008,17990,2022,129036,Diesel,136,17810.0,45.775564,-0.703298,Saint-Georges-des-Coteaux,Nouvelle-Aquitaine
+Renault,Arkana,20999,2022,50405,essence,140,13400.0,43.301892,5.563888,Aubagne,Provence-Alpes-Côte d'Azur
+Renault,Captur,24690,2022,48980,essence,150,78190.0,48.778249,1.993009,Trappes,Île-de-France
+Renault,Captur,23990,2023,14347,essence,145,,47.505522,0.820921,Monnaie,Centre-Val de Loire
+Renault,Megane,17990,2024,26902,essence,115,35200.0,48.097194,-1.653987,Rennes,Bretagne
+Renault,Captur,24990,2022,38000,essence,145,41250.0,47.553345,1.449717,Mont-près-Chambord,Centre-Val de Loire
+Mercedes-Benz,GLA,23500,2024,19150,essence,250,67800.0,48.617985,7.751748,Bischheim,Grand Est
+Renault,Captur,23990,2023,10437,essence,160,86440.0,46.623612,0.309819,Migné-Auxances,Nouvelle-Aquitaine
+Renault,Arkana,18990,2024,5853,essence,140,69130.0,45.782507,4.776493,Écully,Auvergne-Rhône-Alpes
+Renault,Captur,31480,2024,19147,essence,145,47300.0,44.416152,0.747052,Villeneuve-sur-Lot,Nouvelle-Aquitaine
+Renault,Megane,24990,2024,18098,Diesel,115,28630.0,48.424752,1.499279,Le Coudray,Centre-Val de Loire
+Renault,Captur,24390,2020,149764,essence,160,75014.0,48.830108,2.323026,Paris 14e Arrondissement,
+Peugeot,e-2008,38540,2019,104000,Diesel,136,,47.505522,0.820921,Monnaie,Centre-Val de Loire
+Renault,Clio,16490,2023,4500,Diesel,140,64100.0,43.488544,-1.466564,Bayonne,Nouvelle-Aquitaine
+Renault,Arkana,19990,2021,40810,essence,145,77600.0,48.839173,2.715779,Bussy-Saint-Georges,Île-de-France
+Peugeot,e-2008,17000,2022,92054,essence,136,,47.505522,0.820921,Monnaie,Centre-Val de Loire
+Renault,Clio,22990,2023,27510,essence,145,69140.0,45.818387,4.892817,Rillieux-la-Pape,Auvergne-Rhône-Alpes
+Renault,Clio,16790,2023,51597,essence,140,5000.0,,,,
+Renault,Captur,21990,2022,50239,essence,155,84300.0,43.849364,5.032096,Cavaillon,Provence-Alpes-Côte d'Azur
+Renault,Clio,23990,2021,35590,essence,145,76600.0,49.507345,0.129995,Le Havre,Normandie
+Peugeot,e-2008,18990,2024,8411,essence,136,,47.505522,0.820921,Monnaie,Centre-Val de Loire
+Renault,Clio,21490,2024,31837,hybride,145,13400.0,43.301892,5.563888,Aubagne,Provence-Alpes-Côte d'Azur
+Renault,Clio,24990,2024,5000,Diesel,145,31400.0,43.589648,1.47056,Toulouse,Occitanie
+Renault,Captur,26990,2023,36725,essence,145,37600.0,47.122156,0.981834,Loches,Centre-Val de Loire
+Renault,Captur,15490,2020,94367,essence,160,31400.0,43.589648,1.47056,Toulouse,Occitanie
+Mercedes-Benz,Classe A,19990,2022,16266,Diesel,200,54520.0,48.688106,6.141298,Laxou,Grand Est
+Renault,Clio,23390,2022,42632,essence,145,37600.0,47.122156,0.981834,Loches,Centre-Val de Loire
+Renault,Megane,32890,2025,8000,essence,115,64100.0,43.488544,-1.466564,Bayonne,Nouvelle-Aquitaine
+Renault,Captur,24400,2024,6311,essence,160,31100.0,43.564743,1.409182,Toulouse,Occitanie
+Renault,Captur,23590,2022,27782,essence,145,76600.0,49.507345,0.129995,Le Havre,Normandie
+Renault,Megane,24990,2021,61600,essence,115,26200.0,44.553424,4.745639,Montélimar,Auvergne-Rhône-Alpes
+Mercedes-Benz,GLA,12390,2024,9000,Diesel,200,57180.0,49.347648,6.13459,Terville,Grand Est
+Renault,Clio,20990,2024,19605,hybride,90,76000.0,49.440044,1.093912,Rouen,Normandie
+Toyota,Yaris,26000,2024,3937,essence,116,31100.0,43.564743,1.409182,Toulouse,Occitanie
+Renault,Captur,24780,2024,15897,essence,145,91940.0,48.681532,2.185946,Les Ulis,Île-de-France
+Renault,Captur,16690,2021,75451,Diesel,115,94260.0,48.757544,2.324537,Fresnes,Bourgogne-Franche-Comté
+Renault,Captur,20490,2024,17691,essence,140,37170.0,47.332303,0.717976,Chambray-lès-Tours,Centre-Val de Loire
+Peugeot,e-2008,29490,2020,30464,essence,136,40100.0,43.700723,-1.06016,Dax,Nouvelle-Aquitaine
+Renault,Captur,23990,2023,32418,essence,145,78190.0,48.778249,1.993009,Trappes,Île-de-France
+Renault,Clio,31242,2020,72907,Diesel,140,69140.0,45.818387,4.892817,Rillieux-la-Pape,Auvergne-Rhône-Alpes
+Mercedes-Benz,Classe A,24490,2020,57707,essence,180,54520.0,48.688106,6.141298,Laxou,Grand Est
+Renault,Megane,24500,2024,10418,Diesel,115,31100.0,43.564743,1.409182,Toulouse,Occitanie
+Renault,Captur,27990,2023,8123,hybride,145,83300.0,43.531436,6.460296,Draguignan,Provence-Alpes-Côte d'Azur
+Renault,Clio,26490,2022,129575,Diesel,145,33110.0,44.864761,-0.599933,Le Bouscat,Nouvelle-Aquitaine
+Peugeot,e-2008,35990,2022,68125,essence,136,,47.505522,0.820921,Monnaie,Centre-Val de Loire
+Renault,Captur,22990,2018,106213,Diesel,145,88800.0,48.201318,5.949091,Vittel,Grand Est
+Peugeot,e-2008,19999,2024,5776,hybride,136,,47.505522,0.820921,Monnaie,Centre-Val de Loire
+Renault,Megane,25990,2024,18799,Diesel,115,18230.0,47.108769,2.363377,Saint-Doulchard,Centre-Val de Loire
+Renault,Captur,25000,2023,27197,Diesel,115,64500.0,43.391942,-1.633128,Saint-Jean-de-Luz,Nouvelle-Aquitaine
+Peugeot,e-2008,21990,2022,74386,essence,136,,47.505522,0.820921,Monnaie,Centre-Val de Loire
+Renault,Clio,24590,2022,16612,essence,145,41250.0,47.553345,1.449717,Mont-près-Chambord,Centre-Val de Loire
+Renault,Captur,20990,2023,12687,essence,145,37170.0,47.332303,0.717976,Chambray-lès-Tours,Centre-Val de Loire
+Peugeot,e-2008,26590,2018,57354,essence,136,,47.505522,0.820921,Monnaie,Centre-Val de Loire
+Mercedes-Benz,Classe A,36900,2024,1475,essence,250,68390.0,47.783364,7.378135,Sausheim,Grand Est
+Renault,Arkana,10990,2018,15577,essence,145,59155.0,50.597964,3.070966,Faches-Thumesnil,Hauts-de-France
+Renault,Captur,16990,2021,66478,essence,140,31100.0,43.564743,1.409182,Toulouse,Occitanie
+Renault,Clio,26000,2020,68593,essence,145,32600.0,43.613719,1.083301,L'Isle-Jourdain,Occitanie
+Renault,Captur,21480,2024,8056,essence,160,69009.0,45.783352,4.811355,Lyon 9e Arrondissement,
+Renault,Clio,22890,2023,10465,essence,145,77186.0,48.847293,2.623401,Noisiel,Île-de-France
+Mercedes-Benz,GLA,21990,2021,81351,essence,200,57070.0,49.136824,6.204782,Saint-Julien-lès-Metz,Grand Est
+Renault,Captur,39514,2021,22617,essence,140,69140.0,45.818387,4.892817,Rillieux-la-Pape,Auvergne-Rhône-Alpes
+Renault,Arkana,20990,2022,43275,essence,140,52200.0,47.860319,5.337775,Langres,Grand Est
+Renault,Captur,15590,2021,144981,Diesel,160,37170.0,47.332303,0.717976,Chambray-lès-Tours,Centre-Val de Loire
+Renault,Clio,27990,2022,48694,Diesel,145,52200.0,47.860319,5.337775,Langres,Grand Est
+Renault,Captur,25987,2020,71346,essence,145,78190.0,48.778249,1.993009,Trappes,Île-de-France
+Nissan,Qashqai,39450,2025,100,essence,190,6110.0,,,,
+Renault,Megane,24450,2025,3000,Diesel,115,33140.0,44.77508,-0.55453,Villenave-d'Ornon,Nouvelle-Aquitaine
+Renault,Arkana,21090,2022,22421,essence,140,52000.0,48.104307,5.129976,Chaumont,Île-de-France
+Renault,Clio,36990,2022,28107,essence,145,78190.0,48.778249,1.993009,Trappes,Île-de-France
+Renault,Captur,21480,2021,87044,Diesel,145,47200.0,44.50184,0.170988,Marmande,Nouvelle-Aquitaine
+Renault,Captur,16440,2020,72782,essence,115,11000.0,43.206781,2.349415,Carcassonne,Occitanie
+Renault,Megane,25490,2024,16200,Diesel,115,35400.0,48.642082,-1.988626,Saint-Malo,Bretagne
+Nissan,Qashqai,26990,2024,13232,essence,190,77240.0,48.562965,2.597355,Cesson,Île-de-France
+Renault,Captur,44890,2023,16379,essence,160,78190.0,48.778249,1.993009,Trappes,Île-de-France
+Toyota,Yaris,10490,2023,33290,Diesel,130,64400.0,43.17757,-0.611566,Oloron-Sainte-Marie,Nouvelle-Aquitaine
+Dacia,Sandero,15499,2024,9900,essence,90,17000.0,46.157816,-1.170382,La Rochelle,Nouvelle-Aquitaine
+Peugeot,e-2008,26490,2020,67584,essence,136,83600.0,43.539399,6.690304,Bagnols-en-Forêt,Provence-Alpes-Côte d'Azur
+Peugeot,e-2008,18790,2021,7578,hybride,136,89300.0,47.977862,3.398191,Joigny,Bourgogne-Franche-Comté
+Toyota,Yaris,19900,2021,41720,essence,116,38170.0,45.174023,5.679611,Seyssinet-Pariset,Auvergne-Rhône-Alpes
+Renault,Captur,39996,2022,35225,essence,130,6800.0,,,,
+Nissan,Qashqai,27900,2023,24896,essence,190,77240.0,48.562965,2.597355,Cesson,Île-de-France
+Renault,Arkana,57980,2024,9251,Diesel,140,31600.0,43.446371,1.298368,Muret,Auvergne-Rhône-Alpes
+Renault,Megane,55990,2019,71500,essence,140,45770.0,47.946991,1.875843,Saran,Centre-Val de Loire
+Renault,Captur,19990,2022,25507,essence,160,5000.0,,,,
+Dacia,Sandero Stepway,15390,2021,39194,essence,90,40100.0,43.700723,-1.06016,Dax,Nouvelle-Aquitaine
+Renault,Captur,31690,2021,38874,essence,145,69200.0,45.707095,4.881379,Vénissieux,Auvergne-Rhône-Alpes
+Renault,Captur,16990,2022,54888,essence,160,91300.0,48.728133,2.269556,Massy,Normandie
+Renault,Megane,18490,2021,53060,essence,140,35400.0,48.642082,-1.988626,Saint-Malo,Bretagne
+Renault,Captur,20990,2023,34073,hybride,160,69200.0,45.707095,4.881379,Vénissieux,Auvergne-Rhône-Alpes
+Renault,Arkana,17375,2022,95806,essence,145,35200.0,48.097194,-1.653987,Rennes,Bretagne
+Renault,Clio,16890,2021,32287,essence,145,31400.0,43.589648,1.47056,Toulouse,Occitanie
+Renault,Megane,20890,2024,15410,Diesel,115,83170.0,43.396543,6.070997,Brignoles,Provence-Alpes-Côte d'Azur
+Renault,Clio,15990,2019,55345,essence,140,44700.0,47.270999,-1.619416,Orvault,Pays de la Loire
+Renault,Captur,22890,2023,16130,hybride,145,78190.0,48.778249,1.993009,Trappes,Île-de-France
+Peugeot,e-2008,20990,2022,37905,essence,136,13008.0,43.247182,5.374045,Marseille 8e Arrondissement,
+Dacia,Sandero Stepway,10490,2023,16708,essence,90,69400.0,45.985089,4.724382,Villefranche-sur-Saône,Auvergne-Rhône-Alpes
+Renault,Captur,21990,2019,87458,essence,140,37170.0,47.332303,0.717976,Chambray-lès-Tours,Centre-Val de Loire
+Renault,Megane R.S.,32990,2019,63230,essence,280,69400.0,45.985089,4.724382,Villefranche-sur-Saône,Auvergne-Rhône-Alpes
+Renault,Captur,17990,2020,73291,essence,155,92100.0,48.836953,2.242538,Boulogne-Billancourt,Île-de-France
+Mercedes-Benz,Classe C,22890,2024,14114,essence,300,67800.0,48.617985,7.751748,Bischheim,Grand Est
+Mercedes-Benz,Classe A,37990,2020,34998,essence,250,93600.0,48.940735,2.497929,Aulnay-sous-Bois,Île-de-France
+Renault,Clio,18500,2022,40544,essence,145,52200.0,47.860319,5.337775,Langres,Grand Est
+Peugeot,308 SW,38989,2021,83996,essence,156,58000.0,46.988535,3.160778,Nevers,Bourgogne-Franche-Comté
+Renault,Clio,23480,2023,26736,essence,145,86100.0,46.8162,0.551,Châtellerault,Nouvelle-Aquitaine
+Renault,Captur,35500,2023,22244,essence,145,33210.0,44.535691,-0.241774,Langon,Bretagne
+Renault,Captur,53900,2021,112515,essence,160,6800.0,,,,
+Renault,Captur,28289,2022,12345,essence,150,13011.0,43.296535,5.475446,Marseille 11e Arrondissement,
+Renault,Megane,24990,2021,50757,essence,115,71000.0,46.325859,4.810979,Mâcon,Bourgogne-Franche-Comté
+Mercedes-Benz,GLA,14590,2024,9041,hybride,250,69200.0,45.707095,4.881379,Vénissieux,Auvergne-Rhône-Alpes
+Mercedes-Benz,Classe A,30990,2022,69247,Diesel,200,54520.0,48.688106,6.141298,Laxou,Grand Est
+Renault,Arkana,19990,2022,54889,essence,145,35200.0,48.097194,-1.653987,Rennes,Bretagne
+Dacia,Sandero,17500,2023,31507,essence,90,71200.0,46.806421,4.426656,Le Creusot,Bourgogne-Franche-Comté
+Renault,Megane,15490,2019,73499,Diesel,115,13008.0,43.247182,5.374045,Marseille 8e Arrondissement,
+Renault,Captur,47900,2023,43740,essence,160,89100.0,48.191828,3.292827,Sens,Bourgogne-Franche-Comté
+Mercedes-Benz,GLA,22990,2021,47412,essence,250,62218.0,50.446163,2.859778,Loison-sous-Lens,Hauts-de-France
+Renault,Megane,17990,2022,98172,Diesel,115,18230.0,47.108769,2.363377,Saint-Doulchard,Centre-Val de Loire
+Renault,Clio,19490,2021,22259,essence,140,42000.0,45.430195,4.370045,Saint-Étienne,Auvergne-Rhône-Alpes
+Renault,Megane E Tech,17590,2020,75437,essence,160,76600.0,49.507345,0.129995,Le Havre,Normandie
+Renault,Megane,22450,2021,60080,essence,140,28200.0,48.074295,1.323986,Châteaudun,Centre-Val de Loire
+Renault,Captur,21990,2022,34413,essence,145,71000.0,46.325859,4.810979,Mâcon,Bourgogne-Franche-Comté
+Renault,Captur,20990,2022,18300,essence,145,49000.0,47.467471,-0.561615,Angers,Pays de la Loire
+Dacia,Sandero,18890,2024,8458,essence,90,93100.0,48.863728,2.449364,Montreuil,Bourgogne-Franche-Comté
+Renault,Clio,18290,2023,3119,essence,145,24750.0,45.214478,0.769065,Trélissac,Nouvelle-Aquitaine
+Peugeot,e-2008,18590,2021,125261,Diesel,136,,47.505522,0.820921,Monnaie,Centre-Val de Loire
+Renault,Captur,27900,2024,8159,hybride,160,77120.0,48.813852,3.091044,Coulommiers,Île-de-France
+Renault,Captur,22490,2021,61735,essence,160,91150.0,48.429826,2.156585,Étampes,Île-de-France
+Dacia,Spring,19900,2024,10148,essence,65,21400.0,47.863953,4.584361,Châtillon-sur-Seine,Bourgogne-Franche-Comté
+Renault,Captur,17490,2024,10,essence,145,83400.0,43.116731,6.20255,Hyères,Provence-Alpes-Côte d'Azur
+Peugeot,e-2008,18490,2023,18900,essence,136,,47.505522,0.820921,Monnaie,Centre-Val de Loire
+Renault,Clio,17990,2020,22212,essence,130,22100.0,48.446574,-2.053922,Dinan,Bretagne
+Renault,Megane,24480,2024,33194,Diesel,115,42400.0,45.470463,4.505748,Saint-Chamond,Auvergne-Rhône-Alpes
+Renault,Megane,17900,2022,63788,essence,140,47000.0,44.202304,0.631041,Agen,Nouvelle-Aquitaine
+Renault,Captur,18590,2023,19677,essence,145,91150.0,48.429826,2.156585,Étampes,Île-de-France
+Renault,Captur,20990,2024,7900,hybride,145,76360.0,49.544169,0.949823,Barentin,Normandie
+Renault,Captur,21790,2020,27015,essence,140,69140.0,45.818387,4.892817,Rillieux-la-Pape,Auvergne-Rhône-Alpes
+Renault,Clio,16890,2023,9451,essence,90,77186.0,48.847293,2.623401,Noisiel,Île-de-France
+Renault,Captur,19990,2021,21850,essence,140,72000.0,47.993378,0.191169,Le Mans,Pays de la Loire
+Nissan,Qashqai,30490,2023,46890,essence,190,49000.0,47.467471,-0.561615,Angers,Pays de la Loire
+Renault,Clio,47900,2024,21000,hybride,140,50400.0,48.83071,-1.57398,Granville,Normandie
+Renault,Megane,18490,2023,31460,essence,115,71100.0,46.792112,4.846002,Chalon-sur-Saône,Bourgogne-Franche-Comté
+Renault,Clio,19990,2022,17462,essence,145,64500.0,43.391942,-1.633128,Saint-Jean-de-Luz,Nouvelle-Aquitaine
+Peugeot,e-2008,14999,2023,14674,essence,136,,47.505522,0.820921,Monnaie,Centre-Val de Loire
+Renault,Clio,11990,2022,31978,essence,90,83500.0,43.093147,5.879651,La Seyne-sur-Mer,Provence-Alpes-Côte d'Azur
+Renault,Clio,20190,2022,21981,essence,145,77240.0,48.562965,2.597355,Cesson,Île-de-France
+Dacia,Sandero,25990,2023,28667,hybride,90,93100.0,48.863728,2.449364,Montreuil,Bourgogne-Franche-Comté
+Renault,Captur,25790,2024,19503,essence,145,64500.0,43.391942,-1.633128,Saint-Jean-de-Luz,Nouvelle-Aquitaine
+Renault,Megane,21990,2020,47979,essence,115,28630.0,48.424752,1.499279,Le Coudray,Centre-Val de Loire
+Renault,Clio,22799,2023,11276,hybride,145,6800.0,,,,
+Renault,Arkana,16990,2024,22537,Diesel,145,40140.0,43.753518,-1.329929,Soustons,Nouvelle-Aquitaine
+Renault,Arkana,28490,2024,6244,Diesel,145,,47.505522,0.820921,Monnaie,Centre-Val de Loire
+Renault,Clio,20990,2022,21648,essence,145,91200.0,48.70896,2.384591,Athis-Mons,Île-de-France
+Renault,Captur,26890,2022,42325,essence,145,49000.0,47.467471,-0.561615,Angers,Pays de la Loire
+Renault,Captur,18500,2021,42756,essence,140,52200.0,47.860319,5.337775,Langres,Grand Est
+Renault,Arkana,16990,2022,42118,essence,140,41250.0,47.553345,1.449717,Mont-près-Chambord,Centre-Val de Loire
+Peugeot,e-2008,22990,2018,57078,Diesel,136,92100.0,48.836953,2.242538,Boulogne-Billancourt,Île-de-France
+Renault,Captur,22890,2022,28207,essence,145,49000.0,47.467471,-0.561615,Angers,Pays de la Loire
+Peugeot,e-2008,21690,2021,92498,essence,136,59650.0,50.638933,3.129316,Villeneuve-d'Ascq,Hauts-de-France
+Peugeot,2008,44990,2020,81554,essence,130,67700.0,48.739971,7.369851,Saverne,Grand Est
+Renault,Clio,23980,2023,13351,essence,145,33520.0,44.881405,-0.60324,Bruges,Nouvelle-Aquitaine
+Renault,Clio,20990,2019,61607,essence,145,64100.0,43.488544,-1.466564,Bayonne,Nouvelle-Aquitaine
+Renault,Clio,18490,2024,12912,hybride,145,83500.0,43.093147,5.879651,La Seyne-sur-Mer,Provence-Alpes-Côte d'Azur
+Renault,Captur,25990,2021,69342,essence,145,37600.0,47.122156,0.981834,Loches,Centre-Val de Loire
+Renault,Arkana,21990,2022,97480,essence,145,86100.0,46.8162,0.551,Châtellerault,Nouvelle-Aquitaine
+Renault,Clio,15990,2020,51000,essence,140,65100.0,43.104761,-0.046139,Lourdes,Occitanie
+Renault,Clio,19980,2023,27699,essence,145,89300.0,47.977862,3.398191,Joigny,Bourgogne-Franche-Comté
+Renault,Clio,25290,2023,17287,hybride,145,64000.0,43.313159,-0.343106,Pau,Nouvelle-Aquitaine
+Renault,Captur,18990,2022,27317,essence,120,6110.0,,,,
+Renault,Clio,11990,2022,76782,hybride,145,13008.0,43.247182,5.374045,Marseille 8e Arrondissement,
+Renault,Megane,17150,2020,47408,hybride,115,59230.0,50.436464,3.431727,Saint-Amand-les-Eaux,Hauts-de-France
+Renault,Clio,18900,2024,6900,essence,145,41250.0,47.553345,1.449717,Mont-près-Chambord,Centre-Val de Loire
+Renault,Captur,19990,2021,49690,hybride,145,69200.0,45.707095,4.881379,Vénissieux,Auvergne-Rhône-Alpes
+Renault,Captur,24820,2023,17963,essence,160,37600.0,47.122156,0.981834,Loches,Centre-Val de Loire
+Renault,Megane,25999,2022,23405,essence,115,50300.0,48.678396,-1.344601,Avranches,Normandie
+Renault,Captur,27490,2021,47500,essence,160,31600.0,43.446371,1.298368,Muret,Auvergne-Rhône-Alpes
+Nissan,Qashqai,26790,2021,38765,essence,158,17200.0,45.634186,-1.017415,Royan,Nouvelle-Aquitaine
+Renault,Captur,16790,2020,79083,essence,145,92400.0,48.897974,2.257057,Courbevoie,Île-de-France
+Renault,Megane,21990,2019,67000,Diesel,150,83500.0,43.093147,5.879651,La Seyne-sur-Mer,Provence-Alpes-Côte d'Azur
+Nissan,Qashqai,38791,2024,10000,essence,190,91100.0,48.598229,2.465045,Corbeil-Essonnes,Île-de-France
+Renault,Megane,25250,2024,9984,Diesel,115,33600.0,44.787468,-0.675933,Pessac,Nouvelle-Aquitaine
+Peugeot,e-2008,11880,2021,28144,essence,136,67230.0,48.371893,7.595545,Benfeld,Grand Est
+Peugeot,e-2008,17999,2022,27652,essence,136,,47.505522,0.820921,Monnaie,Centre-Val de Loire
+Renault,Captur,17500,2021,71307,essence,140,71100.0,46.792112,4.846002,Chalon-sur-Saône,Bourgogne-Franche-Comté
+Renault,Megane,35390,2022,24780,essence,115,64200.0,43.47144,-1.555081,Biarritz,Nouvelle-Aquitaine
+Renault,Megane,24590,2021,61566,essence,115,42000.0,45.430195,4.370045,Saint-Étienne,Auvergne-Rhône-Alpes
+Mercedes-Benz,Classe C,21299,2021,110528,Diesel,220,68390.0,47.783364,7.378135,Sausheim,Grand Est
+Renault,Megane,24390,2023,5676,essence,140,69140.0,45.818387,4.892817,Rillieux-la-Pape,Auvergne-Rhône-Alpes
+Renault,Captur,41480,2021,49502,essence,160,3100.0,,,,
+Renault,Arkana,19950,2024,7861,essence,140,33520.0,44.881405,-0.60324,Bruges,Nouvelle-Aquitaine
+Peugeot,e-2008,36500,2022,16900,essence,136,,47.505522,0.820921,Monnaie,Centre-Val de Loire
+Renault,Clio,19990,2021,54279,Diesel,145,5000.0,,,,
+Renault,Clio,17490,2022,32582,essence,140,4100.0,,,,
+Nissan,Qashqai,26490,2023,17959,essence,190,49000.0,47.467471,-0.561615,Angers,Pays de la Loire
+Peugeot,e-2008,21490,2021,62112,essence,136,44400.0,47.17269,-1.552789,Rezé,Pays de la Loire
+Peugeot,e-2008,20990,2020,123390,Diesel,136,14000.0,49.184316,-0.37193,Caen,Normandie
+Citroën,C3,26990,2022,24572,essence,113,95340.0,49.151056,2.273863,Persan,Île-de-France
+Renault,Arkana,61900,2020,91236,essence,145,65000.0,43.239085,0.065776,Tarbes,Occitanie
+Nissan,Qashqai,30990,2023,25000,essence,158,17690.0,46.103589,-1.113775,Angoulins,Nouvelle-Aquitaine
+Mercedes-Benz,GLA,46660,2020,50833,essence,250,11000.0,43.206781,2.349415,Carcassonne,Occitanie
+Renault,Clio,13990,2020,99398,essence,90,86440.0,46.623612,0.309819,Migné-Auxances,Nouvelle-Aquitaine
+Renault,Captur,16490,2024,2951,essence,145,83300.0,43.531436,6.460296,Draguignan,Provence-Alpes-Côte d'Azur
+Renault,Megane,26000,2023,28620,essence,115,10200.0,48.232115,4.707135,Bar-sur-Aube,Grand Est
+Renault,Megane,92900,2024,28408,Diesel,115,26200.0,44.553424,4.745639,Montélimar,Auvergne-Rhône-Alpes
+Renault,Clio,22200,2023,24552,essence,140,44190.0,47.092311,-1.27044,Clisson,Pays de la Loire
+Renault,Captur,27480,2021,47078,Diesel,145,93160.0,48.840106,2.551491,Noisy-le-Grand,Île-de-France
+Renault,Captur,21900,2023,16592,essence,160,78190.0,48.778249,1.993009,Trappes,Île-de-France
+Renault,Clio,16490,2024,12235,essence,140,5000.0,,,,
+Renault,Captur,20900,2025,9900,essence,145,91150.0,48.429826,2.156585,Étampes,Île-de-France
+Renault,Clio,23490,2021,134875,essence,145,10200.0,48.232115,4.707135,Bar-sur-Aube,Grand Est
+Renault,Clio,16490,2023,13401,essence,145,14000.0,49.184316,-0.37193,Caen,Normandie
+Renault,Arkana,24990,2022,47422,essence,140,41250.0,47.553345,1.449717,Mont-près-Chambord,Centre-Val de Loire
+Peugeot,e-2008,27490,2024,15553,Diesel,136,56000.0,47.659971,-2.752192,Vannes,Bretagne
+Renault,Clio,16490,2023,14200,essence,140,83100.0,43.129342,5.968125,Toulon,Occitanie
+Renault,Captur,23990,2019,56150,Diesel,145,64100.0,43.488544,-1.466564,Bayonne,Nouvelle-Aquitaine
+Peugeot,e-2008,19990,2020,51504,essence,136,14000.0,49.184316,-0.37193,Caen,Normandie
+Renault,Captur,18990,2022,30674,hybride,160,69200.0,45.707095,4.881379,Vénissieux,Auvergne-Rhône-Alpes
+Mercedes-Benz,GLA,19990,2024,16383,Diesel,200,68390.0,47.783364,7.378135,Sausheim,Grand Est
+Peugeot,e-2008,14990,2024,23100,essence,136,,47.505522,0.820921,Monnaie,Centre-Val de Loire
+Renault,Clio,20790,2020,41735,essence,140,93100.0,48.863728,2.449364,Montreuil,Bourgogne-Franche-Comté
+Renault,Captur,15990,2021,25746,essence,145,63210.0,45.717155,2.902465,Nébouzat,Auvergne-Rhône-Alpes
+Nissan,Qashqai,27900,2023,30167,essence,190,77210.0,48.412892,2.728822,Avon,Île-de-France
+Renault,Captur,18490,2024,6424,essence,115,45770.0,47.946991,1.875843,Saran,Centre-Val de Loire
+Renault,Captur,19990,2023,45821,essence,140,37170.0,47.332303,0.717976,Chambray-lès-Tours,Centre-Val de Loire
+Renault,Captur,24380,2023,19408,Diesel,145,78700.0,49.000025,2.099679,Conflans-Sainte-Honorine,Île-de-France
+Renault,Captur,28880,2021,78630,essence,145,84300.0,43.849364,5.032096,Cavaillon,Provence-Alpes-Côte d'Azur
+Renault,Megane,19990,2022,2639,Diesel,115,83400.0,43.116731,6.20255,Hyères,Provence-Alpes-Côte d'Azur
+Renault,Clio,20990,2024,15967,essence,145,32000.0,43.656961,0.57082,Auch,Occitanie
+Peugeot,e-2008,22990,2022,64594,essence,136,,47.505522,0.820921,Monnaie,Centre-Val de Loire
+Mercedes-Benz,GLA,45990,2020,46258,essence,250,57070.0,49.136824,6.204782,Saint-Julien-lès-Metz,Grand Est
+Renault,Captur,27990,2024,9000,essence,145,69140.0,45.818387,4.892817,Rillieux-la-Pape,Auvergne-Rhône-Alpes
+Peugeot,e-2008,47990,2024,27810,essence,136,76000.0,49.440044,1.093912,Rouen,Normandie
+Peugeot,e-2008,27990,2019,13196,essence,136,83600.0,43.539399,6.690304,Bagnols-en-Forêt,Provence-Alpes-Côte d'Azur
+Renault,Clio,27990,2020,129006,essence,145,63210.0,45.717155,2.902465,Nébouzat,Auvergne-Rhône-Alpes
+Peugeot,e-2008,22490,2022,29332,essence,136,,47.505522,0.820921,Monnaie,Centre-Val de Loire
+Renault,Captur,20489,2022,29578,essence,160,19200.0,45.553678,2.302814,Ussel,Auvergne-Rhône-Alpes
+Renault,Captur,26700,2021,83415,essence,145,52000.0,48.104307,5.129976,Chaumont,Île-de-France
+Renault,Captur,12990,2021,81524,essence,160,72000.0,47.993378,0.191169,Le Mans,Pays de la Loire
+Renault,Clio,14790,2021,47399,Diesel,130,65100.0,43.104761,-0.046139,Lourdes,Occitanie
+Renault,Arkana,32990,2024,8990,essence,145,49000.0,47.467471,-0.561615,Angers,Pays de la Loire
+Peugeot,e-2008,22490,2021,17500,essence,136,66000.0,42.701392,2.902878,Perpignan,Occitanie
+Renault,Captur,16990,2024,16389,essence,145,33210.0,44.535691,-0.241774,Langon,Bretagne
+Peugeot,2008,31990,2020,147047,Diesel,145,67700.0,48.739971,7.369851,Saverne,Grand Est
+Renault,Captur,22490,2017,115194,essence,160,10200.0,48.232115,4.707135,Bar-sur-Aube,Grand Est
+Renault,Clio,25490,2020,116503,Diesel,140,72000.0,47.993378,0.191169,Le Mans,Pays de la Loire
+Renault,Megane,21500,2024,10601,essence,115,64500.0,43.391942,-1.633128,Saint-Jean-de-Luz,Nouvelle-Aquitaine
+Renault,Clio,20690,2021,40071,essence,90,71000.0,46.325859,4.810979,Mâcon,Bourgogne-Franche-Comté
+Renault,Clio,17980,2022,19456,essence,145,78630.0,48.926202,1.978094,Orgeval,Hauts-de-France
+Renault,Arkana,12290,2023,36139,essence,145,91170.0,48.666246,2.374662,Viry-Châtillon,Île-de-France
+Renault,Arkana,51900,2025,10,Diesel,145,47300.0,44.416152,0.747052,Villeneuve-sur-Lot,Nouvelle-Aquitaine
+Renault,Megane E Tech,18990,2022,36809,hybride,160,42000.0,45.430195,4.370045,Saint-Étienne,Auvergne-Rhône-Alpes
+Renault,Captur,20990,2023,30189,essence,160,41250.0,47.553345,1.449717,Mont-près-Chambord,Centre-Val de Loire
+Toyota,C-HR,20990,2021,29011,hybride,185,24000.0,45.19334,0.711299,Périgueux,Nouvelle-Aquitaine
+Renault,Captur,25000,2023,21792,essence,160,49000.0,47.467471,-0.561615,Angers,Pays de la Loire
+Renault,Clio,25999,2019,82017,essence,145,6800.0,,,,
+Citroën,C3,19830,2023,9800,essence,113,22100.0,48.446574,-2.053922,Dinan,Bretagne
+Peugeot,e-2008,31990,2024,9132,essence,136,,47.505522,0.820921,Monnaie,Centre-Val de Loire
+Renault,Clio,17490,2024,22755,essence,140,76000.0,49.440044,1.093912,Rouen,Normandie
+Peugeot,e-2008,16290,2024,11393,hybride,136,17430.0,45.962309,-0.878113,Tonnay-Charente,Nouvelle-Aquitaine
+Renault,Captur,21990,2023,25994,essence,140,69140.0,45.818387,4.892817,Rillieux-la-Pape,Auvergne-Rhône-Alpes
+Renault,Arkana,21480,2023,16950,essence,145,89100.0,48.191828,3.292827,Sens,Bourgogne-Franche-Comté
+Renault,Captur,20390,2023,54444,essence,160,52200.0,47.860319,5.337775,Langres,Grand Est
+Renault,Arkana,23890,2022,27101,essence,145,94170.0,48.8435,2.504424,Le Perreux-sur-Marne,Île-de-France
+Renault,Captur,19999,2024,6829,essence,140,13008.0,43.247182,5.374045,Marseille 8e Arrondissement,
+Renault,Clio,43790,2023,18001,essence,145,47000.0,44.202304,0.631041,Agen,Nouvelle-Aquitaine
+Renault,Captur,29874,2020,50556,essence,140,69140.0,45.818387,4.892817,Rillieux-la-Pape,Auvergne-Rhône-Alpes
+Renault,Clio,14980,2024,4101,essence,145,4100.0,,,,
+Citroën,C3,36900,2023,37092,Diesel,113,61000.0,48.429859,0.092935,Alençon,Normandie
+Renault,Clio,15490,2021,41672,essence,130,78190.0,48.778249,1.993009,Trappes,Île-de-France
+Renault,Clio,20890,2024,4500,hybride,140,7200.0,,,,
+Peugeot,e-2008,19790,2021,95785,essence,136,,47.505522,0.820921,Monnaie,Centre-Val de Loire
+Renault,Captur,20499,2022,20662,essence,120,34420.0,43.324569,3.280901,Villeneuve-lès-Béziers,Occitanie
+Peugeot,e-2008,18990,2020,90269,essence,136,83600.0,43.539399,6.690304,Bagnols-en-Forêt,Provence-Alpes-Côte d'Azur
+Peugeot,e-2008,26990,2021,90091,Diesel,136,34000.0,43.610476,3.87048,Montpellier,Occitanie
+Renault,Captur,60990,2024,6913,essence,160,92140.0,48.796102,2.25475,Clamart,Île-de-France
+Renault,Megane,23950,2024,32667,Diesel,115,33520.0,44.881405,-0.60324,Bruges,Nouvelle-Aquitaine
+Renault,Captur,30490,2021,38785,essence,160,83160.0,43.143841,5.990889,La Valette-du-Var,Provence-Alpes-Côte d'Azur
+Peugeot,e-2008,16990,2022,64140,essence,136,8000.0,,,,
+Nissan,Qashqai,28190,2023,25662,essence,190,77210.0,48.412892,2.728822,Avon,Île-de-France
+Renault,Arkana,18299,2020,71839,Diesel,140,41250.0,47.553345,1.449717,Mont-près-Chambord,Centre-Val de Loire
+Renault,Captur,25989,2025,7500,essence,145,72000.0,47.993378,0.191169,Le Mans,Pays de la Loire
+Renault,Clio,21990,2022,29954,essence,90,77600.0,48.839173,2.715779,Bussy-Saint-Georges,Île-de-France
+Renault,Captur,24890,2021,34276,essence,145,33140.0,44.77508,-0.55453,Villenave-d'Ornon,Nouvelle-Aquitaine
+Renault,Captur,37790,2023,62847,essence,145,65100.0,43.104761,-0.046139,Lourdes,Occitanie
+Renault,Captur,16690,2023,15000,hybride,145,13120.0,43.457301,5.48627,Gardanne,Provence-Alpes-Côte d'Azur
+Renault,Captur,23490,2020,49333,essence,145,50110.0,49.632965,-1.529136,Digosville,Normandie
+Renault,Captur,28590,2024,4803,essence,145,76600.0,49.507345,0.129995,Le Havre,Normandie
+Renault,Captur,18390,2023,20450,essence,145,78190.0,48.778249,1.993009,Trappes,Île-de-France
+Renault,Arkana,24390,2024,17530,essence,145,6150.0,,,,
+Renault,Arkana,24990,2022,59615,essence,145,44210.0,47.123874,-2.054329,Pornic,Pays de la Loire
+Renault,Captur,23990,2023,21670,essence,145,41000.0,47.581246,1.316402,Blois,Centre-Val de Loire
+Mercedes-Benz,GLA,35398,2024,10562,essence,250,74100.0,46.189327,6.243054,Annemasse,Auvergne-Rhône-Alpes
+Peugeot,2008,30900,2024,9503,essence,130,67700.0,48.739971,7.369851,Saverne,Grand Est
+Renault,Clio,23790,2022,23164,essence,145,64200.0,43.47144,-1.555081,Biarritz,Nouvelle-Aquitaine
+Renault,Captur,23000,2023,25947,essence,145,21400.0,47.863953,4.584361,Châtillon-sur-Seine,Bourgogne-Franche-Comté
+Renault,Captur,16990,2023,46831,essence,140,78700.0,49.000025,2.099679,Conflans-Sainte-Honorine,Île-de-France
+Renault,Megane,24990,2024,17142,Diesel,115,26200.0,44.553424,4.745639,Montélimar,Auvergne-Rhône-Alpes
+Nissan,Qashqai,29900,2024,21920,essence,190,77210.0,48.412892,2.728822,Avon,Île-de-France
+Renault,Captur,27500,2024,14036,Diesel,160,49000.0,47.467471,-0.561615,Angers,Pays de la Loire
+Renault,Captur,11990,2025,9900,essence,160,59230.0,50.436464,3.431727,Saint-Amand-les-Eaux,Hauts-de-France
+Renault,Clio,19490,2024,4820,Diesel,145,64100.0,43.488544,-1.466564,Bayonne,Nouvelle-Aquitaine
+Renault,Megane,24490,2022,64215,Diesel,140,71400.0,46.938842,4.304399,Autun,Bourgogne-Franche-Comté
+Renault,Captur,16490,2022,25990,Diesel,145,47300.0,44.416152,0.747052,Villeneuve-sur-Lot,Nouvelle-Aquitaine
+Renault,Clio,21490,2024,9500,essence,145,14000.0,49.184316,-0.37193,Caen,Normandie
+Renault,Arkana,20890,2024,5334,hybride,145,83300.0,43.531436,6.460296,Draguignan,Provence-Alpes-Côte d'Azur
+Renault,Megane,31270,2024,17090,essence,115,10200.0,48.232115,4.707135,Bar-sur-Aube,Grand Est

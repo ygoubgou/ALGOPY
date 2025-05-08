@@ -10,3 +10,6 @@ Etape1: webscraping
 Etape2: Travail sur les données et enrichissement via une API
 
 Etape3: Déploiement avec proposition de visualisation
+
+
+faire attention dans l'entrainement des modeles, j'ai déplacé les données
